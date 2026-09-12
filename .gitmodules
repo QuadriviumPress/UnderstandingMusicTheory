@@ -1,0 +1,6 @@
+[submodule "schmidt-jones-sources/cnxbook-introduction-to-music-theory"]
+	path = schmidt-jones-sources/cnxbook-introduction-to-music-theory
+	url = https://github.com/cnx-user-books/cnxbook-introduction-to-music-theory.git
+[submodule "schmidt-jones-sources/cnxbook-understanding-basic-music-theory"]
+	path = schmidt-jones-sources/cnxbook-understanding-basic-music-theory
+	url = https://github.com/cnx-user-books/cnxbook-understanding-basic-music-theory.git
