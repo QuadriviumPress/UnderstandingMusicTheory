@@ -18,7 +18,7 @@ A rhythmic, organized set of thuds and crashes is perfectly good music - think o
 
 However, to get the melodic kind of sounds more often associated with music, the sound waves must themselves be organized and regular, not random mixtures. Most of the sounds we hear are brought to our ears through the air. A movement of an object causes a disturbance of the normal motion of the air molecules near the object. Those molecules in turn disturb other nearby molecules out of their normal patterns of random motion, so that the disturbance itself becomes a thing that moves through the air - a sound wave. If the movement of the object is a fast, regular vibration, then the sound waves are also very regular. We hear such regular sound waves as *tones*, sounds with a particular [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md). It is this kind of sound that we most often associate with music, and that many musical instruments are designed to make.
 
-![Music notation example](../images/cnx/3255fdfd457b56d4ac1885fa0ffc56f37ee450f7.png)
+![An irregular noise waveform above a smooth, evenly repeating tone waveform.](../images/notation/noise-and-tone-waveforms.svg)
 
 A random jumble of sound waves is heard as a noise. A regular, evenly-spaced sound wave is heard as a tone.
 
@@ -32,7 +32,7 @@ So what are we talking about when we speak of sound waves? Waves are disturbance
 
 Most kinds of waves are *transverse* waves. In a transverse wave, as the wave is moving in one direction, it is creating a disturbance in a different direction. The most familiar example of this is waves on the surface of water. As the wave travels in one direction - say south - it is creating an up-and-down (not north-and-south) motion on the water\'s surface. This kind of wave is fairly easy to draw; a line going from left-to-right has up-and-down wiggles. (See the referenced item.)
 
-![Music notation example](../images/cnx/87fc144fb9a501e2269617319472d5543b51a420.png)
+![Longitudinal compressions and a transverse sine wave both moving left to right; transverse peaks are labelled high and low.](../images/notation/transverse-and-longitudinal-waves.svg)
 
 In water waves and other <em>transverse waves</em>, the ups and downs are in a different direction from the forward movement of the wave. The "highs and lows" of sound waves and other <em>longitudinal waves</em> are arranged in the "forward" direction.
 
@@ -46,13 +46,13 @@ The result of these \"forward and backward\" waves is that the \"high point\" of
 
 Both transverse and longitudinal waves cause a *displacement* of something: air molecules, for example, or the surface of the ocean. The amount of displacement at any particular spot changes as the wave passes. If there is no wave, or if the spot is in the same state it would be in if there was no wave, there is no displacement. Displacement is biggest (furthest from \"normal\") at the highest and lowest points of the wave. In a sound wave, then, there is no displacement wherever the air molecules are at a normal density. The most displacement occurs wherever the molecules are the most crowded or least crowded.
 
-![Music notation example](../images/cnx/d9d282a798bfcd3b0b60329222e1bc0c72659209.png)
+![A wave diagram marking amplitude, wavelength, zero-displacement crossings, and maximum-displacement peaks and troughs.](../images/notation/amplitude-wavelength-and-displacement.svg)
 
 The *amplitude* of the wave is a measure of the displacement: how big is the change from no displacement to the peak of a wave? Are the waves on the lake two inches high or two feet? Are the air molecules bunched very tightly together, with very empty spaces between the waves, or are they barely more organized than they would be in their normal course of bouncing off of each other? Scientists measure the amplitude of sound waves in *decibels*. Leaves rustling in the wind are about 10 decibels; a jet engine is about 120 decibels.
 
 Musicians call the loudness of a note its *dynamic level*. *Forte* (pronounced \"FOR-tay\") is a loud dynamic level; *piano* is soft. Dynamic levels don\'t correspond to a measured decibel level. An orchestra playing \"fortissimo\" (which basically means \"even louder than forte\") is going to be quite a bit louder than a string quartet playing \"fortissimo\". (See [Dynamics](ch-15-dynamics-and-accents.md) for more of the terms that musicians use to talk about loudness.) Dynamics are more of a performance issue than a music theory issue, so amplitude doesn\'t need much discussion here.
 
-![Music notation example](../images/cnx/582059d7c9ff6cc4f68e0e34f31334de997b3225.png)
+![Two waves of equal frequency: the larger-amplitude wave is labelled louder and the smaller-amplitude wave softer.](../images/notation/wave-amplitude-and-loudness.svg)
 
 The size of a wave (how much it is "piled up" at the high points) is its <em>amplitude</em>. For sound waves, the bigger the amplitude, the louder the sound.
 
@@ -62,7 +62,7 @@ The aspect of evenly-spaced sound waves that really affects music theory is the 
 
 All sound waves are travelling at about the same speed - the speed of sound. So waves with a shorter wavelength arrive (at your ear, for example) more often (frequently) than longer waves. This aspect of a sound - how often a peak of a wave goes by, is called *frequency* by scientists and engineers. They measure it in *hertz*, which is how many peaks go by per second. People can hear sounds that range from about 20 to about 17,000 hertz.
 
-![Music notation example](../images/cnx/f882296c6ffb55550eea86029fdf3d0472f446e5.png)
+![Short waves arrive more frequently and make a high sound; long waves arrive less frequently and make a low sound.](../images/notation/wavelength-frequency-and-pitch.svg)
 
 Since the sounds are travelling at about the same speed, the one with the shorter wavelength "waves" more frequently; it has a higher frequency, or pitch. In other words, it sounds higher.
 

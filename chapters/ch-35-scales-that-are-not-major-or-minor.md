@@ -36,13 +36,13 @@ The [Western](ch-24-classifying-music.md) musical tradition that developed in Eu
 
 In the *chromatic scale*, every [interval](ch-32-interval.md) is a [half step](ch-29-half-steps-and-whole-steps.md). This scale gives all the [sharp, flat, and natural](ch-03-pitch-sharp-flat-and-natural-notes.md) notes commonly used in all Western music. It is also the *twelve-tone scale* used by twentieth-century composers to create their [atonal music](ch-24-classifying-music.md). Young instrumentalists are encouraged to practice playing the chromatic scale in order to ensure that they know the fingerings for all the notes. Listen to a [chromatic scale](../images/cnx/7b3ed2ffb1df2da8af1c3a61ab531a5b892bb82a.midi).
 
-![Music notation example](../images/cnx/5fc8361206735d496da5e05f44513098a36d8b3f.png)
+![Ascending chromatic scale from C to C, with every interval a half step.](../images/notation/ascending-chromatic-scale.svg)
 
 The chromatic scale includes all the pitches normally found in Western music. Note that, because of <a href="ch-05-enharmonic-spelling.md">enharmonic</a> spelling, many of these pitches could be written in a different way (for example, using flats instead of sharps).
 
 In a *whole tone scale*, every interval is a [whole step](ch-29-half-steps-and-whole-steps.md). In both the chromatic and the whole tone scales, all the intervals are the same. This results in scales that have no [tonal center](ch-30-major-keys-and-scales.md); no note feels more or less important than the others. Because of this, most traditional and popular Western music uses major or minor scales rather than the chromatic or whole tone scales. But composers who don\'t want their music to have a tonal center (for example, many composers of \"modern classical\" music) often use these scales. Listen to a [whole tone scale](../images/cnx/5d3f73f105368468fcb0c83cf05c2ab6db284a33.midi).
 
-![Music notation example](../images/cnx/f5abaf8d7b97faf6bf1cdfc22af3397be9807f33.png)
+![Ascending whole-tone scale from C to C using only whole steps.](../images/notation/ascending-whole-tone-scale.svg)
 
 Because all the intervals are the same, it doesn't matter much where you begin a chromatic or whole tone scale. For example, this scale would contain the same notes whether you start it on C or E.
 

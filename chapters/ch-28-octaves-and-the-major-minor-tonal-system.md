@@ -14,7 +14,7 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 Musical notes, like all sounds, are made of sound waves. The sound waves that make musical notes are very evenly-spaced waves, and the qualities of these regular waves - for example how big they are or how far apart they are - affect the sound of the note. A note can be high or low, depending on how often (how frequently) one of its waves arrives at your ear. When scientists and engineers talk about how high or low a sound is, they talk about its [frequency](https://cnx.org/content/m11060#p1e). The higher the *frequency* of a note, the higher it sounds. They can measure the frequency of notes, and like most measurements, these will be numbers, like \"440 vibrations per second.\"
 
-![Music notation example](../images/cnx/d1156e89d761fd0b2c7989ae3f41998b094037e5.png)
+![Short, medium, and long wind instruments beside correspondingly short, medium, and long sound waves, illustrating higher to lower pitch.](../images/notation/instrument-length-wavelength-and-pitch.svg)
 
 A sound that has a shorter wavelength has a higher frequency and a higher pitch.
 
@@ -26,7 +26,7 @@ Now some women join in the song. They can\'t sing where the men are singing; tha
 
 Notes that are one octave apart are so closely related to each other that musicians give them the same name. A note that is an octave higher or lower than a note named \"C natural\" will also be named \"C natural\". A note that is one (or more) octaves higher or lower than an \"F sharp\" will also be an \"F sharp\". (For more discussion of how notes are related because of their frequencies, see [The Harmonic Series](https://cnx.org/content/m11118), [Standing Waves and Musical Instruments](ch-26-standing-waves-and-musical-instruments.md), and [Standing Waves and Wind Instruments](https://cnx.org/content/m12589).)
 
-![Music notation example](../images/cnx/6347bf784fdbeb47837008e0094e0f22a269aa69.png)
+![A lower wave and a wave one octave higher aligned at regular boundaries; the higher wave completes two cycles for each lower-wave cycle.](../images/notation/octave-wave-alignment.svg)
 
 When two notes are one octave apart, one has a frequency exactly two times higher than the other - it has twice as many waves. These waves fit together so well, in the instrument, and in the air, and in your ears, that they sound almost like different versions of the same note.
 
@@ -44,7 +44,7 @@ The octave below contra can be labelled CCC or Co; higher octaves can be labelle
 
 > **Example**
 >
-> ![Music notation example](../images/cnx/3c685067aa0d4183c9daa43d662382ef87efc702.png)
+> ![Eight notes labelled in Helmholtz notation: g¹, f², f³, b, f, d¹, A, and BB, with a change from treble to bass clef.](../images/notation/helmholtz-octave-naming-example.svg)
 >
 > Each note is considered to be in the same octave as the C below it.
 >
@@ -55,12 +55,12 @@ The octave below contra can be labelled CCC or Co; higher octaves can be labelle
 > >
 > > Give the correct octave name for each note.
 > >
-> > ![Music notation example](../images/cnx/9ccaa35c2e2f92fdf3c76c341017b4aa750c273e.png)
+> > ![Sixteen notes on treble and bass staves to identify using Helmholtz octave names.](../images/notation/octave-naming-practice.svg)
 > >
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/ed856404348dfc76ae8067fe2bd38f568a480dea.png)
+> > ![The octave-naming exercise answered with e¹, d², B, f, b¹, g, g², d³, d, G, AA, E, e¹, a, FF, and a¹.](../images/notation/octave-naming-practice-solutions.svg)
 > >
 
 ## Dividing the Octave into Scales
@@ -71,7 +71,7 @@ You may be thinking \"OK, that\'s twelve notes; that still has nothing to do wit
 
 Now take a look at the piano keyboard. Only seven letter names are used to name notes: A, B, C, D, E, F, and G. The eighth note would, of course, be the next A, beginning the next octave. To name the other notes, the notes on the black piano keys, you have to use a [sharp or flat](ch-03-pitch-sharp-flat-and-natural-notes.md) sign.
 
-![Music notation example](../images/cnx/ab320208243366fcd4af5e9894a9766f2b219d97.png)
+![One octave of piano keys from A through the next A, numbered one through eight, with black keys labelled by sharp and flat enharmonic names.](../images/notation/piano-key-names-with-sharps-and-flats.svg)
 
 The white keys are the natural notes. Black keys can only be named using sharps or flats. The pattern repeats at the eighth tone of a scale, the octave.
 

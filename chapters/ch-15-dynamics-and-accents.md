@@ -34,6 +34,6 @@ Here are three different ways to write the same thing: start softly (piano), gra
 
 A composer may want a particular note to be louder than all the rest, or may want the very beginning of a note to be loudest. *Accents* are markings that are used to indicate these especially-strong-sounding notes. There are a few different types of written accents (see the referenced item), but, like dynamics, the proper way to perform a given accent also depends on the instrument playing it, as well as the style and period of the music. Some accents may even be played by making the note longer or shorter than the other notes, in addition to, or even instead of being, louder. (See [articulation](ch-16-articulation.md) for more about accents.)
 
-![Music notation example](../images/cnx/daecca1456c88bc1862974a0fab72ff6b9043f84.png)
+![A six-eight passage showing ordinary accents, caret accents, sforzando, and fortepiano markings.](../images/notation/accent-marking-types.svg)
 
 The exact performance of each type of accent depends on the instrument and the style and period of the music, but the sforzando and fortepiano-type accents are usually louder and longer, and more likely to be used in a long note that starts loudly and then suddenly gets much softer. Caret-type accents are more likely to be used to mark shorter notes that should be stronger than unmarked notes.

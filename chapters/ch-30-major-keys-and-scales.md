@@ -57,7 +57,7 @@ To find the rest of the notes in a major key, start at the tonic and go up follo
 >
 > These major scales all follow the same pattern of whole steps and half steps. They have different sets of notes because the pattern starts on different notes.
 >
-> ![Music notation example](../images/cnx/31c995861b2dffd208346e79492b348278fc3c21.png)
+> ![C major, D major, and E flat major scales illustrating the whole-whole-half-whole-whole-whole-half pattern.](../images/notation/major-scale-step-pattern-examples.svg)
 >
 > All major scales have the same pattern of half steps and whole steps, beginning on the note that names the scale - the tonic.
 >
@@ -71,16 +71,16 @@ To find the rest of the notes in a major key, start at the tonic and go up follo
 > >
 > > If you need staff paper for this exercise, you can print out this [staff paper](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf) PDF file.
 > >
-> > ![Music notation example](../images/cnx/5fe66d86c6389d14990425c15ae7fb3b3a57697a.png)
+> > ![Eight starting notes for writing C, G, B flat, C sharp, F sharp, G flat, D, and D flat major scales.](../images/notation/major-scale-starting-notes-practice.svg)
 > >
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/33960a69fd3a1c138c9f46079f7a2c93120c758b.png)
+> > ![Ascending C, G, B flat, C sharp, F sharp, G flat, D, and D flat major scales with accidentals.](../images/notation/major-scale-writing-solutions.svg)
 > >
 > > Notice that although they look completely different, the scales of F sharp major and G flat major (numbers 5 and 6) sound exactly the same when played, on a piano as shown in the referenced item, or on any other instrument using [equal temperament](ch-44-tuning-systems.md) tuning. If this surprises you, please read more about [enharmonic](ch-05-enharmonic-spelling.md) scales.
 > >
-> > ![Music notation example](../images/cnx/f01bba67e1e7c2db689d526b14cff7a4a3ff2731.png)
+> > ![Piano keyboard labeling the same keys with the enharmonic spellings of F sharp major and G flat major.](../images/notation/enharmonic-f-sharp-g-flat-major-keyboard.svg)
 > >
 > > Using this figure of a keyboard, or the fingerings from your own instrument, notice that the notes for the F sharp major scale and the G flat major scale in [link], although spelled differently, will sound the same.
 > >
@@ -95,11 +95,11 @@ In the examples above, the sharps and flats are written next to the notes. In co
 
 What difference does key make? Since the major scales all follow the same pattern, they all sound very much alike. Here is the tune \"Row, Row, Row Your Boat\", written in G major and also in D major.
 
-![Music notation example](../images/cnx/69649de4d01e03b1a54bb17cfdf8d9c209999c25.png)
+![Row, Row, Row Your Boat notated in G major on two six-eight staves.](../images/notation/row-row-row-your-boat-g-major.svg)
 
 In G Major
 
-![Music notation example](../images/cnx/a94f0c85403290b9f224235520bb523cac694b58.png)
+![Row, Row, Row Your Boat transposed to D major on two six-eight staves.](../images/notation/row-row-row-your-boat-d-major.svg)
 
 In D Major
 

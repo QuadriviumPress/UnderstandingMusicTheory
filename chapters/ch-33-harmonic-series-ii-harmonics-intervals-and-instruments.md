@@ -14,7 +14,7 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 The names of the various intervals, and the way they are written on the staff, are mostly the result of a long history of evolving musical notation and theory. But the actual intervals - the way the notes sound - are not arbitrary accidents of history. Like octaves, the other intervals are also produced by the harmonic series. Recall that the frequencies of any two pitches that are one [octave](ch-28-octaves-and-the-major-minor-tonal-system.md) apart have a 2:1 ratio. (See [Harmonic Series I](ch-27-harmonic-series-i-timbre-and-octaves.md) to review this.) Every other [interval](ch-32-interval.md) that musicians talk about can also be described as having a particular frequency ratio. To find those ratios, look at a harmonic series written in [common notation](ch-01-the-staff.md).
 
-![Music notation example](../images/cnx/d7d88dada170cabb40a5168da677a7d94fdcb92d.png)
+![The first sixteen harmonics ascend from low C through closely spaced upper partials.](../images/notation/harmonic-series-one-through-sixteen.svg)
 
 Look at the third harmonic in the referenced item. Its frequency is three times the frequency of the first harmonic (ratio 3:1). Remember, the frequency of the second harmonic is two times that of the first harmonic (ratio 2:1). In other words, there are two waves of the higher C for every one wave of the lower C, and three waves of the third-harmonic G for every one wave of the fundamental. So the [ratio](https://cnx.org/content/m11808) of the frequencies of the second to the third harmonics is 2:3. (In other words, two waves of the C for every three of the G.) From the harmonic series shown above, you can see that the [interval](ch-32-interval.md) between these two notes is a [perfect fifth](ch-32-interval.md). The ratio of the frequencies of all perfect fifths is 2:3.
 
@@ -50,7 +50,7 @@ But a brass player, without changing the length of the instrument, gets differen
 
 It is the brass instruments that excel in getting different notes from the same length of tubing. The sound of a brass instruments starts with vibrations of the player\'s lips. By vibrating the lips at different speeds, the player can cause a harmonic of the air column to sound instead of the fundamental. Thus a bugle player can play any note in the harmonic series of the instrument that falls within the player\'s range. Compare these well-known bugle calls to the harmonic series above.
 
-![Music notation example](../images/cnx/b486203049c855e0c049ef8dbd7b63b77c827f07.png)
+![Short notated excerpts of the bugle calls Assembly and Taps use only notes of one harmonic series.](../images/notation/bugle-calls-from-harmonic-series.svg)
 
 Although limited by the fact that it can only play one harmonic series, the bugle can still play many well-known tunes.
 
@@ -60,7 +60,7 @@ For centuries, all brass instruments were valveless. A brass instrument could pl
 >
 > [Trombones](https://cnx.org/content/m12602) still use a slide instead of valves to make their instrument longer. But the basic principle is still the same. At each slide \"position\", the instrument gets a new harmonic series. The notes in between the positions aren\'t part of the chromatic scale, so they are usually only used for special effects like *glissandos* (sliding notes).
 
-![Music notation example](../images/cnx/72da008accbc59a9f87e758ae9df1cca1fec2cf4.png)
+![Four harmonic series compare no valves with valve combinations that lower the series.](../images/notation/brass-valve-harmonic-series.svg)
 
 These harmonic series are for a brass instrument that has a "C" fundamental when no valves are being used - for example, a C trumpet. Remember, there is an entire harmonic series for every fundamental, and any note can be a fundamental. You just have to find the brass tube with the right length. So a trumpet or tuba can get one harmonic series using no valves, another one a half step lower using one valve, another one a whole step lower using another valve, and so on. By the time all the combinations of valves are used, there is some way to get an in-tune version of every note they need.
 
@@ -74,7 +74,7 @@ These harmonic series are for a brass instrument that has a "C" fundamental when
 > >
 > > Opening both first and second valves gives the harmonic series one-and-a-half steps lower than \"no valves\".
 > >
-> > ![Music notation example](../images/cnx/74be71ab69d9e91436d322a2526bb0cfe55ddf04.png)
+> > ![Opening the first and second valves produces a harmonic series one and a half steps lower.](../images/notation/combined-valves-harmonic-series.svg)
 > >
 
 > **Note**
@@ -89,6 +89,6 @@ Normally a string player holds a string down very tightly. This shortens the len
 
 To \"play a harmonic\", the string is touched very, very lightly instead. The length of the string does not change. Instead, the light touch interferes with all of the vibrations that don\'t have a [node](ch-26-standing-waves-and-musical-instruments.md) at that spot.
 
-![Music notation example](../images/cnx/48fcee2683006bd15bb81c5f8806c034e40f7993.png)
+![Standing-wave diagrams compare an open string with a string lightly touched at a node.](../images/notation/string-harmonics-nodes.svg)
 
 The thinner, quieter sound of \"playing harmonics\" is caused by the fact that much of the harmonic series is missing from the sound, which will of course affect the [timbre](ch-18-timbre.md). Lightly touching the string in most places will result in no sound at all. This technique only works well at places on the string where a main harmonic (one of the longer, louder lower-numbered harmonics) has a node. Some string players can get more harmonics by both holding the string down in one spot and touching it lightly in another spot, but this is an advanced technique.

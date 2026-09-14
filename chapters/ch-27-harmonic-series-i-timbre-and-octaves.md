@@ -18,7 +18,7 @@ Have you ever wondered how a [trumpet](https://cnx.org/content/m12606) plays so 
 
 Most musical notes are sounds that have a particular [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md). The pitch depends on the main [frequency](ch-25-acoustics-for-music-theory.md) of the sound; the higher the frequency, and shorter the [wavelength](ch-25-acoustics-for-music-theory.md), of the sound waves, the higher the pitch is. But musical sounds don\'t have just one frequency. Sounds that have only one frequency are not very interesting or pretty. They have no more musical [color](ch-18-timbre.md) than the beeping of a watch alarm. On the other hand, sounds that have too many frequencies, like the sound of glass breaking or of ocean waves crashing on a beach, may be interesting and even pleasant. But they don\'t have a particular pitch, so they usually aren\'t considered musical notes.
 
-![Music notation example](../images/cnx/d1156e89d761fd0b2c7989ae3f41998b094037e5.png)
+![Short, medium, and long wind instruments beside correspondingly short, medium, and long sound waves, illustrating higher to lower pitch.](../images/notation/instrument-length-wavelength-and-pitch.svg)
 
 The shorter the wavelength, and higher the frequency, the higher the note sounds.
 
@@ -42,7 +42,7 @@ Where do the harmonics, and the timbre, come from? When a string vibrates, the m
 >
 > This method of naming and numbering harmonics is the most straightforward and least confusing, but there are other ways of naming and numbering harmonics, and this can cause confusion. Some musicians do not consider the fundamental to be a harmonic; it is just the fundamental. In that case, the string halves will give the first harmonic, the string thirds will give the second harmonic and so on. When the fundamental is included in calculations, it is called the first *partial*, and the rest of the harmonics are the second, third, fourth partials and so on. Also, some musicians use the term *overtones* as a synonym for harmonics. For others, however, an overtone is any frequency (not necessarily a harmonic) that can be heard resonating with the fundamental. The sound of a gong or cymbals will include overtones that aren\'t harmonics; that\'s why the gong\'s sound doesn\'t seem to have as definite a pitch as the vibrating string does. If you are uncertain what someone means when they refer to \"the second harmonic\" or \"overtones\", ask for clarification.
 
-![Music notation example](../images/cnx/4c5da51d92f04c619005c9a2d674d36e27ace398.png)
+![A fixed string vibrating simultaneously as a whole and in halves, thirds, and fourths, with each pattern labelled by harmonic number.](../images/notation/simultaneous-string-harmonics.svg)
 
 The fundamental pitch is produced by the whole string vibrating back and forth. But the string is also vibrating in halves, thirds, quarters, fifths, and so on, producing <em>harmonics</em>. All of these vibrations happen at the same time, producing a rich, complex, interesting sound.
 
@@ -56,7 +56,7 @@ A column of air vibrating inside a tube is different from a vibrating string, bu
 
 A harmonic series can have any note as its fundamental, so there are many different harmonic series. But the relationship between the frequencies of a harmonic series is always the same. The second harmonic always has exactly half the wavelength (and twice the frequency) of the fundamental; the third harmonic always has exactly a third of the wavelength (and so three times the frequency) of the fundamental, and so on. For more discussion of wavelengths and frequencies, see [Acoustics for Music Theory](ch-25-acoustics-for-music-theory.md).
 
-![Music notation example](../images/cnx/6e98c07a7efbb518d9a08be043a9311988da9a98.png)
+![Six equal-length waveforms labelled one through six, with frequency increasing in integer multiples of the fundamental.](../images/notation/harmonic-frequency-waveforms.svg)
 
 The second harmonic has half the wavelength and twice the frequency of the first. The third harmonic has a third the wavelength and three times the frequency of the first. The fourth harmonic has a quarter the wavelength and four times the frequency of the first, and so on. Notice that the fourth harmonic is also twice the frequency of the second harmonic, and the sixth harmonic is also twice the frequency of the third harmonic.
 

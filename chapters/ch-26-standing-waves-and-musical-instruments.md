@@ -20,7 +20,7 @@ But when the wave encounters something, it can bounce (reflection) or be bent (r
 
 Why are trapped waves useful for music? Any bunch of sound waves will produce some sort of noise. But to be a *tone* - a sound with a particular [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md) - a group of sound waves has to be very regular, all exactly the same distance apart. That\'s why we can talk about the [frequency](ch-25-acoustics-for-music-theory.md) and [wavelength](ch-25-acoustics-for-music-theory.md) of tones.
 
-![Music notation example](../images/cnx/3255fdfd457b56d4ac1885fa0ffc56f37ee450f7.png)
+![An irregular noise waveform above a smooth, evenly repeating tone waveform.](../images/notation/noise-and-tone-waveforms.svg)
 
 A noise is a jumble of sound waves. A tone is a very regular set of waves, all the same size and same distance apart.
 
@@ -38,7 +38,7 @@ In order to get the necessary constant reinforcement, the container has to be th
 
 For any narrow \"container\" of a particular length, there are plenty of possible standing waves that don\'t fit. But there are also many standing waves that do fit. The longest wave that fits it is called the *fundamental*. It is also called the *first harmonic*. The next longest wave that fits is the *second harmonic*, or the *first overtone*. The next longest wave is the *third harmonic*, or *second overtone*, and so on.
 
-![Music notation example](../images/cnx/aa67fb155f2f0a86a459138ef2af6da96c5b86d0.png)
+![The first four standing-wave patterns: fundamental or first harmonic, then the first, second, and third overtones.](../images/notation/harmonic-series-standing-waves.svg)
 
 There is a whole set of standing waves, called <em>harmonics</em>, that will fit into any "container" of a specific length. This set of waves is called a <em>harmonic series</em>.
 
@@ -48,13 +48,13 @@ Notice that it doesn\'t matter what the length of the fundamental is; the waves 
 
 You may have noticed an interesting thing in the animation of standing waves: there are spots where the \"water\" goes up and down a great deal, and other spots where the \"water level\" doesn\'t seem to move at all. All standing waves have places, called *nodes*, where there is no wave motion, and *antinodes*, where the wave is largest. It is the placement of the nodes that determines which wavelengths \"fit\" into a musical instrument \"container\".
 
-![Music notation example](../images/cnx/2cebbec9e75194690ae93a7479c224f1a9ceb90c.png)
+![Two opposite phases of a standing wave, with fixed nodes at their crossings and antinodes at their widest separations.](../images/notation/standing-wave-nodes-and-antinodes.svg)
 
 As a standing wave waves back and forth (from the red to the blue position), there are some spots called <em>nodes</em> that do not move at all; basically there is no change, no waving up-and-down (or back-and-forth), at these spots. The spots at the biggest part of the wave - where there is the most change during each wave - are called <em>antinodes</em>.
 
 One \"container\" that works very well to produce standing waves is a thin, very taut string that is held tightly in place at both ends. Since the string is taut, it vibrates quickly, producing sound waves, if you pluck it, or rub it with a bow. Since it is held tightly at both ends, that means there has to be a node at each end of the string. Instruments that produce sound using strings are called [chordophones](https://cnx.org/content/m11896#s21), or simply [strings](https://cnx.org/content/m11897#s11).
 
-![Music notation example](../images/cnx/e60460159d584b4cee88054dd5b5b21f26360e82.png)
+![Whole, half, third, and fourth standing waves fit a fixed string because both ends are nodes; two offset waves do not fit.](../images/notation/standing-waves-that-fit-a-string.svg)
 
 A string that's held very tightly at both ends can only vibrate at very particular wavelengths. The whole string can vibrate back and forth. It can vibrate in halves, with a node at the middle of the string as well as each end, or in thirds, fourths, and so on. But any wavelength that doesn't have a node at each end of the string, can't make a standing wave on the string. To get any of those other wavelengths, you need to change the length of the vibrating string. That is what happens when the player holds the string down with a finger, changing the vibrating length of the string and changing where the nodes are.
 
@@ -74,7 +74,7 @@ The fundamental wave is the one that gives a string its [pitch](ch-03-pitch-shar
 > 2.  The new sound wave is shorter, so its frequency is higher.
 > 3.  It sounds higher; it has a higher pitch.
 >
-> ![Music notation example](../images/cnx/e0b9eed69d190c563d6d76312a33fbfa5dbc8412.png)
+> ![A long string and a finger-shortened string, each vibrating between fixed nodes; the shorter string has the shorter wavelength.](../images/notation/shortened-vibrating-string.svg)
 >
 > When a finger holds the string down tightly, the finger becomes the new end of the vibrating part of the string. The vibrating part of the string is shorter, and the whole set of sound waves it makes is shorter.
 >
@@ -85,13 +85,13 @@ The string disturbs the air molecules around it as it vibrates, producing sound 
 
 If it is possible, have a reed player and a brass player demonstrate to you the sounds that their mouthpieces make without the instrument. This will be a much \"noisier\" sound, with lots of extra frequencies in it that don\'t sound very musical. But, when you put the mouthpiece on an instrument shaped like a tube, only some of the sounds the mouthpiece makes are the right length for the tube. Because of feedback from the instrument, the only sound waves that the mouthpiece can produce now are the ones that are just the right length to become *standing waves* in the instrument, and the \"noise\" is refined into a musical tone.
 
-![Music notation example](../images/cnx/ee9aecb40a9a873169c66730312aa16f7ee68e2a.png)
+![Three closed-open tube standing waves shown first as transverse displacement curves, then as paired diagrams of air moving in opposite directions.](../images/notation/wind-instrument-displacement-standing-waves.svg)
 
 Standing Waves in a wind instrument are usually shown as displacement waves, with nodes at closed ends where the air cannot move back-and-forth.
 
 The standing waves in a wind instrument are a little different from a vibrating string. The wave on a string is a *transverse wave*, moving the string back and forth, rather than moving up and down along the string. But the wave inside a tube, since it is a sound wave already, is a *longitudinal wave*; the waves do not go from side to side in the tube. Instead, they form along the length of the tube.
 
-![Music notation example](../images/cnx/6b12a444aaa164fe7d1a98fa4f84eebd6aa3c9c5.png)
+![Three closed-open tube harmonics shown as pressure curves and as alternating high- and low-density air patterns.](../images/notation/wind-instrument-pressure-standing-waves.svg)
 
 The standing waves in the tubes are actually longitudinal sound waves. Here the displacement standing waves in [link] are shown instead as longitudinal air pressure waves. Each wave would be oscillating back and forth between the state on the right and the one on the left. See <a href="https://cnx.org/content/m12589">Standing Waves in Wind Instruments</a> for more explanation.
 

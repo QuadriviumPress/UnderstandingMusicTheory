@@ -26,12 +26,12 @@ The dot acts as if it is adding another note half the length of the original not
 > >
 > > Make groups of equal length on each side, by putting a dotted note or rest in the box.
 > >
-> > ![Music notation example](../images/cnx/b38c68f9b7567902f35080c958b602133e1646f3.png)
+> > ![Practice equations asking for a dotted note or rest that equals the note values shown on the left.](../images/notation/dotted-duration-practice.svg)
 > >
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/aea8aa79be190e40bc0147148906d1647e4b1b83.png)
+> > ![Completed dotted-duration equations with dotted half, whole, quarter, eighth, and dotted rests shown in red.](../images/notation/dotted-duration-practice-solutions.svg)
 > >
 
 A note may have more than one dot. Each dot adds half the length that the dot before it added. For example, the first dot after a half note adds a quarter note length; the second dot would add an eighth note length.
@@ -56,11 +56,11 @@ When these eight notes are played as written, only five distinct notes are heard
 
 Dots and ties give you much freedom to write notes of varying lengths, but so far you must build your notes from halves of other notes. If you want to divide a note length into anything other than halves or halves of halves - if you want to divide a beat into thirds or fifths, for example - you must write the number of the division over the notes. These unusual subdivisions are called *borrowed divisions* because they sound as if they have been borrowed from a completely different [meter](ch-09-meter.md). They can be difficult to perform correctly and are avoided in music for beginners. The only one that is commonly used is *triplets*, which divide a note length into equal thirds.
 
-![Music notation example](../images/cnx/497bb9fdd651f112aced13e093e724b06bb8b7fb.png)
+![Whole, half, and quarter notes divided into triplets, quintuplets, and septuplets, with brackets and division numbers.](../images/notation/borrowed-division-examples.svg)
 
 Any common note length can be divided into an unusual number of equal-length notes and rests, for example by dividing a whole note into three instead of two "half" notes. The notes are labeled with the appropriate number. If there might be any question as to which notes are involved in the borrowed division, a bracket is placed above them. Triplets are by far the most common borrowed division.
 
-![Music notation example](../images/cnx/4d2420cf5eede85bc5c3f12ef4287b370db94fbb.png)
+![A six-eight measure contrasting a group of three eighth notes with a duplet group of two eighth notes.](../images/notation/compound-meter-duplet.svg)
 
 In a compound <a href="ch-09-meter.md">meter</a>, which normally divides a beat into three, the borrowed division may divide the beat into two, as in a simple meter. You may also see duplets in swing music.
 
@@ -70,6 +70,6 @@ Notes in jazzy-sounding music that has a \"swing\" beat are often assumed to be 
 >
 > Some jazz musicians prefer to think of a swing rhythm as more of a heavy accent on the second eighth, rather than as a triplet rhythm, particularly when the [tempo](ch-13-tempo.md) is fast. This distinction is not important for students of music theory, but jazz students will want to work hard on using both [rhythm](ch-17-rhythm.md) and [articulation](ch-16-articulation.md) to produce a convincing \"swing\".
 
-![Music notation example](../images/cnx/f60857c8669a175558b409f0c714dcbee4a36513.png)
+![Swing notation showing pairs of written eighth notes or dotted-eighth–sixteenth rhythms interpreted as triplet quarter–eighth patterns.](../images/notation/swing-rhythm-interpretation.svg)
 
 Jazz or blues with a <em>"swing" rhythm</em> often assumes that all divisions are triplets. The swung triplets may be written as triplets, or they may simply be written as "straight" eighth notes or dotted eighth-sixteenths. If rhythms are not written as triplets, the tempo marking usually includes an indication to "swing", or it may simply be implied by the style and genre of the music.

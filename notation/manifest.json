@@ -11,7 +11,9 @@
       "status": "unclassified"
     },
     "00f13232da90fddc8e6cd6c5bf22411c54ba182f.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "identify-intervals-in-steps-solutions",
+      "output": "images/notation/identify-intervals-in-steps-solutions.svg"
     },
     "018eaacd044b0ae816385df52c97804730172e7c.png": {
       "status": "unclassified"
@@ -25,19 +27,25 @@
       "output": "images/notation/fractional-note-values.svg"
     },
     "02df34c31ca1f7c64cc2059d3a8fcfc91afed439.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "thirds-and-fifths-with-accidentals",
+      "output": "images/notation/thirds-and-fifths-with-accidentals.svg"
     },
     "03b7366048cf2260192eef50e9284ac1644a9b26.png": {
       "status": "unclassified"
     },
     "03fa0af783198b5c02044abfa9c9d47b3f5dafb9.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "slurs-versus-ties",
+      "output": "images/notation/slurs-versus-ties.svg"
     },
     "04927277898bb7083653a273fe8b6f3fd515161e.png": {
       "status": "unclassified"
     },
     "04f1d4ac48717164428426cac4f806a7c27c9e16.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "beethoven-ode-to-joy-theme",
+      "output": "images/notation/beethoven-ode-to-joy-theme.svg"
     },
     "05a8015fb8b2a22d60955029ef37cd2baf8b8a71.png": {
       "status": "unclassified"
@@ -60,7 +68,9 @@
       "status": "unclassified"
     },
     "0bf05d9e775798258180a99a2ffd159ebd3e4e85.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "compound-intervals-ninth-and-beyond",
+      "output": "images/notation/compound-intervals-ninth-and-beyond.svg"
     },
     "0c0315eb934bcecb3beda30e35080268075e6b7a.png": {
       "status": "unclassified"
@@ -86,7 +96,9 @@
       "status": "unclassified"
     },
     "1064d35194f9c5ffefc3f50c0ca0e338f6426d44.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "four-phrases-with-pickups",
+      "output": "images/notation/four-phrases-with-pickups.svg"
     },
     "12f8d342927b1b8031f704ebab230367719e09d7.png": {
       "status": "unclassified"
@@ -161,7 +173,9 @@
       "output": "images/notation/note-duration-practice.svg"
     },
     "20477f21bfabd1ca700d9d8d578fbbeb218fc823.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "mixed-meter-boris-godunov",
+      "output": "images/notation/mixed-meter-boris-godunov.svg"
     },
     "20d859609bbee3a5785ae335555a3c2f7054744b.png": {
       "status": "vexflow-overlay",
@@ -200,22 +214,32 @@
       "output": "images/notation/whole-rest-full-measure.svg"
     },
     "2777c8f46803b9ecab65f8d81f77ad2050678285.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "natural-minor-scale-step-pattern-examples",
+      "output": "images/notation/natural-minor-scale-step-pattern-examples.svg"
     },
     "2a5a43eedddcfae83e15f9507150c98a9f0597d0.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "perfect-interval-examples",
+      "output": "images/notation/perfect-interval-examples.svg"
     },
     "2a98cbbce6f7ff1fa2cfe1808a9be2b7997d16df.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "classify-major-minor-intervals-solutions",
+      "output": "images/notation/classify-major-minor-intervals-solutions.svg"
     },
     "2b2d87c3a8bf13953b7eaf68268f57cd03661ea2.png": {
       "status": "unclassified"
     },
     "2ce337631ea22e3e00c8bf33981c83c0374e0759.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "auld-lang-syne-antecedent-consequent",
+      "output": "images/notation/auld-lang-syne-antecedent-consequent.svg"
     },
     "2cebbec9e75194690ae93a7479c224f1a9ceb90c.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "standing-wave-nodes-and-antinodes",
+      "output": "images/notation/standing-wave-nodes-and-antinodes.svg"
     },
     "2d5aa7cd858822a99a24ca70fa009235bc626daa.png": {
       "status": "vexflow-overlay",
@@ -233,37 +257,53 @@
       "output": "images/notation/clef-note-name-answers.svg"
     },
     "315403d0f8e3593e35187bcadfa48bfc2cb9e10d.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "staccato-written-and-realized",
+      "output": "images/notation/staccato-written-and-realized.svg"
     },
     "31c995861b2dffd208346e79492b348278fc3c21.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "major-scale-step-pattern-examples",
+      "output": "images/notation/major-scale-step-pattern-examples.svg"
     },
     "3255fdfd457b56d4ac1885fa0ffc56f37ee450f7.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "noise-and-tone-waveforms",
+      "output": "images/notation/noise-and-tone-waveforms.svg"
     },
     "33960a69fd3a1c138c9f46079f7a2c93120c758b.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "major-scale-writing-solutions",
+      "output": "images/notation/major-scale-writing-solutions.svg"
     },
     "353ee2d79e1b6c84699e438f7286e307474a23e6.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "classify-major-minor-intervals-practice",
+      "output": "images/notation/classify-major-minor-intervals-practice.svg"
     },
     "35dd8f8d6266ebddcf5c621a6003cc61e58a2e0f.png": {
       "status": "unclassified"
     },
     "3790348ad803232771a0a0338773ace6a6da0ebe.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "musical-roadmap-signs",
+      "output": "images/notation/musical-roadmap-signs.svg"
     },
     "380559fd8532ba7c030733c52a8a893fa6f53fff.png": {
       "status": "unclassified"
     },
     "3c685067aa0d4183c9daa43d662382ef87efc702.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "helmholtz-octave-naming-example",
+      "output": "images/notation/helmholtz-octave-naming-example.svg"
     },
     "3d28d333392fe076fda46e9e83008e54aebbdef1.png": {
       "status": "unclassified"
     },
     "3d9009feab4fb0b2f7b3e95e4d2a7126b2f71d60.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "one-and-two-measure-repeat-symbols",
+      "output": "images/notation/one-and-two-measure-repeat-symbols.svg"
     },
     "402dd0fcd9295e3f332d3afc3f834bb36322a789.png": {
       "status": "vexflow-overlay",
@@ -305,7 +345,9 @@
       "status": "unclassified"
     },
     "48fcee2683006bd15bb81c5f8806c034e40f7993.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "string-harmonics-nodes",
+      "output": "images/notation/string-harmonics-nodes.svg"
     },
     "4920d53449d99bed9f95fd72c79e9e2769e929bc.png": {
       "status": "unclassified"
@@ -314,7 +356,9 @@
       "status": "unclassified"
     },
     "497bb9fdd651f112aced13e093e724b06bb8b7fb.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "borrowed-division-examples",
+      "output": "images/notation/borrowed-division-examples.svg"
     },
     "4bf971ff8e9d7002fb3539c064b9a8d2ca601677.png": {
       "status": "vexflow-overlay",
@@ -322,10 +366,14 @@
       "output": "images/notation/piano-system.svg"
     },
     "4c5da51d92f04c619005c9a2d674d36e27ace398.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "simultaneous-string-harmonics",
+      "output": "images/notation/simultaneous-string-harmonics.svg"
     },
     "4d2420cf5eede85bc5c3f12ef4287b370db94fbb.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "compound-meter-duplet",
+      "output": "images/notation/compound-meter-duplet.svg"
     },
     "4db15424aa05d5a4b5a3841d69ffeffbbc34f162.png": {
       "status": "vexflow-overlay",
@@ -341,13 +389,17 @@
       "status": "unclassified"
     },
     "540d38c5d4317268ef6344e38f6f46e2e352e370.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "compound-six-eight-beats",
+      "output": "images/notation/compound-six-eight-beats.svg"
     },
     "558e6f2c6a3eafd3ed35b1210cffe8d86bc43c71.png": {
       "status": "unclassified"
     },
     "563ec9e172273ad08e28a9f222aec657339cbf73.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "augmented-diminished-interval-solutions",
+      "output": "images/notation/augmented-diminished-interval-solutions.svg"
     },
     "579422782a5ef1c8596ec806f11e71503cd314d1.png": {
       "status": "vexflow-overlay",
@@ -355,13 +407,17 @@
       "output": "images/notation/orchestral-score-layout.svg"
     },
     "57c3afee0d3d8890000a64ea020ceeb925b9cb44.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "interval-inversion-motion",
+      "output": "images/notation/interval-inversion-motion.svg"
     },
     "57c7d9a1032fd1d20632b828509457a4a70bf5a4.png": {
       "status": "unclassified"
     },
     "582059d7c9ff6cc4f68e0e34f31334de997b3225.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "wave-amplitude-and-loudness",
+      "output": "images/notation/wave-amplitude-and-loudness.svg"
     },
     "58719aa93dd4e7023d27131cafd89ba42c439f94.png": {
       "status": "unclassified"
@@ -398,22 +454,30 @@
       "status": "unclassified"
     },
     "5fc8361206735d496da5e05f44513098a36d8b3f.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "ascending-chromatic-scale",
+      "output": "images/notation/ascending-chromatic-scale.svg"
     },
     "5fd44c0b8192a7023538adb053baca274ad8ab50.png": {
       "status": "unclassified"
     },
     "5fe66d86c6389d14990425c15ae7fb3b3a57697a.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "major-scale-starting-notes-practice",
+      "output": "images/notation/major-scale-starting-notes-practice.svg"
     },
     "60f8b6a18e7891ed7e07a2b8329d5586c2d72cf4.png": {
       "status": "unclassified"
     },
     "61a817eace09793f5c3a9d046d4c08d0d04813fd.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "beethoven-fate-motif",
+      "output": "images/notation/beethoven-fate-motif.svg"
     },
     "6347bf784fdbeb47837008e0094e0f22a269aa69.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "octave-wave-alignment",
+      "output": "images/notation/octave-wave-alignment.svg"
     },
     "64c29809ac6c72db4b257c2f609c46335c115990.png": {
       "status": "vexflow-overlay",
@@ -435,10 +499,14 @@
       "output": "images/notation/five-key-signatures.svg"
     },
     "67efd497927b2a2a0fb20a89f8078e2d7465faf9.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "staff-whole-step-examples",
+      "output": "images/notation/staff-whole-step-examples.svg"
     },
     "69649de4d01e03b1a54bb17cfdf8d9c209999c25.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "row-row-row-your-boat-g-major",
+      "output": "images/notation/row-row-row-your-boat-g-major.svg"
     },
     "6a559902470af8de8f7a3e2b8ad222cecdcc9fa7.png": {
       "status": "vexflow-overlay",
@@ -446,13 +514,19 @@
       "output": "images/notation/movable-g-and-f-clefs.svg"
     },
     "6a71fe8ef244b0a4385573aff0451eaadabb8201.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "first-second-and-third-endings",
+      "output": "images/notation/first-second-and-third-endings.svg"
     },
     "6b12a444aaa164fe7d1a98fa4f84eebd6aa3c9c5.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "wind-instrument-pressure-standing-waves",
+      "output": "images/notation/wind-instrument-pressure-standing-waves.svg"
     },
     "6d2da02e6b304aa7421942d50f230b299f43e498.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "conjunct-disjunct-and-mixed-motion",
+      "output": "images/notation/conjunct-disjunct-and-mixed-motion.svg"
     },
     "6dd82e0a8a44b2c43a820343a180ffd54b8821e1.png": {
       "status": "unclassified"
@@ -463,16 +537,22 @@
       "output": "images/notation/clef-practice-worksheet.svg"
     },
     "6e98c07a7efbb518d9a08be043a9311988da9a98.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "harmonic-frequency-waveforms",
+      "output": "images/notation/harmonic-frequency-waveforms.svg"
     },
     "6ea761be1de458aa09f079da4fad0c8242e99384.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "dorian-minor-step-pattern",
+      "output": "images/notation/dorian-minor-step-pattern.svg"
     },
     "6fae5e3e315152e356619791dc81b760dd741b15.png": {
       "status": "unclassified"
     },
     "6ff2ebbbc07037cf05e7f6a4621e7a5b1574b0cb.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "da-capo-and-dal-segno-roadmaps",
+      "output": "images/notation/da-capo-and-dal-segno-roadmaps.svg"
     },
     "70c23d0c3613a1314ef21b11fb5d43b93bfeac64.png": {
       "status": "unclassified"
@@ -481,7 +561,9 @@
       "status": "unclassified"
     },
     "72da008accbc59a9f87e758ae9df1cca1fec2cf4.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "brass-valve-harmonic-series",
+      "output": "images/notation/brass-valve-harmonic-series.svg"
     },
     "7317ca62a181e8d2ab2fbe7e3ce8ce96d4a647e3.png": {
       "status": "unclassified"
@@ -490,7 +572,9 @@
       "status": "unclassified"
     },
     "74be71ab69d9e91436d322a2526bb0cfe55ddf04.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "combined-valves-harmonic-series",
+      "output": "images/notation/combined-valves-harmonic-series.svg"
     },
     "74beea27ad30018569811de3fdca3702b5f1328a.png": {
       "status": "svg-overlay",
@@ -501,13 +585,19 @@
       "status": "unclassified"
     },
     "76aa06be5447ea944743e35c9d5967c60607a74a.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "interval-size-by-half-steps",
+      "output": "images/notation/interval-size-by-half-steps.svg"
     },
     "771ffdbcc579a14d7b1c02cfd20985353e61c94c.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "slur-articulation-groups",
+      "output": "images/notation/slur-articulation-groups.svg"
     },
     "77f33d1d601bfa5087cad774ba9e409e87922dd4.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "common-meter-counting-chart",
+      "output": "images/notation/common-meter-counting-chart.svg"
     },
     "78771163de17e6e1143aee5b2ceac299a8b11e63.png": {
       "status": "vexflow-overlay",
@@ -541,7 +631,9 @@
       "output": "images/notation/octave-naming-systems.svg"
     },
     "7e50de433d0a7c1b59dacfe13036ded4a3f0adf8.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "simple-intervals-prime-through-octave",
+      "output": "images/notation/simple-intervals-prime-through-octave.svg"
     },
     "80a3c3894aba0301b912135ad9a9dcea73bc5fe3.png": {
       "status": "unclassified"
@@ -563,13 +655,17 @@
       "output": "images/notation/treble-pitch-names.svg"
     },
     "862a42a57ea9a762784f2ccd2d2068e021741fbb.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "riddle-song-four-phrases",
+      "output": "images/notation/riddle-song-four-phrases.svg"
     },
     "86b27abcdf3883416ce70b086fd8c1fca9b07ed3.png": {
       "status": "unclassified"
     },
     "87fc144fb9a501e2269617319472d5543b51a420.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "transverse-and-longitudinal-waves",
+      "output": "images/notation/transverse-and-longitudinal-waves.svg"
     },
     "8859d5d2572195fac36408d32de9539a6f696b09.png": {
       "status": "vexflow-overlay",
@@ -577,7 +673,9 @@
       "output": "images/notation/c-and-f-major-key-signatures.svg"
     },
     "8872ae6e6d44368fdf861fbcc6de3343180854cb.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "pickup-notes-across-repeat-barline",
+      "output": "images/notation/pickup-notes-across-repeat-barline.svg"
     },
     "889972d224e2c9b837003816b2fd5b7b28626979.png": {
       "status": "unclassified"
@@ -589,25 +687,37 @@
       "status": "unclassified"
     },
     "8cdcdfc87f3ef226a369d3b33e3e1be142063a0a.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "pickup-measure-completion",
+      "output": "images/notation/pickup-measure-completion.svg"
     },
     "8dc4a337a142edabc38c37f947a0f2ca9e99733a.png": {
       "status": "unclassified"
     },
     "8df2e82253f904461194dc01196bde306adf3d4b.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "syncopation-on-weak-beats",
+      "output": "images/notation/syncopation-on-weak-beats.svg"
     },
     "8ecdfe8f4dbf66d814697cc5b8817d42ed89f3c5.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "counting-written-intervals",
+      "output": "images/notation/counting-written-intervals.svg"
     },
     "8efa51e8939876415c455e3c0b390e66fa04da32.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "major-and-minor-interval-examples",
+      "output": "images/notation/major-and-minor-interval-examples.svg"
     },
     "907a8fec9ebfdb3172252721a649c0f828e8dc95.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "staff-half-step-examples",
+      "output": "images/notation/staff-half-step-examples.svg"
     },
     "9111533eb14a4014b873e66548bccebb32e35bc3.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "interval-number-practice",
+      "output": "images/notation/interval-number-practice.svg"
     },
     "92efc85cbe5da11aef164cac993546c5991df016.png": {
       "status": "unclassified"
@@ -624,7 +734,9 @@
       "status": "unclassified"
     },
     "9812d93de8f0b4b7ae1aea556a84993acf3c1aa5.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "complete-intervals-solutions",
+      "output": "images/notation/complete-intervals-solutions.svg"
     },
     "983c61f990d02147ab4473508cb516532e871057.png": {
       "status": "vexflow-overlay",
@@ -632,7 +744,9 @@
       "output": "images/notation/simultaneous-rhythms-with-rests.svg"
     },
     "9901bdbeacc244671af7a5173eb91147c1fc2ba7.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "syncopation-by-unexpected-accents",
+      "output": "images/notation/syncopation-by-unexpected-accents.svg"
     },
     "99117f77591f4e31f757bd141365d35872446285.png": {
       "status": "unclassified"
@@ -648,7 +762,9 @@
       "output": "images/notation/ledger-note-practice.svg"
     },
     "9ccaa35c2e2f92fdf3c76c341017b4aa750c273e.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "octave-naming-practice",
+      "output": "images/notation/octave-naming-practice.svg"
     },
     "a085f521beec03696a8636317d6e567b65eceea3.png": {
       "status": "unclassified"
@@ -660,13 +776,17 @@
       "status": "unclassified"
     },
     "a1f2ff78adb5c4959eb1646d233b415623c18b62.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "a-natural-harmonic-melodic-minor-comparison",
+      "output": "images/notation/a-natural-harmonic-melodic-minor-comparison.svg"
     },
     "a2cc5204bc14ba284a38b79656a35385c42dd208.png": {
       "status": "unclassified"
     },
     "a377eac1f99e6e98dbe1d2c0947a7626c7386da0.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "five-half-steps-c-to-f",
+      "output": "images/notation/five-half-steps-c-to-f.svg"
     },
     "a4e3c4299b4df0cbc42338cbce821ba91aa2dea2.png": {
       "status": "svg-overlay",
@@ -688,37 +808,55 @@
       "status": "unclassified"
     },
     "a8776d89f6a51e624c2db48e9c48bc0764ae48c7.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "relative-major-minor-patterns",
+      "output": "images/notation/relative-major-minor-patterns.svg"
     },
     "a94f0c85403290b9f224235520bb523cac694b58.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "row-row-row-your-boat-d-major",
+      "output": "images/notation/row-row-row-your-boat-d-major.svg"
     },
     "a9d8197d91fd07725f686061378aee0f88ed1d8f.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "a-minor-types-with-dorian-comparison",
+      "output": "images/notation/a-minor-types-with-dorian-comparison.svg"
     },
     "aa29592ed3a72a6eb89484211ef689e33b765a5c.png": {
       "status": "unclassified"
     },
     "aa67fb155f2f0a86a459138ef2af6da96c5b86d0.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "harmonic-series-standing-waves",
+      "output": "images/notation/harmonic-series-standing-waves.svg"
     },
     "aaa763487bdf36b2be871f121145443244101547.png": {
       "status": "unclassified"
     },
     "ab320208243366fcd4af5e9894a9766f2b219d97.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "piano-key-names-with-sharps-and-flats",
+      "output": "images/notation/piano-key-names-with-sharps-and-flats.svg"
     },
     "accff92080af0b6693ce2be1cd6200a6dfcb4c3e.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "identify-intervals-in-steps-practice",
+      "output": "images/notation/identify-intervals-in-steps-practice.svg"
     },
     "ad427d413191cb046506b502e32446ed538422a5.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "peacherine-rag-syncopation",
+      "output": "images/notation/peacherine-rag-syncopation.svg"
     },
     "aea8aa79be190e40bc0147148906d1647e4b1b83.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "dotted-duration-practice-solutions",
+      "output": "images/notation/dotted-duration-practice-solutions.svg"
     },
     "b0cd8d8b9bbd822479fb9d5033b13dec772f8974.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "c-major-c-minor-e-flat-major-comparison",
+      "output": "images/notation/c-major-c-minor-e-flat-major-comparison.svg"
     },
     "b2f53b8fe81baba62a2f0351451a7587266069df.png": {
       "status": "svg-overlay",
@@ -726,10 +864,14 @@
       "output": "images/notation/dotted-note-equations.svg"
     },
     "b38c68f9b7567902f35080c958b602133e1646f3.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "dotted-duration-practice",
+      "output": "images/notation/dotted-duration-practice.svg"
     },
     "b486203049c855e0c049ef8dbd7b63b77c827f07.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "bugle-calls-from-harmonic-series",
+      "output": "images/notation/bugle-calls-from-harmonic-series.svg"
     },
     "b4c37691fafd379d87d5be52dc7271c4a6364cba.png": {
       "status": "vexflow-overlay",
@@ -756,7 +898,9 @@
       "output": "images/notation/treble-clef-mnemonics.svg"
     },
     "ba0dba3f6286193381242d9b0711ead164b86d22.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "natural-minor-starting-notes-practice",
+      "output": "images/notation/natural-minor-starting-notes-practice.svg"
     },
     "bb2ac01e554b5fe1aca0a602b0dce40e252716fe.png": {
       "status": "vexflow-overlay",
@@ -769,7 +913,9 @@
       "output": "images/notation/rest-values.svg"
     },
     "c052d75a73aff6b5e19b0f59781c5dfc6a342b8a.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "keyboard-whole-step-examples",
+      "output": "images/notation/keyboard-whole-step-examples.svg"
     },
     "c0598ff81f0c37eb6d5c7be31272b6e7d3dbf8cf.png": {
       "status": "unclassified"
@@ -808,13 +954,19 @@
       "status": "unclassified"
     },
     "cd98d77f2674afd1193634b92473e350a5a9c78e.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "natural-minor-dorian-comparison",
+      "output": "images/notation/natural-minor-dorian-comparison.svg"
     },
     "ce803b3272dee1a6280f68545024860164005f22.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "complete-intervals-practice",
+      "output": "images/notation/complete-intervals-practice.svg"
     },
     "d04e2c7f45f72dbbf040f2b7409342189f0ee877.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "interval-inversion-examples",
+      "output": "images/notation/interval-inversion-examples.svg"
     },
     "d0df5580a52bd5ff1c22982ff89e7ce408a5750a.png": {
       "status": "vexflow-overlay",
@@ -822,13 +974,17 @@
       "output": "images/notation/bass-clef-mnemonics.svg"
     },
     "d1156e89d761fd0b2c7989ae3f41998b094037e5.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "instrument-length-wavelength-and-pitch",
+      "output": "images/notation/instrument-length-wavelength-and-pitch.svg"
     },
     "d167bea1c4e894f8bb99bf52eb9a33f6a6291728.png": {
       "status": "unclassified"
     },
     "d194cd10d38499052d417650f1eb6085d4e3170f.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "perfect-interval-examples",
+      "output": "images/notation/perfect-interval-examples.svg"
     },
     "d287215721453adeaec7350a014ab0e3be87bfbb.png": {
       "status": "unclassified"
@@ -865,10 +1021,14 @@
       "output": "images/notation/rest-duration-practice-solutions.svg"
     },
     "d7d88dada170cabb40a5168da677a7d94fdcb92d.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "harmonic-series-one-through-sixteen",
+      "output": "images/notation/harmonic-series-one-through-sixteen.svg"
     },
     "d82a33357abdd647d475688799c560541ab4b976.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "keyboard-half-step-examples",
+      "output": "images/notation/keyboard-half-step-examples.svg"
     },
     "d9bb1aa306154dd4ae19d956f60214da91569c09.png": {
       "status": "svg-overlay",
@@ -876,19 +1036,27 @@
       "output": "images/notation/piano-natural-notes.svg"
     },
     "d9d282a798bfcd3b0b60329222e1bc0c72659209.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "amplitude-wavelength-and-displacement",
+      "output": "images/notation/amplitude-wavelength-and-displacement.svg"
     },
     "daa585c52760edd2131acadc3fac6cdb1056ee6c.png": {
       "status": "unclassified"
     },
     "daecca1456c88bc1862974a0fab72ff6b9043f84.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "accent-marking-types",
+      "output": "images/notation/accent-marking-types.svg"
     },
     "e0b9eed69d190c563d6d76312a33fbfa5dbc8412.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "shortened-vibrating-string",
+      "output": "images/notation/shortened-vibrating-string.svg"
     },
     "e1166e2deee2765a28a25c97f18b7751aa6c4174.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "complete-intervals-in-steps-solutions",
+      "output": "images/notation/complete-intervals-in-steps-solutions.svg"
     },
     "e122067156ff2d35ecb1f8b0835d8b83fdc339ac.png": {
       "status": "svg-overlay",
@@ -896,7 +1064,9 @@
       "output": "images/notation/multiple-dot-equations.svg"
     },
     "e1b491fc3b7d78fbc33815435de84ee7f561d5a6.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "harmonic-minor-scale-writing-solutions",
+      "output": "images/notation/harmonic-minor-scale-writing-solutions.svg"
     },
     "e2897b454b02e02a65a9b8cd989a5187cbda5093.png": {
       "status": "vexflow-overlay",
@@ -904,7 +1074,9 @@
       "output": "images/notation/middle-c-in-three-clefs.svg"
     },
     "e2f8f09813a0e0bff4ecb4cb571a114b3f6163b0.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "equivalent-two-four-rhythms",
+      "output": "images/notation/equivalent-two-four-rhythms.svg"
     },
     "e420035b374f956c2c7e871076450ff828a83e6f.png": {
       "status": "svg-overlay",
@@ -915,7 +1087,9 @@
       "status": "unclassified"
     },
     "e60460159d584b4cee88054dd5b5b21f26360e82.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "standing-waves-that-fit-a-string",
+      "output": "images/notation/standing-waves-that-fit-a-string.svg"
     },
     "e62d54293b2496a82a5aa78702e98cc70a128ea2.png": {
       "status": "vexflow-overlay",
@@ -926,7 +1100,9 @@
       "status": "unclassified"
     },
     "e97ebaee5739acf24c4d7dc6feccc27dc370c60f.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "natural-minor-scale-writing-solutions",
+      "output": "images/notation/natural-minor-scale-writing-solutions.svg"
     },
     "e9894136bc007b193b98096a1299c00b13ba8221.png": {
       "status": "unclassified"
@@ -942,22 +1118,32 @@
       "output": "images/notation/staff-anatomy.svg"
     },
     "ed35597f1a11d4911bcffeb59b94b7aa1357cfd1.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "complete-intervals-in-steps-practice",
+      "output": "images/notation/complete-intervals-in-steps-practice.svg"
     },
     "ed856404348dfc76ae8067fe2bd38f568a480dea.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "octave-naming-practice-solutions",
+      "output": "images/notation/octave-naming-practice-solutions.svg"
     },
     "ee9aecb40a9a873169c66730312aa16f7ee68e2a.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "wind-instrument-displacement-standing-waves",
+      "output": "images/notation/wind-instrument-displacement-standing-waves.svg"
     },
     "eecc6ad2e298c8e52b235ca4f517b5756d79fde8.png": {
       "status": "unclassified"
     },
     "f01bba67e1e7c2db689d526b14cff7a4a3ff2731.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "enharmonic-f-sharp-g-flat-major-keyboard",
+      "output": "images/notation/enharmonic-f-sharp-g-flat-major-keyboard.svg"
     },
     "f14eb48346cf6665021fc041a7a55204dba63610.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "scoops-and-falloffs",
+      "output": "images/notation/scoops-and-falloffs.svg"
     },
     "f16500ce77df4e1782cd94f61ad8ed4b0b584405.png": {
       "status": "vexflow-overlay",
@@ -975,10 +1161,14 @@
       "output": "images/notation/dynamic-vocabulary.svg"
     },
     "f3e6ac40f066daf1d2f6aef9c8e8ac3afd0debec.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "siegfried-leitmotif-phrase",
+      "output": "images/notation/siegfried-leitmotif-phrase.svg"
     },
     "f51253382ce0d354c87f28eccca901df1572a59d.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "melodic-minor-scale-writing-solutions",
+      "output": "images/notation/melodic-minor-scale-writing-solutions.svg"
     },
     "f55fb28bd8a6394d7cdcacddfa5cf7ce92c1ca53.png": {
       "status": "vexflow-overlay",
@@ -986,10 +1176,14 @@
       "output": "images/notation/key-signature-reading.svg"
     },
     "f5abaf8d7b97faf6bf1cdfc22af3397be9807f33.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "ascending-whole-tone-scale",
+      "output": "images/notation/ascending-whole-tone-scale.svg"
     },
     "f60857c8669a175558b409f0c714dcbee4a36513.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "swing-rhythm-interpretation",
+      "output": "images/notation/swing-rhythm-interpretation.svg"
     },
     "f7485371936c468434d7dcbb1dec9473ffad7ee2.png": {
       "status": "unclassified"
@@ -998,7 +1192,9 @@
       "status": "unclassified"
     },
     "f882296c6ffb55550eea86029fdf3d0472f446e5.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "wavelength-frequency-and-pitch",
+      "output": "images/notation/wavelength-frequency-and-pitch.svg"
     },
     "f99d67180aaa8120748eca9069654172900dc885.png": {
       "status": "unclassified"
@@ -1007,7 +1203,9 @@
       "status": "unclassified"
     },
     "fb26939cb57d2a82f63dd722d29db73845b9e3ad.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "augmented-diminished-interval-practice",
+      "output": "images/notation/augmented-diminished-interval-practice.svg"
     },
     "fc80686dbb2a3da98305b51c5fbe0be7fe0df65f.png": {
       "status": "vexflow-overlay",
@@ -1029,7 +1227,9 @@
       "status": "unclassified"
     },
     "fefd427443e72ac2f4a849fd2250c004da0683d2.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "beat-grouping-by-time-signature",
+      "output": "images/notation/beat-grouping-by-time-signature.svg"
     },
     "ffb90bf82bdbce7380d5bddb01b62ab9084d239b.png": {
       "status": "vexflow-overlay",

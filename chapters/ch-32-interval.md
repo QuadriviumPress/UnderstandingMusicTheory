@@ -22,19 +22,19 @@ The first step in naming the interval is to find the distance between the notes 
 
 > **Example**
 >
-> ![Music notation example](../images/cnx/8ecdfe8f4dbf66d814697cc5b8817d42ed89f3c5.png)
+> ![Treble-clef B to D is counted across three staff positions; bass-clef A to F is counted across six.](../images/notation/counting-written-intervals.svg)
 >
 > To find the interval, count the lines or spaces that the two notes are on as well as all the lines or spaces in between. The interval between B and D is a third. The interval between A and F is a sixth. Note that, at this stage, [key signature](ch-04-key-signature.md), [clef](ch-02-clef.md), and [accidentals](ch-03-pitch-sharp-flat-and-natural-notes.md) do not matter at all.
 
 The *simple intervals* are one octave or smaller.
 
-![Music notation example](../images/cnx/7e50de433d0a7c1b59dacfe13036ded4a3f0adf8.png)
+![Eight written intervals above C, labelled prime through octave.](../images/notation/simple-intervals-prime-through-octave.svg)
 
 If you like you can listen to each interval as written in the referenced item: [prime](../images/cnx/3b2373bdd65ba188732288dd3c8948d54e6b249b.midi), [second](../images/cnx/6276e3b2a8a52b86fd74a156bdfcc93b1b37f43e.midi), [third](../images/cnx/66c60ddddb5896b3475f74571d8cb6f5905d648e.midi), [fourth](../images/cnx/6c0dbeadb9377bb4919fe21f50606d7191674cc5.midi), [perfect fifth](../images/cnx/fifth.mid), [sixth](../images/cnx/5d0848e30fefd1d5a3e16077fbe1125fa4367032.midi), [seventh](../images/cnx/cec379ba0754fef82252f066afd837e272929486.midi), [octave](../images/cnx/octave.mid)
 
 *Compound intervals* are larger than an octave.
 
-![Music notation example](../images/cnx/0bf05d9e775798258180a99a2ffd159ebd3e4e85.png)
+![Compound intervals above C labelled ninth through twelfth.](../images/notation/compound-intervals-ninth-and-beyond.svg)
 
 Listen to the compound intervals in the referenced item: [ninth](../images/cnx/5805bd8e4413799bf8a7519d63279259ceb9d67d.midi), [tenth](../images/cnx/b38c3b8407676b1c514800c5229b6153b0689895.midi), [eleventh](../images/cnx/8ef8a32fda8d4feb41fd2249584bf5c1681524d7.midi).
 
@@ -44,7 +44,7 @@ Listen to the compound intervals in the referenced item: [ninth](../images/cnx/5
 > >
 > > Name the intervals.
 > >
-> > ![Music notation example](../images/cnx/9111533eb14a4014b873e66548bccebb32e35bc3.png)
+> > ![Six unlabelled written intervals for interval-number practice.](../images/notation/interval-number-practice.svg)
 > >
 >
 > > **Solution**
@@ -58,19 +58,19 @@ Listen to the compound intervals in the referenced item: [ninth](../images/cnx/5
 > >
 > > Write a note that will give the named interval.
 > >
-> > ![Music notation example](../images/cnx/76aa06be5447ea944743e35c9d5967c60607a74a.png)
+> > ![Four thirds and fifths comparing intervals with different numbers of half steps.](../images/notation/interval-size-by-half-steps.svg)
 > >
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/2a5a43eedddcfae83e15f9507150c98a9f0597d0.png)
+> > ![Examples of a perfect unison, octave, fourth, and fifth.](../images/notation/perfect-interval-examples.svg)
 > >
 
 ## Classifying Intervals
 
 So far, the actual distance, in half-steps, between the two notes has not mattered. But a third made up of three half-steps sounds different from a third made up of four half-steps. And a fifth made up of seven half-steps sounds very different from one of only six half-steps. So in the second step of identifying an interval, [clef](ch-02-clef.md), [key signature](ch-04-key-signature.md), and [accidentals](ch-03-pitch-sharp-flat-and-natural-notes.md) become important.
 
-![Music notation example](../images/cnx/02df34c31ca1f7c64cc2059d3a8fcfc91afed439.png)
+![A–C and A–C-sharp are both thirds; A–E and A–E-flat are both fifths.](../images/notation/thirds-and-fifths-with-accidentals.svg)
 
 A to C natural and A to C sharp are both thirds, but A to C sharp is a larger interval, with a different sound. The difference between the intervals A to E natural and A to E flat is even more noticeable.
 
@@ -96,7 +96,7 @@ A perfect prime is also called a *unison*. It is two notes that are the same [pi
 
 > **Example**
 >
-> ![Music notation example](../images/cnx/d194cd10d38499052d417650f1eb6085d4e3170f.png)
+> ![Examples of a perfect unison, octave, fourth, and fifth.](../images/notation/perfect-interval-examples.svg)
 >
 > Listen to the [octave](../images/cnx/66640adc67987eeaf877f6d4f75dfaf172c9cb24.mpg), [perfect fourth](../images/cnx/7b06bfee6bd8570e77b929852fa2634a9d011c92.mpg), and [perfect fifth](../images/cnx/40e6c3bbe9781ca82eefa3db78a37ae036485aef.mpg).
 
@@ -115,7 +115,7 @@ Seconds, thirds, sixths, and sevenths can be *major intervals* or *minor interva
 
 > **Example**
 >
-> ![Music notation example](../images/cnx/8efa51e8939876415c455e3c0b390e66fa04da32.png)
+> ![Minor and major seconds, thirds, sixths, and sevenths compared above C.](../images/notation/major-and-minor-interval-examples.svg)
 >
 > Listen to the [minor second](../images/cnx/d81edd0f270fd8fac497367b43cd5963765cedd7.mpg), [major second](../images/cnx/f1140351c272498d34263ac3634176b6c1d99320.mpg), [minor third](../images/cnx/22f9603abd37ffd64628f3f8453ff626dc79f498.mpg), [major third](../images/cnx/ed9240d244152b3d8564a900964b1ca85e0939b2.mpg), [minor sixth](../images/cnx/f372f2a558d8f3ef3ae2da54685417330845d8ac.mpg), [major sixth](../images/cnx/a93fcd0c92c0ada81b828c5b71c0754855312c0a.mpg), [minor seventh](../images/cnx/35b334f7d9af69b2c91bee273030b53c8a86a8e6.mpg), and [major seventh](../images/cnx/aff1b1538f19cf001d8195a56873b3268068184c.mpg).
 
@@ -125,12 +125,12 @@ Seconds, thirds, sixths, and sevenths can be *major intervals* or *minor interva
 > >
 > > Give the complete name for each interval.
 > >
-> > ![Music notation example](../images/cnx/353ee2d79e1b6c84699e438f7286e307474a23e6.png)
+> > ![Eight unlabelled intervals for complete interval-name practice.](../images/notation/classify-major-minor-intervals-practice.svg)
 > >
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/2a98cbbce6f7ff1fa2cfe1808a9be2b7997d16df.png)
+> > ![Eight interval examples with their complete classifications.](../images/notation/classify-major-minor-intervals-solutions.svg)
 > >
 
 > **Practice**
@@ -139,12 +139,12 @@ Seconds, thirds, sixths, and sevenths can be *major intervals* or *minor interva
 > >
 > > Fill in the second note of the interval given.
 > >
-> > ![Music notation example](../images/cnx/ce803b3272dee1a6280f68545024860164005f22.png)
+> > ![Twelve given notes with named upward or downward intervals and blanks for the second note.](../images/notation/complete-intervals-practice.svg)
 > >
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/9812d93de8f0b4b7ae1aea556a84993acf3c1aa5.png)
+> > ![Completed answers for twelve named upward and downward intervals.](../images/notation/complete-intervals-solutions.svg)
 > >
 
 ### Augmented and Diminished Intervals
@@ -163,12 +163,12 @@ If an interval is a half-step larger than a perfect or a major interval, it is c
 > >
 > > Write a note that will give the named interval.
 > >
-> > ![Music notation example](../images/cnx/fb26939cb57d2a82f63dd722d29db73845b9e3ad.png)
+> > ![Eight given notes with named augmented or diminished intervals and blanks for the second note.](../images/notation/augmented-diminished-interval-practice.svg)
 > >
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/563ec9e172273ad08e28a9f222aec657339cbf73.png)
+> > ![Completed answers for eight named augmented and diminished intervals.](../images/notation/augmented-diminished-interval-solutions.svg)
 > >
 
 As mentioned above, the diminished fifth and augmented fourth sound the same. Both are six half-steps, or **three whole tones**, so another term for this interval is a *tritone*. In [Western Music](ch-24-classifying-music.md), this unique interval, which cannot be spelled as a major, minor, or perfect interval, is considered unusually [dissonant](ch-38-consonance-and-dissonance.md) and unstable (tending to want to [resolve](ch-38-consonance-and-dissonance.md) to another interval).
@@ -183,7 +183,7 @@ Any interval can be written in a variety of ways using <a href="ch-05-enharmonic
 
 To *invert* any interval, simply imagine that one of the notes has moved one octave, so that the higher note has become the lower and vice-versa. Because inverting an interval only involves moving one note by an octave (it is still essentially the \"same\" note in the tonal system), intervals that are *inversions* of each other have a very close relationship in the [tonal](ch-28-octaves-and-the-major-minor-tonal-system.md) system.
 
-![Music notation example](../images/cnx/57c3afee0d3d8890000a64ea020ceeb925b9cb44.png)
+![Arrows show a perfect fourth inverted to a perfect fifth and a minor third inverted to a major sixth.](../images/notation/interval-inversion-motion.svg)
 
 1.  To name the new interval, subtract the name of the old interval from 9.
 2.  The inversion of a perfect interval is still perfect.
@@ -192,7 +192,7 @@ To *invert* any interval, simply imagine that one of the notes has moved one oct
 
 > **Example**
 >
-> ![Music notation example](../images/cnx/d04e2c7f45f72dbbf040f2b7409342189f0ee877.png)
+> ![A minor seventh inverts to a major second because interval numbers sum to nine.](../images/notation/interval-inversion-examples.svg)
 >
 
 > **Practice**

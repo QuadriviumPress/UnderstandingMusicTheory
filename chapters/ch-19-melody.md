@@ -30,7 +30,7 @@ Another set of useful terms describe how quickly a melody goes up and down. A me
 
 A melody that rises and falls quickly, with large [intervals](ch-32-interval.md) between one note and the next, is a *disjunct* melody. One may also speak of \"leaps\" in the melody. Many melodies are a mixture of conjunct and disjunct motion.
 
-![Music notation example](../images/cnx/6d2da02e6b304aa7421942d50f230b299f43e498.png)
+![Three labelled melodies illustrating conjunct stepwise motion, disjunct leaps, and a mixture of both types of melodic motion.](../images/notation/conjunct-disjunct-and-mixed-motion.svg)
 
 A melody may show conjuct motion, with small changes in pitch from one note to the next, or disjunct motion, with large leaps. Many melodies are an interesting, fairly balanced mixture of conjunct and disjunct motion.
 
@@ -40,7 +40,7 @@ Melodies are often described as being made up of phrases. A musical *phrase* is 
 
 How do you spot a phrase in a melody? Just as you often pause between the different sections in a sentence (for example, when you say, \"wherever you go, there you are\"), the melody usually pauses slightly at the end of each phrase. In vocal music, the musical phrases tend to follow the phrases and sentences of the text. For example, [listen](../images/cnx/f6ed15f090a9e52d0be013d301c4bfc0ece99ebb.midi) to the phrases in the melody of \"The Riddle Song\" and see how they line up with the four sentences in the song.
 
-![Music notation example](../images/cnx/862a42a57ea9a762784f2ccd2d2068e021741fbb.png)
+![Four color-coded phrases of The Riddle Song, with each melodic phrase aligned to one sentence of lyrics.](../images/notation/riddle-song-four-phrases.svg)
 
 This melody has four phrases, one for each sentence of the text.
 
@@ -48,7 +48,7 @@ But even without text, the phrases in a melody can be very clear. Even without w
 
 One way that a composer keeps a piece of music interesting is by varying how strongly the end of each phrase sounds like \"the end\". Usually, full-stop ends come only at the end of the main sections of the music. (See [form](ch-42-form.md) and [cadence](ch-41-cadence.md) for more on this.) By varying aspects of the melody, the [rhythm](ch-17-rhythm.md), and the [harmony](ch-21-harmony.md), the composer gives the ends of the other phrases stronger or weaker \"ending\" feelings. Often, phrases come in definite pairs, with the first phrase feeling very unfinished until it is completed by the second phrase, as if the second phrase were answering a question asked by the first phrase. When phrases come in pairs like this, the first phrase is called the *antecedent* phrase, and the second is called the *consequent* phrase. Listen to [antecedent](../images/cnx/95fb3d3825b78066b3ef51a80b3fba1a11a18343.midi) and [consequent](../images/cnx/9302b6e42e0d5d54b5aa3dc6b52dced69934e804.midi) phrases in the tune \"Auld Lang Syne\".
 
-![Music notation example](../images/cnx/2ce337631ea22e3e00c8bf33981c83c0374e0759.png)
+![Antecedent and consequent phrases of Auld Lang Syne, showing parallel rhythm but different melody and chord endings.](../images/notation/auld-lang-syne-antecedent-consequent.svg)
 
 The rhythm of the first two phrases of "Auld Lang Syne" is the same, but both the melody and the harmony lead the first phrase to feel unfinished until it is answered by the second phrase. Note that both the melody and harmony of the second phrase end on the <a href="ch-30-major-keys-and-scales.md">tonic</a>, the "home" note and chord of the key.
 
@@ -58,13 +58,13 @@ Of course, melodies don\'t always divide into clear, separated phrases. Often th
 
 Another term that usually refers to a piece of melody (although it can also refer to a [rhythm](ch-17-rhythm.md) or a [chord progression](ch-21-harmony.md)) is \"motif\". A *motif* is a short musical idea - shorter than a phrase - that occurs often in a piece of music. A short melodic idea may also be called a *motiv*, a *motive*, a *cell*, or a *figure*. These small pieces of melody will appear again and again in a piece of music, sometimes exactly the same and sometimes changed. When a motif returns, it can be slower or faster, or in a different key. It may return \"upside down\" (with the notes going up instead of down, for example), or with the pitches or rhythms altered.
 
-![Music notation example](../images/cnx/61a817eace09793f5c3a9d046d4c08d0d04813fd.png)
+![Beethoven’s four-note fate motif: three repeated short notes followed by a long lower note under a fermata.](../images/notation/beethoven-fate-motif.svg)
 
 The <a href="../images/cnx/70a43813c654b989acdfb9c83c3254d6a6984071.midi">"fate motif"</a> from the first movement of Beethoven's Symphony No. 5. This is a good example of a short melodic idea (a <em>cell</em>, <em>motive</em>, or <em>figure</em>) that is used in many different ways throughout the movement.
 
 Most figures and motifs are shorter than phrases, but some of the leitmotifs of Wagner\'s operas are long enough to be considered phrases. A *leitmotif* (whether it is a very short cell or a long phrase) is associated with a particular character, place, thing, or idea in the opera and may be heard whenever that character is on stage or that idea is an important part of the plot. As with other motifs, leitmotifs may be changed when they return. For example, the same melody may sound quite different depending on whether the character is in love, being heroic, or dying.
 
-![Music notation example](../images/cnx/f3e6ac40f066daf1d2f6aef9c8e8ac3afd0debec.png)
+![Two bass-clef phrases based on Wagner’s Siegfried leitmotif, using dotted rhythms, leaps, flats, and slurs.](../images/notation/siegfried-leitmotif-phrase.svg)
 
 A melodic phrase based on the <a href="../images/cnx/0e9c4692a852de9fbece7964754434a1e815f987.midi">Siegfried leitmotif</a>, from Wagner's opera <strong>The Valkyrie</strong>.
 
@@ -76,7 +76,7 @@ A melodic phrase based on the <a href="../images/cnx/0e9c4692a852de9fbece7964754
 
 A longer section of melody that keeps reappearing in the music - for example, in a \"theme and variations\" - is often called a *theme*. Themes generally are at least one phrase long and often have several phrases. Many longer works of music, such as symphony movements, have more than one melodic theme.
 
-![Music notation example](../images/cnx/04f1d4ac48717164428426cac4f806a7c27c9e16.png)
+![The four phrases of Beethoven’s Ode to Joy theme, including its repeated opening phrases and varied concluding phrase.](../images/notation/beethoven-ode-to-joy-theme.svg)
 
 The <a href="../images/cnx/421279fbc084452d587ecacfbad093fbb3f26e89.midi">tune</a> of this theme will be very familiar to most people, but you may want to listen to the entire last movement of the symphony to hear the different ways that Beethoven uses the melody again and again.
 

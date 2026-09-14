@@ -100,13 +100,13 @@ A few time signatures don\'t have to be written as numbers. Four four time is us
 
 You may have already noticed that a measure in four four time looks the same as a measure in two two. After all, in arithmetic, four quarters adds up to the same thing as two halves. For that matter, why not call the time signature \"one one\" or \"eight eight\"?
 
-![Music notation example](../images/cnx/fefd427443e72ac2f4a849fd2250c004da0683d2.png)
+![The same note values grouped in one-one, two-two, and four-four time, with red arrows marking one, two, or four beat beginnings per measure.](../images/notation/beat-grouping-by-time-signature.svg)
 
 Measures in all of these meters look the same, but feel different. The difference is how many downbeats there are in a measure.
 
 Or why not write two two as two four, giving quarter notes the beat instead of half notes? The music would look very different, but it would sound the same, as long as you made the beats the same speed. The music in each of the staves in the referenced item would sound like [this](../images/cnx/c250450e723c4b0be58fe0fa098187e5d9fd3cfd.midi).
 
-![Music notation example](../images/cnx/e2f8f09813a0e0bff4ecb4cb571a114b3f6163b0.png)
+![Two rhythmically equivalent melodies in two-four time: the upper at quarter note equals 116 and the lower in doubled note values at half note equals 116.](../images/notation/equivalent-two-four-rhythms.svg)
 
 The music in each of these staves should sound exactly alike.
 
@@ -114,6 +114,6 @@ So why is one time signature chosen rather than another? The composer will norma
 
 A common exception to this rule of thumb is six eight time, and the other time signatures (for example nine eight and twelve eight) that are used to write compound [meters](ch-09-meter.md). A piece in six eight might have six beats in every measure, with an eighth note getting a beat. But it is more likely that the conductor (or a tapping foot) will give only two beats per measure, with a dotted quarter (or three eighth notes) getting one beat. In the same way, three eight may only have one beat per measure; nine eight, three beats per measure; and twelve eight, four beats per measure. Why the exceptions? Since beats normally get divided into halves and quarters, this is the easiest way for composers to write beats that are divided into thirds.
 
-![Music notation example](../images/cnx/540d38c5d4317268ef6344e38f6f46e2e352e370.png)
+![A six-eight rhythm with arrows showing two dotted-quarter beats, each divided into three eighth-note pulses.](../images/notation/compound-six-eight-beats.svg)
 
 In six eight time, a dotted quarter usually gets one beat. This is the easiest way to write beats that are evenly divided into three rather than two.

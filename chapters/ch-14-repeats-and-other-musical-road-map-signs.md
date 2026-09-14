@@ -16,7 +16,7 @@ So, in order to save time, ink, and page turns, common notation has many ways to
 
 If the repeated part is very small - only one or two measures, for example - the repeat sign will probably look something like those in the referenced item. If you have very many such repeated measures in a row, you may want to number them (in pencil) to help you keep track of where you are in the music.
 
-![Music notation example](../images/cnx/3d9009feab4fb0b2f7b3e95e4d2a7126b2f71d60.png)
+![Examples of the slash-and-dot symbols that mean repeat the previous one measure or previous two measures.](../images/notation/one-and-two-measure-repeat-symbols.svg)
 
 For repeated sections of medium length - usually four to thirty-two measures - *repeat dots* with or without endings are the most common markings. Dots to the right of a [double bar line](ch-01-the-staff.md) begin the repeated section; dots to the left of a double bar line end it. If there are no beginning repeat dots, you should go all the way back to the beginning of the music and repeat from there.
 
@@ -26,7 +26,7 @@ If there are no extra instructions, a repeated section should be played twice. O
 
 It is very common for longer repeated sections of music to be repeated exactly until the last few measures. When this happens, the repeat dots will be put in an *ending*. The bracket over the music shows you which measures to play each time you arrive at that point in the music. For example, the second time you reach a set of endings, you will **skip the music in all the other endings; play only the measures in the second ending, and then do whatever the second ending directs you to do** (repeat, go on, skip to somewhere else, etc.).
 
-![Music notation example](../images/cnx/6a71fe8ef244b0a4385573aff0451eaadabb8201.png)
+![A repeated passage with first-and-second and third ending brackets, annotated to show which ending is played on each pass.](../images/notation/first-second-and-third-endings.svg)
 
 Some "endings" of a section of music may include a repeat, while others do not. Play only one ending each time (skipping over other, previously played endings when necessary), and then follow the "instructions" at the end of the ending (to repeat, go on, go someplace else, etc.).
 
@@ -34,10 +34,10 @@ When you are repeating large sections in more informally written music, you may 
 
 In [Western classical music](ch-24-classifying-music.md), the most common instructions for repeating large sections are traditionally written (or abbreviated) in Italian. The most common instructions from that tradition are in the referenced item.
 
-![Music notation example](../images/cnx/3790348ad803232771a0a0338773ace6a6da0ebe.png)
+![Definitions of D.C., D.S., al fine, segno, fine, to-coda, and coda musical road-map signs.](../images/notation/musical-roadmap-signs.svg)
 
 Again, instructions can easily get quite complicated, and these large-section markings may require you to study your part for a minute to see how it is laid out, and even to mark (in pencil) circles and arrows that help you find the way quickly while you are playing. the referenced item contains a few very simplistic examples of how these \"road map signs\" will work.
 
-![Music notation example](../images/cnx/6ff2ebbbc07037cf05e7f6a4621e7a5b1574b0cb.png)
+![Short score examples tracing da capo al fine and dal segno al coda routes with fine, segno, and coda markings.](../images/notation/da-capo-and-dal-segno-roadmaps.svg)
 
 Here are some (shortened) examples of how these types of repeat instructions may be arranged. These types of signs usually mark longer repeated sections. In many styles of music, a short repeated section (usually marked with repeat dots) is often <strong>not</strong> repeated after a da capo or dal segno.
