@@ -1,16 +1,36 @@
-# Understanding Music Theory (local sources)
+# Understanding Music Theory
 
-Local working tree for Catherine Schmidt-Jones OpenStax/CNX music-theory
-materials. Not a QuadriviumPress org book repo (see sibling `musicTheory` for
-the Jekyll edition).
+A web-native MyST edition of Catherine Schmidt-Jones’s openly licensed CNX
+music-theory books. The site combines 47 source modules, hundreds of notation
+figures and listening examples, responsive book styling, GitHub Pages
+deployment, and offline support.
 
-## Layout
+## Develop locally
 
-- `schmidt-jones-sources/cnxbook-introduction-to-music-theory` — upstream CNX book (submodule)
-- `schmidt-jones-sources/cnxbook-understanding-basic-music-theory` — upstream CNX book (submodule)
-- `schmidt-jones-sources/exports/` — downloaded PDF/EPUB exports
+```bash
+npm install
+npm run start
+```
 
-## Upstream
+Run `npm run verify` to validate the project structure and local links,
+`npm test` for a strict MyST render, and `npm run build` to write the production
+site to `_build/html`.
 
-- https://github.com/cnx-user-books/cnxbook-introduction-to-music-theory
-- https://github.com/cnx-user-books/cnxbook-understanding-basic-music-theory
+## Project layout
+
+- `chapters/` and `front/` — generated, editable MyST lessons
+- `images/cnx/` — figures and listening files used by the lessons
+- `schmidt-jones-sources/` — versioned upstream CNX books and EPUB/PDF exports
+- `scripts/import-cnx.py` — reproducible CNX-to-MyST importer
+- `myst.yml` — metadata, navigation, and theme configuration
+
+## Refresh from the source
+
+After updating the source submodules and EPUB export, run:
+
+```bash
+npm run import:cnx
+```
+
+The importer requires Python 3 and Pandoc. See [SOURCES.md](SOURCES.md) for
+attribution, exact source revisions, licenses, and conversion notes.

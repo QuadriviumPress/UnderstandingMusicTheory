@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Two beamed notes on a musical staff</title>
+  <rect width="512" height="512" rx="96" fill="#f1dce3"/>
+  <g fill="none" stroke="#7b3f52" stroke-linecap="round" stroke-width="14">
+    <path d="M70 154h372M70 205h372M70 256h372M70 307h372M70 358h372" opacity=".68"/>
+    <path d="M235 144v218M360 112v206M235 144l125-32v55l-125 32" stroke="#4c2432" stroke-width="22"/>
+  </g>
+  <ellipse cx="202" cy="370" rx="49" ry="35" transform="rotate(-16 202 370)" fill="#4c2432"/>
+  <ellipse cx="327" cy="326" rx="49" ry="35" transform="rotate(-16 327 326)" fill="#4c2432"/>
+  <circle cx="420" cy="92" r="24" fill="#a66d19"/>
+</svg>
+

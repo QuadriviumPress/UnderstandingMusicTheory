@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Beamed notes</title>
+  <rect width="64" height="64" rx="12" fill="#7b3f52"/>
+  <g fill="none" stroke="#f7e8d0" stroke-linecap="round" stroke-width="1.6" opacity=".75">
+    <path d="M7 20h50M7 26h50M7 32h50M7 38h50M7 44h50"/>
+  </g>
+  <path d="M29 16v29M45 12v27M29 16l16-4v7l-16 4" fill="none" stroke="#fff" stroke-width="3.4"/>
+  <ellipse cx="25" cy="46" rx="6.5" ry="4.7" transform="rotate(-16 25 46)" fill="#fff"/>
+  <ellipse cx="41" cy="40" rx="6.5" ry="4.7" transform="rotate(-16 41 40)" fill="#fff"/>
+</svg>
+

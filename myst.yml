@@ -1,0 +1,110 @@
+version: 1
+project:
+  id: understanding-music-theory
+  title: Understanding Music Theory
+  subtitle: Notation, Sound, Scales, Harmony, and Musicianship
+  short_title: Music Theory
+  description: >-
+    An approachable, media-rich introduction to music notation, acoustics,
+    scales, intervals, harmony, form, ear training, and transposition.
+  authors:
+    - name: Catherine Schmidt-Jones
+  editors:
+    - name:
+        literal: QuadriviumPress
+  license: CC-BY-2.0
+  open_access: true
+  github: QuadriviumPress/UnderstandingMusicTheory
+  keywords:
+    - music theory
+    - music notation
+    - harmony
+    - scales and intervals
+    - ear training
+    - open textbook
+  numbering:
+    headings: true
+    figure: true
+    table: true
+  toc:
+    - file: index.md
+    - file: front/introduction.md
+    - title: "Part I — Reading Music: Pitch"
+      children:
+        - file: chapters/ch-01-the-staff.md
+        - file: chapters/ch-02-clef.md
+        - file: chapters/ch-03-pitch-sharp-flat-and-natural-notes.md
+        - file: chapters/ch-04-key-signature.md
+        - file: chapters/ch-05-enharmonic-spelling.md
+    - title: "Part II — Reading Music: Time and Expression"
+      children:
+        - file: chapters/ch-06-duration-note-lengths-in-written-music.md
+        - file: chapters/ch-07-duration-rest-length.md
+        - file: chapters/ch-08-time-signature.md
+        - file: chapters/ch-09-meter.md
+        - file: chapters/ch-10-pickup-notes-and-measures.md
+        - file: chapters/ch-11-dots-ties-and-borrowed-divisions.md
+        - file: chapters/ch-12-syncopation.md
+        - file: chapters/ch-13-tempo.md
+        - file: chapters/ch-14-repeats-and-other-musical-road-map-signs.md
+        - file: chapters/ch-15-dynamics-and-accents.md
+        - file: chapters/ch-16-articulation.md
+    - title: "Part III — The Elements of Music"
+      children:
+        - file: chapters/ch-17-rhythm.md
+        - file: chapters/ch-18-timbre.md
+        - file: chapters/ch-19-melody.md
+        - file: chapters/ch-20-texture.md
+        - file: chapters/ch-21-harmony.md
+        - file: chapters/ch-22-counterpoint.md
+        - file: chapters/ch-23-range.md
+        - file: chapters/ch-24-classifying-music.md
+    - title: "Part IV — Sound and Acoustics"
+      children:
+        - file: chapters/ch-25-acoustics-for-music-theory.md
+        - file: chapters/ch-26-standing-waves-and-musical-instruments.md
+        - file: chapters/ch-27-harmonic-series-i-timbre-and-octaves.md
+    - title: "Part V — Notes, Keys, and Scales"
+      children:
+        - file: chapters/ch-28-octaves-and-the-major-minor-tonal-system.md
+        - file: chapters/ch-29-half-steps-and-whole-steps.md
+        - file: chapters/ch-30-major-keys-and-scales.md
+        - file: chapters/ch-31-minor-keys-and-scales.md
+        - file: chapters/ch-32-interval.md
+        - file: chapters/ch-33-harmonic-series-ii-harmonics-intervals-and-instruments.md
+        - file: chapters/ch-34-the-circle-of-fifths.md
+        - file: chapters/ch-35-scales-that-are-not-major-or-minor.md
+    - title: "Part VI — Harmony and Form"
+      children:
+        - file: chapters/ch-36-triads.md
+        - file: chapters/ch-37-naming-triads.md
+        - file: chapters/ch-38-consonance-and-dissonance.md
+        - file: chapters/ch-39-beyond-triads-naming-other-chords.md
+        - file: chapters/ch-40-beginning-harmonic-analysis.md
+        - file: chapters/ch-41-cadence.md
+        - file: chapters/ch-42-form.md
+    - title: "Part VII — Musicianship Challenges"
+      children:
+        - file: chapters/ch-43-ear-training.md
+        - file: chapters/ch-44-tuning-systems.md
+        - file: chapters/ch-45-modes-and-ragas.md
+        - file: chapters/ch-46-transposition-changing-keys.md
+site:
+  template: book-theme
+  title: Understanding Music Theory
+  options:
+    favicon: images/favicon.svg
+    logo: images/logo.svg
+    logo_dark: images/logo-dark.svg
+    logo_alt: Two beamed notes crossing a five-line musical staff
+    logo_text: Understanding Music Theory
+    logo_url: /
+    style: css/custom.css
+    hide_authors: false
+  actions:
+    - title: Original CNX source
+      url: https://github.com/cnx-user-books/cnxbook-understanding-basic-music-theory
+  nav:
+    - title: Sources & Attribution
+      url: https://github.com/QuadriviumPress/UnderstandingMusicTheory/blob/main/SOURCES.md
+

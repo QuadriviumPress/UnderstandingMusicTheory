@@ -1,0 +1,66 @@
+---
+title: "Duration: Rest Length"
+description: "In standard music notation, rests of different lengths have different shapes."
+authors:
+  - name: Catherine Schmidt-Jones
+license: CC-BY-2.0
+open_access: true
+source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-theory/blob/d748840fe868c82b529005c2b16748fe1471108c/modules/m11887/index.cnxml"
+---
+
+*In standard music notation, rests of different lengths have different shapes.*
+
+[]{#m11887-p2a}
+
+A *rest* stands for a silence in music. For each kind of [note](ch-06-duration-note-lengths-in-written-music.md), there is a written rest of the same length.
+
+[]{#m11887-fig23c}
+<figure>
+<img src="../images/cnx/bd711483c83680623a2d7c368a02da858e0ffc8f.png" alt="Music notation example" />
+</figure>
+
+::: {#m11887-exer2a .exercise}
+**Practice**
+
+::: {#m11887-id1170197108933 .problem}
+**Question**
+
+[]{#m11887-prob2a}
+
+For each note on the first line, write a rest of the same length on the second line. The first [measure](ch-08-time-signature.md) is done for you.
+
+[]{#m11887-fig23l}
+<figure>
+<img src="../images/cnx/516221c98846357d9645c78d9c218df3ad872ef8.png" alt="Music notation example" />
+</figure>
+:::
+
+::: {#m11887-id1170197931556 .solution}
+**Solution**
+
+[]{#m11887-fig23m}
+<figure>
+<img src="../images/cnx/d7543f40076f23c7dd430a0b2d4c88e279a6d708.png" alt="Music notation example" />
+</figure>
+:::
+:::
+
+[]{#m11887-element-646}
+
+Rests don\'t necessarily mean that there is silence in the music at that point; only that that part is silent. Often, on a [staff](ch-01-the-staff.md) with multiple parts, a rest must be used as a placeholder for one of the parts, even if a single person is playing both parts. When the rhythms are complex, this is necessary to make the rhythm in each part clear.
+
+[]{#m11887-element-505}
+<figure>
+<img src="../images/cnx/983c61f990d02147ab4473508cb516532e871057.png" alt="Music notation example" />
+<figcaption>When multiple simultaneous rhythms are written on the same staff, rests may be used to clarify individual rhythms, even if another rhythm contains notes at that point.</figcaption>
+</figure>
+
+[]{#m11887-element-523}
+
+The normal rule in common notation is that, for any line of music, the notes and rests in each measure must \"add up\" to exactly the amount in the [time signature](ch-08-time-signature.md), no more and no less. For example, in 3/4 time, a measure can have any combination of notes and rests that is the same length as three quarter notes. There is only one common exception to this rule. As a simplifying shorthand, a completely silent measure can simply have a whole rest. In this case, \"whole rest\" does not necessarily mean \"rest for the same length of time as a whole note\"; it means \"rest for the entire measure\".
+
+[]{#m11887-measure}
+<figure>
+<img src="../images/cnx/2749a1f9ce0ab7e901f61b6858a33354bba8033d.png" alt="Music notation example" />
+<figcaption>A whole rest may be used to indicate a completely silent measure, no matter what the actual length of the measure will be.</figcaption>
+</figure>

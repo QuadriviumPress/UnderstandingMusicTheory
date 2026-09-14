@@ -1,2 +1,8 @@
+node_modules/
+_build/
+.myst/
+.env
+.env.*
 .DS_Store
 Thumbs.db
+npm-debug.log*

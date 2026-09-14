@@ -1,0 +1,24 @@
+{
+  "name": "understanding-music-theory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A PWA-ready MyST edition of Catherine Schmidt-Jones's open music theory books.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10 <11"
+  },
+  "scripts": {
+    "start": "myst start",
+    "build": "myst build --html && node scripts/setup-pwa.mjs",
+    "import:cnx": "python3 scripts/import-cnx.py",
+    "verify": "node scripts/verify-book.mjs",
+    "test": "npm run check",
+    "check": "npm run verify && myst build --html --strict"
+  },
+  "devDependencies": {
+    "mystmd": "1.10.1",
+    "sharp": "0.34.3",
+    "yaml": "2.8.1"
+  }
+}
