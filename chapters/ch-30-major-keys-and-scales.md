@@ -14,112 +14,82 @@ The simple, sing-along, nursery rhymes and folk songs we learn as children; the 
 
 How are these moods produced? Music in a particular *key* tends to use only some of the many possible notes available; these notes are listed in the *scale* associated with that key. In major keys, the notes of the scale are often used to build \"bright\"-sounding [major chords](ch-37-naming-triads.md). They also give a strong feeling of having a tonal center, a note or chord that feels like \"home\", or \"the resting place\", in that key. The \"bright\"-sounding major chords and the strong feeling of tonality are what give major keys their happy, pleasant moods. This contrasts with the moods usually suggested by music that uses [minor](ch-31-minor-keys-and-scales.md) keys, scales, and chords. Although it also has a strong tonal center (the [Western](ch-24-classifying-music.md) tradition of tonal [harmony](ch-21-harmony.md) is based on major and minor keys and scales), music in a minor key is more likely to sound sad, ominous, or mysterious. In fact, most musicians, and even many non-musicians, can distinguish major and minor keys just by listening to the music.
 
-:::{admonition} Practice
-:name: m10851-exer0a
-:class: exercise
+> **Practice**
+>
+> > **Question**
+> >
+> > Listen to these excerpts. Three are in a major key and two in a minor key. Can you tell which is which simply by listening?
+> >
+> > - [1.](../images/cnx/ea3b81eec11c04f186d968efddc160ba2ffc4ae9.mp3)
+> > - [2.](../images/cnx/bdc7783f8aec5f5fbc5de64f33713233447f3e08.mp3)
+> > - [3.](../images/cnx/0f5d439427028a69aa958155eef42032048bf623.mp3)
+> > - [4.](../images/cnx/ae21b6f6350d2c7675e1a7991841379f5a3f17af.mp3)
+> > - [5.](../images/cnx/52451aaca88619c8192b24d0834c0c45e0b55b0c.mp3)
+>
+> > **Solution**
+> >
+> > 1.  Major
+> > 2.  Major
+> > 3.  Minor
+> > 4.  Major
+> > 5.  Minor
 
-::::{admonition} Question
-:name: m10851-id1167962581572
-:class: problem
-
-Listen to these excerpts. Three are in a major key and two in a minor key. Can you tell which is which simply by listening?
-
-- [1.](../images/cnx/ea3b81eec11c04f186d968efddc160ba2ffc4ae9.mp3)
-- [2.](../images/cnx/bdc7783f8aec5f5fbc5de64f33713233447f3e08.mp3)
-- [3.](../images/cnx/0f5d439427028a69aa958155eef42032048bf623.mp3)
-- [4.](../images/cnx/ae21b6f6350d2c7675e1a7991841379f5a3f17af.mp3)
-- [5.](../images/cnx/52451aaca88619c8192b24d0834c0c45e0b55b0c.mp3)
-::::
-
-::::{admonition} Solution
-:name: m10851-id3265437
-:class: solution
-
-1.  Major
-2.  Major
-3.  Minor
-4.  Major
-5.  Minor
-::::
-:::
-
-:::{admonition} Note
-:name: m10851-id1167964253655
-:class: note
-
-If you must determine whether a piece of music is major or minor, and cannot tell just by listening, you may have to do some simple [harmonic analysis](ch-40-beginning-harmonic-analysis.md) in order to decide.
-:::
+> **Note**
+>
+> If you must determine whether a piece of music is major or minor, and cannot tell just by listening, you may have to do some simple [harmonic analysis](ch-40-beginning-harmonic-analysis.md) in order to decide.
 
 ## Tonal Center
 
 A scale starts with the note that names the key. This note is the *tonal center* of that key, the note where music in that key feels \"at rest\". It is also called the *tonic*, and it\'s the \"do\" in \"do-re-mi\". For example, music in the key of A major almost always ends on an A major chord, the [chord](ch-21-harmony.md) built on the note A. It often also begins on that chord, returns to that chord often, and features a melody and a bass line that also return to the note A often enough that listeners will know where the tonal center of the music is, even if they don\'t realize that they know it. (For more information about the tonic chord and its relationship to other chords in a key, please see [Beginning Harmonic Analysis](ch-40-beginning-harmonic-analysis.md).)
 
-:::{admonition} Example
-:name: m10851-e1a
-:class: example
-
-Listen to these examples. Can you hear that they do not feel \"done\" until the final tonic is played?
-
-- [Example A](../images/cnx/7a5e062429d324e73c4d07f2ba15b1a852a22a52.midi)
-- [Example B](../images/cnx/d41860be91e0981361e02280313d23753c37ebdd.midi)
-:::
+> **Example**
+>
+> Listen to these examples. Can you hear that they do not feel \"done\" until the final tonic is played?
+>
+> - [Example A](../images/cnx/7a5e062429d324e73c4d07f2ba15b1a852a22a52.midi)
+> - [Example B](../images/cnx/d41860be91e0981361e02280313d23753c37ebdd.midi)
 
 ## Major Scales
 
 To find the rest of the notes in a major key, start at the tonic and go up following this pattern: **whole step, whole step, half step, whole step, whole step, whole step, half step**. This will take you to the tonic one octave higher than where you began, and includes all the notes in the key in that octave.
 
-:::{admonition} Example
-:name: m10851-e2a
-:class: example
+> **Example**
+>
+> These major scales all follow the same pattern of whole steps and half steps. They have different sets of notes because the pattern starts on different notes.
+>
+> ![Music notation example](../images/cnx/31c995861b2dffd208346e79492b348278fc3c21.png)
+>
+> All major scales have the same pattern of half steps and whole steps, beginning on the note that names the scale - the tonic.
+>
+> Listen to the difference between the [C major](../images/cnx/43f0013b00e93bbc49501f936c785c58b195feab.mpg), [D major](../images/cnx/0ff9a8638058aba261682740098c5809edf8ca25.mpg), and [B flat major](../images/cnx/ae444a3d18926a85a91168350eb873daaff00635.mpg) scales.
 
-These major scales all follow the same pattern of whole steps and half steps. They have different sets of notes because the pattern starts on different notes.
-
-![Music notation example](../images/cnx/31c995861b2dffd208346e79492b348278fc3c21.png)
-
-All major scales have the same pattern of half steps and whole steps, beginning on the note that names the scale - the tonic.
-
-Listen to the difference between the [C major](../images/cnx/43f0013b00e93bbc49501f936c785c58b195feab.mpg), [D major](../images/cnx/0ff9a8638058aba261682740098c5809edf8ca25.mpg), and [B flat major](../images/cnx/ae444a3d18926a85a91168350eb873daaff00635.mpg) scales.
-:::
-
-:::{admonition} Practice
-:name: m10851-ex2a
-:class: exercise
-
-::::{admonition} Question
-:name: m10851-id1167961891667
-:class: problem
-
-For each note below, write a major scale, one octave, ascending (going up), beginning on that note. If you\'re not sure whether a note should be written as a flat, sharp, or natural, remember that you won\'t ever skip a line or space, or write two notes of the scale on the same line or space. If you need help keeping track of half steps, use a keyboard, a [picture of a keyboard](ch-28-octaves-and-the-major-minor-tonal-system.md), a written [chromatic scale](ch-29-half-steps-and-whole-steps.md), or the chromatic scale fingerings for your instrument. If you need more information about half steps and whole steps, see [Half Steps and Whole Steps](ch-29-half-steps-and-whole-steps.md).
-
-If you need staff paper for this exercise, you can print out this [staff paper](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf) PDF file.
-
-![Music notation example](../images/cnx/5fe66d86c6389d14990425c15ae7fb3b3a57697a.png)
-
-::::
-
-::::{admonition} Solution
-:name: m10851-id6522328
-:class: solution
-
-![Music notation example](../images/cnx/33960a69fd3a1c138c9f46079f7a2c93120c758b.png)
-
-Notice that although they look completely different, the scales of F sharp major and G flat major (numbers 5 and 6) sound exactly the same when played, on a piano as shown in the referenced item, or on any other instrument using [equal temperament](ch-44-tuning-systems.md) tuning. If this surprises you, please read more about [enharmonic](ch-05-enharmonic-spelling.md) scales.
-
-![Music notation example](../images/cnx/f01bba67e1e7c2db689d526b14cff7a4a3ff2731.png)
-
-Using this figure of a keyboard, or the fingerings from your own instrument, notice that the notes for the F sharp major scale and the G flat major scale in [link], although spelled differently, will sound the same.
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > For each note below, write a major scale, one octave, ascending (going up), beginning on that note. If you\'re not sure whether a note should be written as a flat, sharp, or natural, remember that you won\'t ever skip a line or space, or write two notes of the scale on the same line or space. If you need help keeping track of half steps, use a keyboard, a [picture of a keyboard](ch-28-octaves-and-the-major-minor-tonal-system.md), a written [chromatic scale](ch-29-half-steps-and-whole-steps.md), or the chromatic scale fingerings for your instrument. If you need more information about half steps and whole steps, see [Half Steps and Whole Steps](ch-29-half-steps-and-whole-steps.md).
+> >
+> > If you need staff paper for this exercise, you can print out this [staff paper](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf) PDF file.
+> >
+> > ![Music notation example](../images/cnx/5fe66d86c6389d14990425c15ae7fb3b3a57697a.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/33960a69fd3a1c138c9f46079f7a2c93120c758b.png)
+> >
+> > Notice that although they look completely different, the scales of F sharp major and G flat major (numbers 5 and 6) sound exactly the same when played, on a piano as shown in the referenced item, or on any other instrument using [equal temperament](ch-44-tuning-systems.md) tuning. If this surprises you, please read more about [enharmonic](ch-05-enharmonic-spelling.md) scales.
+> >
+> > ![Music notation example](../images/cnx/f01bba67e1e7c2db689d526b14cff7a4a3ff2731.png)
+> >
+> > Using this figure of a keyboard, or the fingerings from your own instrument, notice that the notes for the F sharp major scale and the G flat major scale in [link], although spelled differently, will sound the same.
+> >
 
 In the examples above, the sharps and flats are written next to the notes. In common notation, the sharps and flats **that belong in the key** will be written at the beginning of each staff, in the *key signature*. For more practice identifying keys and writing key signatures, please see [Key Signature](ch-04-key-signature.md). For more information about how keys are related to each other, please see [The Circle of Fifths](ch-34-the-circle-of-fifths.md).
 
-:::{admonition} Note
-:name: m10851-eip-id1164403056828
-:class: note
-
-Do key signatures make music more complicated than it needs to be? Is there an easier way? Join the discussion at [Opening Measures](http://openingmeasures.com/music/22/why-cant-we-use-something-simpler-than-key-signatures/).
-:::
+> **Note**
+>
+> Do key signatures make music more complicated than it needs to be? Is there an easier way? Join the discussion at [Opening Measures](http://openingmeasures.com/music/22/why-cant-we-use-something-simpler-than-key-signatures/).
 
 ## Music in Different Major Keys
 

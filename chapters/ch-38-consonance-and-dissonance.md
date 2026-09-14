@@ -12,12 +12,9 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 Notes that sound good together when played at the same time are called *consonant*. Chords built only of consonances sound pleasant and \"stable\"; you can listen to one for a long time without feeling that the music needs to change to a different chord. Notes that are *dissonant* can sound harsh or unpleasant when played at the same time. Or they may simply feel \"unstable\"; if you hear a chord with a dissonance in it, you may feel that the music is pulling you towards the chord that *resolves* the dissonance. Obviously, what seems pleasant or unpleasant is partly a matter of opinion. This discussion only covers consonance and dissonance in [Western](ch-24-classifying-music.md) music.
 
-:::{admonition} Note
-:name: m11953-id1167618911430
-:class: note
-
-For activities that introduce these concepts to young students, please see [Consonance and Dissonance Activities](https://cnx.org/content/m11999).
-:::
+> **Note**
+>
+> For activities that introduce these concepts to young students, please see [Consonance and Dissonance Activities](https://cnx.org/content/m11999).
 
 Of course, if there are problems with tuning, the notes will not sound good together, but this is not what consonance and dissonance are about. (Please note, though, that the choice of tuning system can greatly affect which intervals sound consonant and which sound dissonant! Please see [Tuning Systems](ch-44-tuning-systems.md) for more about this.)
 

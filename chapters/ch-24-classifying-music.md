@@ -22,12 +22,9 @@ Wherever Europeans went during the colonial era, they took their music with them
 
 *Non-Western music* is any music that grew out of a different culture or musical tradition than the European. For someone who grew up listening to Western music, Non-Western music will have a recognizably exotic sound. This comes from the use of [different tuning systems](ch-44-tuning-systems.md), [different scales](ch-35-scales-that-are-not-major-or-minor.md), different vocal styles and performance practices, and different approaches to melody and harmony.
 
-:::{admonition} Note
-:name: m11421-id1171303902657
-:class: note
-
-You may find the terms \"Western\" and \"Non-Western\" to be too Eurocentric, but they are very well entrenched, so you\'ll need to know what they mean. If you want to avoid using the terms yourself, you can be more specific. You can speak, for example, of European classical or the European-American folk tradition, as opposed to [Indian Classical](https://cnx.org/content/m12502), Japanese folk, or African-American musics.
-:::
+> **Note**
+>
+> You may find the terms \"Western\" and \"Non-Western\" to be too Eurocentric, but they are very well entrenched, so you\'ll need to know what they mean. If you want to avoid using the terms yourself, you can be more specific. You can speak, for example, of European classical or the European-American folk tradition, as opposed to [Indian Classical](https://cnx.org/content/m12502), Japanese folk, or African-American musics.
 
 ## Jazz, Blues, and World Music
 

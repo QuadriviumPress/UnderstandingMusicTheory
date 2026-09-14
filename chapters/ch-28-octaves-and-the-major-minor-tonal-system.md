@@ -42,38 +42,26 @@ The octaves are named from one C to the next higher C. For example, all the note
 
 The octave below contra can be labelled CCC or Co; higher octaves can be labelled with higher numbers or more lines. Octaves are named from one C to the next higher C. For example, all the notes between \"great C\" and \"small C\" are \"great\". **One-line c is also often called \"middle C\". No other notes are called \"middle\", only the C.**
 
-:::{admonition} Example
-:name: m10862-examp2a
-:class: example
+> **Example**
+>
+> ![Music notation example](../images/cnx/3c685067aa0d4183c9daa43d662382ef87efc702.png)
+>
+> Each note is considered to be in the same octave as the C below it.
+>
 
-![Music notation example](../images/cnx/3c685067aa0d4183c9daa43d662382ef87efc702.png)
-
-Each note is considered to be in the same octave as the C below it.
-
-:::
-
-:::{admonition} Practice
-:name: m10862-exer2a
-:class: exercise
-
-::::{admonition} Question
-:name: m10862-id1169951999086
-:class: problem
-
-Give the correct octave name for each note.
-
-![Music notation example](../images/cnx/9ccaa35c2e2f92fdf3c76c341017b4aa750c273e.png)
-
-::::
-
-::::{admonition} Solution
-:name: m10862-id1169953094972
-:class: solution
-
-![Music notation example](../images/cnx/ed856404348dfc76ae8067fe2bd38f568a480dea.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Give the correct octave name for each note.
+> >
+> > ![Music notation example](../images/cnx/9ccaa35c2e2f92fdf3c76c341017b4aa750c273e.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/ed856404348dfc76ae8067fe2bd38f568a480dea.png)
+> >
 
 ## Dividing the Octave into Scales
 

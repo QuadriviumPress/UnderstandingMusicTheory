@@ -197,6 +197,40 @@ def normalize_admonition_fences(body: str) -> str:
     return "\n".join(lines)
 
 
+def convert_admonitions_to_blockquotes(body: str) -> str:
+    """Use standard Markdown blockquotes for callouts in HTML-only output.
+
+    The deployed renderer is treating MyST directive fences as literal text.
+    Blockquotes are part of CommonMark, support nesting, and keep Markdown
+    images and links inside the callout parseable.
+    """
+    opening = re.compile(r"^:{3,}\{admonition\}(?: (?P<title>.*))?$")
+    closing = re.compile(r"^:{3,}$")
+    stack: list[str] = []
+    lines: list[str] = []
+
+    for line in body.splitlines():
+        match = opening.match(line)
+        if match:
+            stack.append(match.group("title") or "Note")
+            lines.append(f"{' >' * len(stack)} **{stack[-1]}**".lstrip())
+            continue
+        if closing.match(line) and stack:
+            stack.pop()
+            continue
+        if stack and line.startswith((":name:", ":class:")):
+            continue
+        if stack:
+            prefix = "> " * len(stack)
+            lines.append(prefix.rstrip() if not line else f"{prefix}{line}")
+        else:
+            lines.append(line)
+
+    if stack:
+        raise RuntimeError("Unclosed admonition in imported content")
+    return "\n".join(lines)
+
+
 def normalize_existing_pages() -> None:
     """Apply the current post-import normalization without requiring the EPUB.
 
@@ -220,6 +254,7 @@ def normalize_existing_pages() -> None:
         body = convert_callouts(body)
         body = remove_id_containers(body)
         body = normalize_admonition_fences(body)
+        body = convert_admonitions_to_blockquotes(body)
         body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
         page.write_text(body, encoding="utf-8")
     print(f"Normalized {len(pages)} existing MyST pages.")
@@ -379,6 +414,7 @@ def convert() -> None:
             body = convert_callouts(body)
             body = remove_id_containers(body)
             body = normalize_admonition_fences(body)
+            body = convert_admonitions_to_blockquotes(body)
             body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
 
             module.output.parent.mkdir(parents=True, exist_ok=True)

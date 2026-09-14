@@ -32,12 +32,9 @@ This sort of orderliness is actually hard to get from water waves, but relativel
 
 In order to get the necessary constant reinforcement, the container has to be the perfect size (length) for a certain wavelength, so that waves bouncing back or being produced at each end reinforce each other, instead of interfering with each other and cancelling each other out. And it really helps to keep the container very narrow, so that you don\'t have to worry about waves bouncing off the sides and complicating things. So you have a bunch of regularly-spaced waves that are trapped, bouncing back and forth in a container that fits their wavelength perfectly. If you could watch these waves, it would not even look as if they are traveling back and forth. Instead, waves would seem to be appearing and disappearing regularly at exactly the same spots, so these trapped waves are called *standing waves*.
 
-:::{admonition} Note
-:name: m12413-id1165156267973
-:class: note
-
-Although standing waves are harder to get in water, the phenomenon does apparently happen very rarely in lakes, resulting in freak disasters. You can sometimes get the same effect by pushing a tub of water back and forth, but this is a messy experiment; you\'ll know you are getting a standing wave when the water suddenly starts sloshing much higher - right out of the tub!
-:::
+> **Note**
+>
+> Although standing waves are harder to get in water, the phenomenon does apparently happen very rarely in lakes, resulting in freak disasters. You can sometimes get the same effect by pushing a tub of water back and forth, but this is a messy experiment; you\'ll know you are getting a standing wave when the water suddenly starts sloshing much higher - right out of the tub!
 
 For any narrow \"container\" of a particular length, there are plenty of possible standing waves that don\'t fit. But there are also many standing waves that do fit. The longest wave that fits it is called the *fundamental*. It is also called the *first harmonic*. The next longest wave that fits is the *second harmonic*, or the *first overtone*. The next longest wave is the *third harmonic*, or *second overtone*, and so on.
 
@@ -63,33 +60,24 @@ A string that's held very tightly at both ends can only vibrate at very particul
 
 The fundamental wave is the one that gives a string its [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md). But the string is making all those other possible vibrations, too, all at the same time, so that the actual vibration of the string is pretty complex. The other vibrations (the ones that basically divide the string into halves, thirds and so on) produce a whole series of *harmonics*. We don\'t hear the harmonics as separate notes, but we do hear them. They are what gives the string its rich, musical, string-like sound - its [timbre](ch-18-timbre.md). (The sound of a single frequency alone is a much more mechanical, uninteresting, and unmusical sound.) To find out more about harmonics and how they affect a musical sound, see [Harmonic Series](https://cnx.org/content/m11118).
 
-:::{admonition} Practice
-:name: m12413-exer2a
-:class: exercise
-
-::::{admonition} Question
-:name: m12413-id1165156343679
-:class: problem
-
-1.  How has the part of the string that vibrates changed?
-2.  How does this change the sound waves that the string makes?
-3.  How does this change the sound that is heard?
-::::
-
-:::
-:::{admonition} Solution
-:name: m12413-id8069724
-:class: solution
-
-1.  The part of the string that can vibrate is shorter. The finger becomes the new \"end\" of the string.
-2.  The new sound wave is shorter, so its frequency is higher.
-3.  It sounds higher; it has a higher pitch.
-
-![Music notation example](../images/cnx/e0b9eed69d190c563d6d76312a33fbfa5dbc8412.png)
-
-When a finger holds the string down tightly, the finger becomes the new end of the vibrating part of the string. The vibrating part of the string is shorter, and the whole set of sound waves it makes is shorter.
-
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > 1.  How has the part of the string that vibrates changed?
+> > 2.  How does this change the sound waves that the string makes?
+> > 3.  How does this change the sound that is heard?
+>
+> **Solution**
+>
+> 1.  The part of the string that can vibrate is shorter. The finger becomes the new \"end\" of the string.
+> 2.  The new sound wave is shorter, so its frequency is higher.
+> 3.  It sounds higher; it has a higher pitch.
+>
+> ![Music notation example](../images/cnx/e0b9eed69d190c563d6d76312a33fbfa5dbc8412.png)
+>
+> When a finger holds the string down tightly, the finger becomes the new end of the vibrating part of the string. The vibrating part of the string is shorter, and the whole set of sound waves it makes is shorter.
+>
 
 ## Standing Waves in Wind Instruments
 
@@ -115,31 +103,19 @@ So far we have looked at two of the four main groups of musical instruments: cho
 
 *Idiophones* are instruments in which the body of the instrument itself, or a part of it, produces the original vibration. Some of these instruments (cymbals, for example) produce simple noise-like sounds when struck. But in some, the shape of the instrument - usually a tube, block, circle, or bell shape - allows the instrument to ring with a standing-wave vibration when you strike it. The standing waves in these carefully-shaped-and-sized idiophones - for example, the blocks on a xylophone - produce pitched tones, but again, the patterns of standing waves in these instruments are a little too complicated for this discussion. If a percussion instrument does produce pitched sounds, however, the reason, again, is that it is mainly producing harmonic-series [overtones](https://cnx.org/content/m11118).
 
-:::{admonition} Note
-:name: m12413-id9053211
-:class: note
+> **Note**
+>
+> Although [percussion](https://cnx.org/content/m11897#s14) specializes in \"noise\"-type sounds, even instruments like snare drums follow the basic physics rule of \"bigger instrument makes longer wavelengths and lower sounds\". If you can, listen to a percussion player or section that is using snare drums, cymbals, or other percussion of the same type but different sizes. Can you hear the difference that size makes, as opposed to differences in [timbre](ch-18-timbre.md) produced by different types of drums?
 
-Although [percussion](https://cnx.org/content/m11897#s14) specializes in \"noise\"-type sounds, even instruments like snare drums follow the basic physics rule of \"bigger instrument makes longer wavelengths and lower sounds\". If you can, listen to a percussion player or section that is using snare drums, cymbals, or other percussion of the same type but different sizes. Can you hear the difference that size makes, as opposed to differences in [timbre](ch-18-timbre.md) produced by different types of drums?
-:::
-
-:::{admonition} Practice
-:name: m12413-exer2b
-:class: exercise
-
-::::{admonition} Question
-:name: m12413-id8807052
-:class: problem
-
-Some idiophones, like gongs, ring at many different pitches when they are struck. Like most drums, they don\'t have a particular pitch, but make more of a \"noise\"-type sound. Other idiophones, though, like xylophones, are designed to ring at more particular frequencies. Can you think of some other percussion instruments that get particular pitches? (Some can get enough different pitches to play a tune.)
-::::
-
-::::{admonition} Solution
-:name: m12413-id1165156365571
-:class: solution
-
-- Chimes
-- All xylophone-type instruments, such as marimba, vibraphone, and glockenspiel
-- Handbells and other tuned bells
-- Steel pan drums
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Some idiophones, like gongs, ring at many different pitches when they are struck. Like most drums, they don\'t have a particular pitch, but make more of a \"noise\"-type sound. Other idiophones, though, like xylophones, are designed to ring at more particular frequencies. Can you think of some other percussion instruments that get particular pitches? (Some can get enough different pitches to play a tune.)
+>
+> > **Solution**
+> >
+> > - Chimes
+> > - All xylophone-type instruments, such as marimba, vibraphone, and glockenspiel
+> > - Handbells and other tuned bells
+> > - Steel pan drums

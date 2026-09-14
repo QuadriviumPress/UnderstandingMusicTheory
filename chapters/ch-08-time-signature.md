@@ -20,24 +20,18 @@ The time signature appears at the beginning of the piece of music, right after t
 
 Music happens over a period of time, so a very common way to organize music is to divide that time into short periods of the same length, using audible pulses called *beats*. Each pulse is *a beat*, and the regular, predictable pulse of a piece of music is *the beat*. The beat is created when the musicians do things (like hit a drum, strum a guitar, or start singing a word) at very regular intervals. This creates an audible, predictable pulse that helps the musicians to coordinate what they are doing so that they sound good together. The predictability and audibility of the beat also allows others to join in. As soon as listeners can \"feel the beat,\" they can clap hands, snap fingers, tap their feet, nod their heads, march, dance, or sing along \"in time\" with the music (in other words, coordinated with the musicians). Anything that happens during the audible pulse (a clap or drum hit, for example), as well as anything that starts during a pulse (such as a sung word, or a note on a flute or violin) is said to be *on the beat*. Of course, things can happen in between the beats, too, but the timing for those is also coordinated using the beats; for example, a note might begin at exactly the halfway point between two beats.
 
-:::{admonition} Note
-:name: m10956-eip-613
-:class: note
+> **Note**
+>
+> Not all music has beats and a time signature. In music with a *free* rhythm or meter, there is no time signature, and no regular pulse to the music; the musicians are free to play or sing a note at whatever time they feel is best. Other pieces may have a written time signature, to help the musicians keep track of time, but the musical events in the piece do not give it an audible beat.
 
-Not all music has beats and a time signature. In music with a *free* rhythm or meter, there is no time signature, and no regular pulse to the music; the musicians are free to play or sing a note at whatever time they feel is best. Other pieces may have a written time signature, to help the musicians keep track of time, but the musical events in the piece do not give it an audible beat.
-:::
-
-:::{admonition} Example
-:name: m10956-examp1a
-:class: example
-
-Listen to excerpts A, B, C and D. Can you clap your hands, tap your feet, or otherwise move \"to the beat\"? Is there a piece in which it is easier or harder to feel the beat?
-
-- [A](../images/cnx/ae21b6f6350d2c7675e1a7991841379f5a3f17af.mp3)
-- [B](../images/cnx/9e4dd822e981d8d4a65b89dd467ee9e6c9fc5b5e.midi)
-- [C](../images/cnx/1a0c6bd1ce917a9c878c57bd083930972c8a89b2.midi)
-- [D](../images/cnx/52451aaca88619c8192b24d0834c0c45e0b55b0c.mp3)
-:::
+> **Example**
+>
+> Listen to excerpts A, B, C and D. Can you clap your hands, tap your feet, or otherwise move \"to the beat\"? Is there a piece in which it is easier or harder to feel the beat?
+>
+> - [A](../images/cnx/ae21b6f6350d2c7675e1a7991841379f5a3f17af.mp3)
+> - [B](../images/cnx/9e4dd822e981d8d4a65b89dd467ee9e6c9fc5b5e.midi)
+> - [C](../images/cnx/1a0c6bd1ce917a9c878c57bd083930972c8a89b2.midi)
+> - [D](../images/cnx/52451aaca88619c8192b24d0834c0c45e0b55b0c.mp3)
 
 When music is organized into beats, it makes sense to write it down that way. In [common notation](ch-01-the-staff.md), the composer assigns a particular kind of note to be one beat long. For example, if \"a quarter note gets a beat,\" then playing many quarter notes in a row would mean playing a new note on every beat. The quarter note is most likely to play this role, but any [type of note](ch-06-duration-note-lengths-in-written-music.md) can get the \"this is one beat\" designation.
 
@@ -47,27 +41,18 @@ In most metered music, some of the beats are stronger (louder, more powerful, mo
 
 This time signature means that there are three quarter notes (or any combination of notes that equals three quarter notes) in every measure. A piece with this time signature would be "in three four time" or just "in three four".
 
-:::{admonition} Practice
-:name: m10956-exer1a
-:class: exercise
-
-::::{admonition} Question
-:name: m10956-id10427667
-:class: problem
-
-Listen again to the music in the referenced item. Instead of clapping, count each beat. Decide whether the music has 2, 3, or 4 beats per measure. In other words, does it feel more natural to count 1-2-1-2, 1-2-3-1-2-3, or 1-2-3-4-1-2-3-4?
-::::
-
-::::{admonition} Solution
-:name: m10956-id10427691
-:class: solution
-
-- A has a very strong, quick 1-2-3 beat.
-- B is in a slow (easy) 2. You may feel it in a fast 4.
-- C is in a stately 4.
-- D is in 3, but the beat may be harder to feel than in A because the rhythms are more complex and the performer is taking some liberties with the [tempo](ch-13-tempo.md).
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Listen again to the music in the referenced item. Instead of clapping, count each beat. Decide whether the music has 2, 3, or 4 beats per measure. In other words, does it feel more natural to count 1-2-1-2, 1-2-3-1-2-3, or 1-2-3-4-1-2-3-4?
+>
+> > **Solution**
+> >
+> > - A has a very strong, quick 1-2-3 beat.
+> > - B is in a slow (easy) 2. You may feel it in a fast 4.
+> > - C is in a stately 4.
+> > - D is in 3, but the beat may be harder to feel than in A because the rhythms are more complex and the performer is taking some liberties with the [tempo](ch-13-tempo.md).
 
 ## Reading Time Signatures
 
@@ -79,45 +64,33 @@ In "four four" time, there are four beats in a measure and a quarter note gets a
 
 You may have noticed that the time signature looks a little like a fraction in arithmetic. Filling up measures feels a little like finding equivalent [fractions](https://cnx.org/content/m11807), too. In \"four four time\", for example, there are four beats in a measure and a quarter note gets one beat. So four quarter notes would fill up one measure. But so would any other combination of notes and [rests](ch-07-duration-rest-length.md) that equals four quarters: one whole, two halves, one half plus two quarters, a half note and a half rest, and so on.
 
-:::{admonition} Example
-:name: m10956-examp2a
-:class: example
+> **Example**
+>
+> If the time signature is three eight, any combination of notes that adds up to three eighths will fill a measure. Remember that a [dot](ch-11-dots-ties-and-borrowed-divisions.md) is worth an extra half of the note it follows. [Listen](../images/cnx/6a05eaba6ecc38fff408bcc960038e4c70d21cb0.midi) to the rhythms in the referenced item.
+>
+> ![Music notation example](../images/cnx/946da6e7a6efd927bc8b1a37b8b0c03a26d94b6d.png)
+>
+> If the time signature is three eight, a measure may be filled with any combination of notes and rests that adds up to three eight.
+>
 
-If the time signature is three eight, any combination of notes that adds up to three eighths will fill a measure. Remember that a [dot](ch-11-dots-ties-and-borrowed-divisions.md) is worth an extra half of the note it follows. [Listen](../images/cnx/6a05eaba6ecc38fff408bcc960038e4c70d21cb0.midi) to the rhythms in the referenced item.
-
-![Music notation example](../images/cnx/946da6e7a6efd927bc8b1a37b8b0c03a26d94b6d.png)
-
-If the time signature is three eight, a measure may be filled with any combination of notes and rests that adds up to three eight.
-
-:::
-
-:::{admonition} Practice
-:name: m10956-exer2a
-:class: exercise
-
-::::{admonition} Question
-:name: m10956-id10882991
-:class: problem
-
-Write each of the time signatures below (with a clef symbol) at the beginning of a staff. Write at least four measures of music in each time signature. Fill each measure with a different combination of note lengths. Use at least one dotted note on each staff. If you need some staff paper, you can download this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf).
-
-1.  Two four time
-2.  Three eight time
-3.  Six four time
-::::
-
-::::{admonition} Solution
-:name: m10956-id10883046
-:class: solution
-
-There are an enormous number of possible note combinations for any time signature. That\'s one of the things that makes music interesting. Here are some possibilities. If you are not sure that yours are correct, check with your music instructor.
-
-![Music notation example](../images/cnx/08d3f79041cd4535ab484cde32f313555b39adcd.png)
-
-These are only a few of the many, many possible note combinations that could be used in these time signatures.
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Write each of the time signatures below (with a clef symbol) at the beginning of a staff. Write at least four measures of music in each time signature. Fill each measure with a different combination of note lengths. Use at least one dotted note on each staff. If you need some staff paper, you can download this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf).
+> >
+> > 1.  Two four time
+> > 2.  Three eight time
+> > 3.  Six four time
+>
+> > **Solution**
+> >
+> > There are an enormous number of possible note combinations for any time signature. That\'s one of the things that makes music interesting. Here are some possibilities. If you are not sure that yours are correct, check with your music instructor.
+> >
+> > ![Music notation example](../images/cnx/08d3f79041cd4535ab484cde32f313555b39adcd.png)
+> >
+> > These are only a few of the many, many possible note combinations that could be used in these time signatures.
+> >
 
 A few time signatures don\'t have to be written as numbers. Four four time is used so much that it is often called *common time*, written as a bold \"C\". When both fours are \"cut\" in half to twos, you have *cut time*, written as a \"C\" cut by a vertical slash.
 

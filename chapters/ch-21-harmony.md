@@ -14,12 +14,9 @@ When you have more than one [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md)
 
 But as soon as there is more than one pitch sounding at a time, you have harmony. Even if nobody is actually playing chords, or even if the notes are part of independent [contrapuntal](ch-22-counterpoint.md) lines, you can hear the relationship of any notes that happen at the same time, and it is this relationship that makes the harmony.
 
-:::{admonition} Note
-:name: m11654-id1171504323050
-:class: note
-
-Harmony does not have to be particularly \"harmonious\"; it may be quite [dissonant](ch-38-consonance-and-dissonance.md), in fact. For the purpose of definitions, the important fact is the notes sounding at the same time.
-:::
+> **Note**
+>
+> Harmony does not have to be particularly \"harmonious\"; it may be quite [dissonant](ch-38-consonance-and-dissonance.md), in fact. For the purpose of definitions, the important fact is the notes sounding at the same time.
 
 Harmony is the most emphasized and most highly developed element in [Western music](ch-24-classifying-music.md), and can be the subject of an entire course on music theory. Many of the concepts underlying Western harmony are explained in greater detail elsewhere (see [Triads](ch-36-triads.md) and [Beginning Harmonic Analysis](ch-40-beginning-harmonic-analysis.md), for example), but here are some basic terms and short definitions that you may find useful in discussions of harmony:
 

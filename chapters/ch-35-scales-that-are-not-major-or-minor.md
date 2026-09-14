@@ -18,23 +18,17 @@ One of the things that makes music pleasant to hear and easy to \"understand\" i
 
 The set of expected pitches for a piece of music can be arranged into a *scale*. In a scale, the pitches are usually arranged from lowest to highest (or highest to lowest), in a pattern that usually repeats within every [octave](ch-28-octaves-and-the-major-minor-tonal-system.md).
 
-:::{admonition} Note
-:name: m11636-id4606593
-:class: note
-
-In some kinds of music, the notes of a particular scale are the only notes allowed in a given piece of music. In other music traditions, notes from outside the scale ([accidentals](ch-03-pitch-sharp-flat-and-natural-notes.md)) are allowed, but are usually much less common than the scale notes.
-:::
+> **Note**
+>
+> In some kinds of music, the notes of a particular scale are the only notes allowed in a given piece of music. In other music traditions, notes from outside the scale ([accidentals](ch-03-pitch-sharp-flat-and-natural-notes.md)) are allowed, but are usually much less common than the scale notes.
 
 The set of pitches, or notes, that are used, and their relationships to each other, makes a big impact on how the music sounds. For example, for centuries, most [Western music](ch-24-classifying-music.md) has been based on [major](ch-30-major-keys-and-scales.md) and [minor scales](ch-31-minor-keys-and-scales.md). That is one of the things that makes it instantly recognizable as Western music. Much (though not all) of the music of eastern Asia, on the other hand, was for many centuries based on pentatonic scales, giving it a much different flavor that is also easy to recognize.
 
 Some of the more commonly used scales that are not major or minor are introduced here. Pentatonic scales are often associated with eastern Asia, but many other music traditions also use them. Blues scales, used in blues, jazz, and other African-American traditions, grew out of a compromise between European and African scales. Some of the scales that sound \"exotic\" to the Western ear are taken from the musical traditions of eastern Europe, the Middle East, and western Asia. Microtones can be found in some traditional musics (for example, [Indian classical music](https://cnx.org/content/m12459)) and in some modern [art](ch-24-classifying-music.md) music.
 
-:::{admonition} Note
-:name: m11636-id3589916
-:class: note
-
-Some music traditions, such as Indian and medieval European, use modes or ragas, which are not quite the same as scales. Please see [Modes and Ragas.](ch-45-modes-and-ragas.md)
-:::
+> **Note**
+>
+> Some music traditions, such as Indian and medieval European, use modes or ragas, which are not quite the same as scales. Please see [Modes and Ragas.](ch-45-modes-and-ragas.md)
 
 ## Scales and Western Music
 
@@ -52,50 +46,32 @@ In a *whole tone scale*, every interval is a [whole step](ch-29-half-steps-and-w
 
 Because all the intervals are the same, it doesn't matter much where you begin a chromatic or whole tone scale. For example, this scale would contain the same notes whether you start it on C or E.
 
-:::{admonition} Practice
-:name: m11636-element-339
-:class: exercise
+> **Practice**
+>
+> > **Question**
+> >
+> > There is basically only one chromatic scale; you can start it on any note, but the pitches will end up being the same as the pitches in any other chromatic scale. There are basically two possible whole tone scales. Beginning on a b, write a whole tone scale that uses a different pitches than the one in the referenced item. If you need staff paper, you can download this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf).
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/c8bb1260bacd706b374ec56e203579a2ed86f2a1.png)
+> >
+> > This whole tone scale contains the notes that are not in the whole tone scale in [link].
+> >
 
-::::{admonition} Question
-:name: m11636-id3387074
-:class: problem
-
-There is basically only one chromatic scale; you can start it on any note, but the pitches will end up being the same as the pitches in any other chromatic scale. There are basically two possible whole tone scales. Beginning on a b, write a whole tone scale that uses a different pitches than the one in the referenced item. If you need staff paper, you can download this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf).
-::::
-
-::::{admonition} Solution
-:name: m11636-id7643267
-:class: solution
-
-![Music notation example](../images/cnx/c8bb1260bacd706b374ec56e203579a2ed86f2a1.png)
-
-This whole tone scale contains the notes that are not in the whole tone scale in [link].
-
-::::
-:::
-
-:::{admonition} Practice
-:name: m11636-element-868
-:class: exercise
-
-::::{admonition} Question
-:name: m11636-id4241553
-:class: problem
-
-Now write a whole tone scale beginning on an a flat. Is this scale essentially the same as the one in the referenced item or the one in the referenced item?
-::::
-
-::::{admonition} Solution
-:name: m11636-id3955711
-:class: solution
-
-![Music notation example](../images/cnx/2b2d87c3a8bf13953b7eaf68268f57cd03661ea2.png)
-
-The flats in one scale are the <a href="ch-05-enharmonic-spelling.md">enharmonic</a> equivalents of the sharps in the other scale.
-
-Assuming that octaves don\'t matter - as they usually don\'t in [Western](ch-24-classifying-music.md) music theory, this scale shares all of its possible pitches with the scale in the referenced item.
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Now write a whole tone scale beginning on an a flat. Is this scale essentially the same as the one in the referenced item or the one in the referenced item?
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/2b2d87c3a8bf13953b7eaf68268f57cd03661ea2.png)
+> >
+> > The flats in one scale are the <a href="ch-05-enharmonic-spelling.md">enharmonic</a> equivalents of the sharps in the other scale.
+> >
+> > Assuming that octaves don\'t matter - as they usually don\'t in [Western](ch-24-classifying-music.md) music theory, this scale shares all of its possible pitches with the scale in the referenced item.
 
 ## Pentatonic Scales
 
@@ -121,24 +97,15 @@ This pentatonic scale is not a transposed version of [link].It has a different s
 
 The point here is that music based on the pentatonic scale in the referenced item will sound very different from music based on the pentatonic scale in the referenced item, because the relationships between the notes are different, much as music in a minor key is noticeably different from music in a major key. So there are quite a few different possible pentatonic scales that will produce a recognizably \"unique sound\", and many of these possible five-note scales have been named and used in various music traditions around the world.
 
-:::{admonition} Practice
-:name: m11636-element-796
-:class: exercise
-
-::::{admonition} Question
-:name: m11636-id4914956
-:class: problem
-
-To get a feeling for the concepts in this section, try composing some short pieces using the pentatonic scales given in the referenced item and in the referenced item. You may use more than one octave of each scale, but use only one scale for each piece. As you are composing, listen for how the constraints of using only those five notes, with those pitch relationships, affect your music. See if you can play your the referenced item composition in a different key, for example, using the scale in the referenced item.
-::::
-
-::::{admonition} Solution
-:name: m11636-id4901647
-:class: solution
-
-If you can, have your teacher listen to your compositions.
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > To get a feeling for the concepts in this section, try composing some short pieces using the pentatonic scales given in the referenced item and in the referenced item. You may use more than one octave of each scale, but use only one scale for each piece. As you are composing, listen for how the constraints of using only those five notes, with those pitch relationships, affect your music. See if you can play your the referenced item composition in a different key, for example, using the scale in the referenced item.
+>
+> > **Solution**
+> >
+> > If you can, have your teacher listen to your compositions.
 
 ## Dividing the Octave, More or Less
 

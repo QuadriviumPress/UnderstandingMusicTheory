@@ -43,6 +43,7 @@ for (const file of importedPages) {
   if (/^\[\]\{#[^}]+\}$/m.test(content)) errors.push(`Visible empty anchor remains in ${file}`);
   if (/<img\b/i.test(content)) errors.push(`Raw HTML image remains in ${file}`);
   if (/^:{3,} \{#[^}]+\}$/m.test(content)) errors.push(`Pandoc div remains in ${file}`);
+  if (/^:{3,}\{admonition\}/m.test(content)) errors.push(`Unrendered MyST admonition remains in ${file}`);
 }
 
 for (const file of [...pages, 'README.md', 'SOURCES.md']) {

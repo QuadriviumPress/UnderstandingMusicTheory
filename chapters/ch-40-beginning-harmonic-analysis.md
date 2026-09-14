@@ -30,34 +30,22 @@ Any chord might show up in any key, but some chords are much more likely than ot
 
 To find all the basic chords in a key, build a simple triad (in the key) on each note of the scale. You'll find that although the chords change from one key to the next, the <strong>pattern</strong> of major and minor chords is always the same.
 
-:::{admonition} Practice
-:name: m11643-exer1a
-:class: exercise
-
-::::{admonition} Question
-:name: m11643-id4875905
-:class: problem
-
-Write and name the chords in G major and in B flat major. (Hint: Determine the [key signature](ch-04-key-signature.md) first. Make certain that each chord begins on a note in the [major scale](ch-30-major-keys-and-scales.md) and contains only notes in the key signature.) If you need some staff paper, you can print this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf)
-::::
-
-::::{admonition} Solution
-:name: m11643-id1169990950498
-:class: solution
-
-![Music notation example](../images/cnx/8dc4a337a142edabc38c37f947a0f2ca9e99733a.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Write and name the chords in G major and in B flat major. (Hint: Determine the [key signature](ch-04-key-signature.md) first. Make certain that each chord begins on a note in the [major scale](ch-30-major-keys-and-scales.md) and contains only notes in the key signature.) If you need some staff paper, you can print this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf)
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/8dc4a337a142edabc38c37f947a0f2ca9e99733a.png)
+> >
 
 You can find all the basic triads that are possible in a key by building one triad, in the key, on each note of the scale (each *scale degree*). One easy way to name all these chords is just to number them: the chord that starts on the first note of the scale is \"I\", the chord that starts on the next scale degree is \"ii\", and so on. Roman numerals are used to number the chords. Capital Roman numerals are used for [major chords](ch-37-naming-triads.md) and small Roman numerals for [minor chords](ch-37-naming-triads.md). The [diminished chord](ch-37-naming-triads.md) is in small Roman numerals followed by a small circle. Because major scales always follow the same pattern, the pattern of major and minor chords is also the same in any major key. The chords built on the first, fourth, and fifth degrees of the scale are always major chords (I, IV, and V). The chords built on the second, third, and sixth degrees of the scale are always minor chords (ii, iii, and vi). The chord built on the seventh degree of the scale is a diminished chord.
 
-:::{admonition} Note
-:name: m11643-id1169991630548
-:class: note
-
-Notice that IV in the key of B flat is an E flat major chord, not an E major chord, and vii in the key of G is F sharp diminished, not F diminished. If you can\'t name the scale notes in a key, you may find it difficult to predict whether a chord should be based on a sharp, flat, or natural note. This is only one reason (out of many) why it is a good idea to memorize all the scales. (See [Major Keys and Scales](ch-30-major-keys-and-scales.md).) However, if you don\'t plan on memorizing all the scales at this time, you\'ll find it useful to memorize at least the most important chords (start with I, IV, and V) in your favorite keys.
-:::
+> **Note**
+>
+> Notice that IV in the key of B flat is an E flat major chord, not an E major chord, and vii in the key of G is F sharp diminished, not F diminished. If you can\'t name the scale notes in a key, you may find it difficult to predict whether a chord should be based on a sharp, flat, or natural note. This is only one reason (out of many) why it is a good idea to memorize all the scales. (See [Major Keys and Scales](ch-30-major-keys-and-scales.md).) However, if you don\'t plan on memorizing all the scales at this time, you\'ll find it useful to memorize at least the most important chords (start with I, IV, and V) in your favorite keys.
 
 ## A Hierarchy of Chords
 
@@ -83,85 +71,58 @@ So far we have concentrated on identifying chord relationships by number, becaus
 
 ![Music notation example](../images/cnx/d287215721453adeaec7350a014ab0e3be87bfbb.png)
 
-:::{admonition} Practice
-:name: m11643-exer3a
-:class: exercise
+> **Practice**
+>
+> > **Question**
+> >
+> > 1.  Dominant in C major
+> > 2.  Subdominant in E major
+> > 3.  Tonic in G sharp major
+> > 4.  Mediant in F major
+> > 5.  Supertonic in D major
+> > 6.  Submediant in C major
+> > 7.  Dominant seventh in A major
+>
+> **Solution**
+>
+> 1.  G major (G)
+> 2.  A major (A)
+> 3.  G sharp major (G#)
+> 4.  A minor (Am)
+> 5.  E minor (Em)
+> 6.  A minor (Am)
+> 7.  E seventh (E7)
 
-::::{admonition} Question
-:name: m11643-id1170000688973
-:class: problem
-
-1.  Dominant in C major
-2.  Subdominant in E major
-3.  Tonic in G sharp major
-4.  Mediant in F major
-5.  Supertonic in D major
-6.  Submediant in C major
-7.  Dominant seventh in A major
-::::
-
-:::
-:::{admonition} Solution
-:name: m11643-id1169998551566
-:class: solution
-
-1.  G major (G)
-2.  A major (A)
-3.  G sharp major (G#)
-4.  A minor (Am)
-5.  E minor (Em)
-6.  A minor (Am)
-7.  E seventh (E7)
-:::
-
-:::{admonition} Practice
-:name: m11643-exer3b
-:class: exercise
-
-::::{admonition} Question
-:name: m11643-id1169991829050
-:class: problem
-
-The following chord progression is in the key of G major. Identify the relationship of each chord to the key by both name and number. Which chord is not in the key? Which chord in the key has been left out of the progression?
-
-![Music notation example](../images/cnx/aa29592ed3a72a6eb89484211ef689e33b765a5c.png)
-
-::::
-
-::::{admonition} Solution
-:name: m11643-id1169991856132
-:class: solution
-
-![Music notation example](../images/cnx/6501b4d7908b0c6f65b1dcfcfd71dec1968f8339.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > The following chord progression is in the key of G major. Identify the relationship of each chord to the key by both name and number. Which chord is not in the key? Which chord in the key has been left out of the progression?
+> >
+> > ![Music notation example](../images/cnx/aa29592ed3a72a6eb89484211ef689e33b765a5c.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/6501b4d7908b0c6f65b1dcfcfd71dec1968f8339.png)
+> >
 
 ## Minor Keys
 
 Since [minor scales](ch-31-minor-keys-and-scales.md) follow a different pattern of [intervals](ch-32-interval.md) than major scales, they will produce chord progressions with important differences from major key chord progressions.
 
-:::{admonition} Practice
-:name: m11643-minorexercise1
-:class: exercise
-
-::::{admonition} Question
-:name: m11643-id1169992722515
-:class: problem
-
-Write (triad) chords that occur in the keys of A minor, E minor, and D minor. Remember to begin each triad on a note of the [natural minor](ch-31-minor-keys-and-scales.md) scale and to include only notes in the scale in each chord. Which chord relationships are major? Which minor? Which diminished? If you need staff paper, print this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf)
-::::
-
-::::{admonition} Solution
-:name: m11643-id1170003907356
-:class: solution
-
-The tonic, subdominant, and dominant are minor (i, iv, and v). The mediant, submediant, and subtonic are major (III, VI, and VII). The supertonic (ii) is diminished.
-
-![Music notation example](../images/cnx/c66980b3f884ec545c3b6ff6b94b5ee85d7df191.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Write (triad) chords that occur in the keys of A minor, E minor, and D minor. Remember to begin each triad on a note of the [natural minor](ch-31-minor-keys-and-scales.md) scale and to include only notes in the scale in each chord. Which chord relationships are major? Which minor? Which diminished? If you need staff paper, print this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf)
+>
+> > **Solution**
+> >
+> > The tonic, subdominant, and dominant are minor (i, iv, and v). The mediant, submediant, and subtonic are major (III, VI, and VII). The supertonic (ii) is diminished.
+> >
+> > ![Music notation example](../images/cnx/c66980b3f884ec545c3b6ff6b94b5ee85d7df191.png)
+> >
 
 Notice that the actual chords created using the major scale and its [relative minor](ch-31-minor-keys-and-scales.md) scale are the same. For example, compare the chords in A minor (the referenced item) to the chords in C major (the referenced item). The difference is in how the chords are used. As explained above, if the key is C major, the [chord progression](ch-21-harmony.md) will likely make it clear that C is the [tonal center](ch-30-major-keys-and-scales.md) of the piece, for example by featuring the bright-sounding (major) tonic, dominant, and subdominant chords (C major, G major or G7, and F major), particularly in strong [cadences](ch-41-cadence.md) that end on a C chord.
 
@@ -169,27 +130,18 @@ If the piece is in A minor, on the other hand, it will be more likely to feature
 
 As mentioned above, the \"flavor\" of sound that is created by a major chord with a minor seventh added, gives a particularly dominant (wanting-to-go-to-the-home-chord) sound, which in turn gives a more strong feeling of tonality to a piece of music. Because of this, many minor pieces change the dominant chord so that it is a dominant seventh (a major chord with a minor seventh), even though that requires using a note that is not in the key.
 
-:::{admonition} Practice
-:name: m11643-minorexercise2
-:class: exercise
-
-::::{admonition} Question
-:name: m11643-id1169996704973
-:class: problem
-
-Look at the chords in the referenced item. What note of each scale would have to be changed in order to make v major? Which other chords would be affected by this change? What would they become, and are these altered chords also likely to be used in the minor key?
-::::
-
-::::{admonition} Solution
-:name: m11643-id1169993963497
-:class: solution
-
-The seventh degree of the scale must be raised by one half step to make the v chord major. If the seventh scale note is raised, the III chord becomes augmented, and and the vii chord becomes a diminished chord (based on the sharp vii rather than the vii). The augmented III chord would not be particularly useful in the key, but, as mentioned above, a diminished seventh chord based on the leading tone (here, the sharp vii) is sometimes used in [cadences](ch-41-cadence.md).
-
-![Music notation example](../images/cnx/018eaacd044b0ae816385df52c97804730172e7c.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Look at the chords in the referenced item. What note of each scale would have to be changed in order to make v major? Which other chords would be affected by this change? What would they become, and are these altered chords also likely to be used in the minor key?
+>
+> > **Solution**
+> >
+> > The seventh degree of the scale must be raised by one half step to make the v chord major. If the seventh scale note is raised, the III chord becomes augmented, and and the vii chord becomes a diminished chord (based on the sharp vii rather than the vii). The augmented III chord would not be particularly useful in the key, but, as mentioned above, a diminished seventh chord based on the leading tone (here, the sharp vii) is sometimes used in [cadences](ch-41-cadence.md).
+> >
+> > ![Music notation example](../images/cnx/018eaacd044b0ae816385df52c97804730172e7c.png)
+> >
 
 The point of the [harmonic minor](ch-31-minor-keys-and-scales.md) scale is to familiarize the musician with this common feature of harmony, so that the expected chords become easy to play in every minor key. There are also changes that can be made to the [melodic](ch-19-melody.md) lines of a minor-key piece that also make it more strongly tonal. This involves raising (by one [half step](ch-29-half-steps-and-whole-steps.md)) both the sixth and seventh scale notes, but only when the melody is ascending. So the musician who wants to become familiar with melodic patterns in every minor key will practice [melodic minor](ch-31-minor-keys-and-scales.md) scales, which use different notes for the ascending and descending scale.
 

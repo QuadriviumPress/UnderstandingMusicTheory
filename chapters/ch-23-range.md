@@ -55,11 +55,8 @@ Other instruments may be a mix of absolute and indefinite ranges. For example, o
 
 So it is sometimes useful to distinguish between a *possible range*, which includes the notes that a very experienced player can get, and a *practical range*, that includes all the notes that any competent player (including a good younger player) can get.
 
-:::{admonition} Note
-:name: m12381-id1163686163237
-:class: note
-
-Outside of the instrument's practical range, it may be a strain for even a very good player to play long or tricky passages. So if you are composing or arranging, it's a very good idea to be able to distinguish between these two ranges for the voices or instruments you include.
-:::
+> **Note**
+>
+> Outside of the instrument's practical range, it may be a strain for even a very good player to play long or tricky passages. So if you are composing or arranging, it's a very good idea to be able to distinguish between these two ranges for the voices or instruments you include.
 
 Some sources even list the *power range* of an instrument or voice. This is the part of the range where the instrument or voice is particularly strong. It may be in the middle of the range, or at the top or bottom, but writing in the power range should guarantee that the part is easy to play (or sing), sounds clear and strong, and can be easily heard, even when many other instruments are playing.

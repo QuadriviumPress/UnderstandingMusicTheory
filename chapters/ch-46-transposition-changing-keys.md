@@ -24,12 +24,9 @@ Here are the most common situations that may require you to change the key of a 
 
 In some situations, you can avoid transposition, or at least avoid doing the work yourself. Some stringed instruments - guitar for example - can use a [capo](https://cnx.org/content/m12745#p9c) to play in higher keys. A good electronic keyboard will transpose for you. If your music is already stored as a computer file, there are programs that will transpose it for you and display and print it in the new key. However, if you only have the music on paper, it may be easier to transpose it yourself than to enter it into a music program to have it transposed. So if none of these situations apply to you, it\'s time to learn to transpose.
 
-:::{admonition} Note
-:name: m10668-id13477534
-:class: note
-
-If you play a chordal instrument (guitar, for example), you may not need to write down the transposed music. There are instructions below for transposing just the names of the chords.
-:::
+> **Note**
+>
+> If you play a chordal instrument (guitar, for example), you may not need to write down the transposed music. There are instructions below for transposing just the names of the chords.
 
 ## How to Transpose Music
 
@@ -68,35 +65,23 @@ Did you move the key down a minor third? Simply move all the notes down a third 
 
 Most notes can simply be moved the correct number of lines and spaces. Whether the interval is minor, major, or perfect will take care of itself if the correct key signature has been chosen. But some care must be taken to correctly transpose accidentals. Put the note on the line or space where it would fall if it were not an accidental, and then either lower or raise it from your new key signature. For example, an accidental B natural in the key of E flat major has been raised a half step from the note in the key (which is B flat). In transposing down to the key of D major, you need to raise the A natural in the key up a half step, to A sharp. If this is confusing, keep in mind that the interval between the old and new (transposed) notes (B natural and A sharp) must be one half step, just as it is for the notes in the key.
 
-:::{admonition} Note
-:name: m10668-id15529573
-:class: note
-
-If you need to raise a note which is already sharp in the key, or lower a note that is already flat, use [double sharps or double flats](ch-03-pitch-sharp-flat-and-natural-notes.md).
-:::
+> **Note**
+>
+> If you need to raise a note which is already sharp in the key, or lower a note that is already flat, use [double sharps or double flats](ch-03-pitch-sharp-flat-and-natural-notes.md).
 
 ![Music notation example](../images/cnx/0ca729006239aff32bf84829c3726bf48dee2249.png)
 
 Flats don't necessarily transpose as flats, or sharps as sharps. For example, if the accidental originally raised the note one half step out of the key, by turning a flat note into a natural, the new accidental may raise the note one half step out of the key by turning a natural into a sharp.
 
-:::{admonition} Practice
-:name: m10668-exer4a
-:class: exercise
-
-::::{admonition} Question
-:name: m10668-id6618048
-:class: problem
-
-The best practice for transposing is to transpose a piece you know well into a new key.
-::::
-
-::::{admonition} Solution
-:name: m10668-id4449824
-:class: solution
-
-Play the part you have transposed; your own ears will tell you where you have made mistakes.
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > The best practice for transposing is to transpose a piece you know well into a new key.
+>
+> > **Solution**
+> >
+> > Play the part you have transposed; your own ears will tell you where you have made mistakes.
 
 ## Choosing Your New Key
 
@@ -106,66 +91,51 @@ Before you can begin transposing, you must decide what your new [key](ch-30-majo
 
 If you are trying to accomodate singers, your main concern in choosing a key is finding their [range](ch-23-range.md). Is the music you are working with too high or too low? Is it only a step too high, or does it need to be changed by a third or a fifth? Once you determine the [interval](ch-32-interval.md) needed, check to make certain this will be a comfortable key for your instrumentalists.
 
-:::{admonition} Example
-:name: m10668-vocal1
-:class: example
+> **Example**
+>
+> A church choir director wants to encourage the congregation to join in on a particular hymn. It is written in four parts with the melody in the soprano part, in a range slightly too high for untrained singers. The hymn is written in the key of E flat. Lowering it by a minor third (one and a half steps) will allow the congregation to sing with gusto.
+>
+> ![Music notation example](../images/cnx/80e700776b3450c7ab9e5bf401213cf4cdf30970.png)
+>
+> The hymn is originally in E flat. The melody that goes up to an F is too high for most untrained vocalists (male and female).
+>
+> ![Music notation example](../images/cnx/99117f77591f4e31f757bd141365d35872446285.png)
+>
+> The same hymn in C is more easily singable by a congregation.
+>
 
-A church choir director wants to encourage the congregation to join in on a particular hymn. It is written in four parts with the melody in the soprano part, in a range slightly too high for untrained singers. The hymn is written in the key of E flat. Lowering it by a minor third (one and a half steps) will allow the congregation to sing with gusto.
+> **Example**
+>
+> An alto vocalist would like to perform a blues standard originally sung by a soprano or tenor in B flat. She needs the song to be at least a [whole step](ch-29-half-steps-and-whole-steps.md) lower. Lowering it by a whole step would put it in the key of A flat. The guitar, bass, and harmonica players don\'t like to play in A flat, however, and the vocalist wouldn\'t mind singing even lower. So the best solution is to lower it by a [minor third](ch-32-interval.md), and play in the key of G.
+>
+> ![Music notation example](../images/cnx/13ccf02d28b0b91b988f28de078f3c1d6e016ed7.png)
+>
+> The key of this blues standard is comfortable for a soprano or tenor, as shown in this excerpt.
+>
+> ![Music notation example](../images/cnx/09cc6019fdbc5e06c0d4ab70c6ce8e3af6fc10ce.png)
+>
+> An alto or baritone can deliver a more powerful performance if the music is transposed down a minor third.
+>
 
-![Music notation example](../images/cnx/80e700776b3450c7ab9e5bf401213cf4cdf30970.png)
-
-The hymn is originally in E flat. The melody that goes up to an F is too high for most untrained vocalists (male and female).
-
-![Music notation example](../images/cnx/99117f77591f4e31f757bd141365d35872446285.png)
-
-The same hymn in C is more easily singable by a congregation.
-
-:::
-
-:::{admonition} Example
-:name: m10668-vocal2
-:class: example
-
-An alto vocalist would like to perform a blues standard originally sung by a soprano or tenor in B flat. She needs the song to be at least a [whole step](ch-29-half-steps-and-whole-steps.md) lower. Lowering it by a whole step would put it in the key of A flat. The guitar, bass, and harmonica players don\'t like to play in A flat, however, and the vocalist wouldn\'t mind singing even lower. So the best solution is to lower it by a [minor third](ch-32-interval.md), and play in the key of G.
-
-![Music notation example](../images/cnx/13ccf02d28b0b91b988f28de078f3c1d6e016ed7.png)
-
-The key of this blues standard is comfortable for a soprano or tenor, as shown in this excerpt.
-
-![Music notation example](../images/cnx/09cc6019fdbc5e06c0d4ab70c6ce8e3af6fc10ce.png)
-
-An alto or baritone can deliver a more powerful performance if the music is transposed down a minor third.
-
-:::
-
-:::{admonition} Practice
-:name: m10668-exer3
-:class: exercise
-
-::::{admonition} Question
-:name: m10668-id16799556
-:class: problem
-
-You\'re accompanying a soprano who feels that this folk tune in C minor is too low for her voice. The guitar player would prefer a key with no flats and not too many sharps.
-
-![Music notation example](../images/cnx/d32f3d350eaabbd63a4d1245925fd60d5ee6ec69.png)
-
-Tune in C minor too low for some sopranos voices.
-
-::::
-
-::::{admonition} Solution
-:name: m10668-id8918373
-:class: solution
-
-Transposing up a [major third](ch-32-interval.md), to E minor, puts the song in a better range for a soprano, with a key signature that is easy for guitars.
-
-![Music notation example](../images/cnx/5a5f87cb8492442096a3cc39919126e21dc694c6.png)
-
-Moving tune up to E minor puts it in a better key for sopranos.
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > You\'re accompanying a soprano who feels that this folk tune in C minor is too low for her voice. The guitar player would prefer a key with no flats and not too many sharps.
+> >
+> > ![Music notation example](../images/cnx/d32f3d350eaabbd63a4d1245925fd60d5ee6ec69.png)
+> >
+> > Tune in C minor too low for some sopranos voices.
+> >
+>
+> > **Solution**
+> >
+> > Transposing up a [major third](ch-32-interval.md), to E minor, puts the song in a better range for a soprano, with a key signature that is easy for guitars.
+> >
+> > ![Music notation example](../images/cnx/5a5f87cb8492442096a3cc39919126e21dc694c6.png)
+> >
+> > Moving tune up to E minor puts it in a better key for sopranos.
+> >
 
 ### Transposing Instruments
 
@@ -177,12 +147,9 @@ Moving tune up to E minor puts it in a better key for sopranos.
 - [Alto and Baritone Saxophone](https://cnx.org/content/m12611) are E flat instruments. Transpose parts up a major sixth for alto sax, and up an octave plus a major sixth for bari sax.
 - [Soprano and Tenor Saxophone](https://cnx.org/content/m12611) are B flat instruments. Tenor sax parts are written an octave plus one step higher.
 
-:::{admonition} Note
-:name: m10668-id9544707
-:class: note
-
-Why are there transposing instruments? Sometimes this makes things easier on instrumentalists; they may not have to learn different fingerings when they switch from one kind of saxophone to another, for example. Sometimes, as with piccolo, transposition centers the music in the staff (rather than above or below the staff). But often transposing instruments are a result of the history of the instrument. See the history of the [French horn](https://cnx.org/content/m11617#s2) to find out more.
-:::
+> **Note**
+>
+> Why are there transposing instruments? Sometimes this makes things easier on instrumentalists; they may not have to learn different fingerings when they switch from one kind of saxophone to another, for example. Sometimes, as with piccolo, transposition centers the music in the staff (rather than above or below the staff). But often transposing instruments are a result of the history of the instrument. See the history of the [French horn](https://cnx.org/content/m11617#s2) to find out more.
 
 The transposition you will use for one of these instruments will depend on what type of part you have in hand, and what instrument you would like to play that part. As with any instrumental part, be aware of the [range](ch-23-range.md) of the instrument that you are writing for. If transposing the part up a perfect fifth results in a part that is too high to be comfortable, consider transposing the part down a perfect fourth instead.
 
@@ -191,117 +158,90 @@ The transposition you will use for one of these instruments will depend on what 
 3.  Make sure you are transposing in the correct direction. If you have a C part and want it to become a B flat part, for example, you must transpose **up** one whole step. This may seem counterintuitive, but remember, **you are basically compensating for the transposition that is \"built into\" the instrument**. To compensate properly, always transpose by moving in the opposite direction from the change in the part names. To turn a B flat part into a C part (B flat to C = up one step), transpose the part down one whole step. To turn a B flat part into an E flat part (B flat to E flat = down a perfect fifth), transpose the part up a perfect fifth.
 4.  Do the correct transposition by interval, including changing the written key by the correct interval.
 
-:::{admonition} Example
-:name: m10668-CtoEb
-:class: example
+> **Example**
+>
+> Your garage band would like to feature a solo by a friend who plays the alto sax. Your songwriter has written the solo as it sounds on his keyboard, so you have a C part. Alto sax is an E flat instrument; in other words, when he sees a C, he plays an E flat, the note a [major sixth](ch-32-interval.md) lower. To compensate for this, you must write the part a major sixth higher than your C part.
+>
+> ![Music notation example](../images/cnx/05e97a4414d04034d698a706575306327e60f014.png)
+>
+> ![Music notation example](../images/cnx/8a33273b31e996d376c2e7ac4a7d3a697720fa41.png)
+>
+> In the top line, the melody is written out in concert pitch; on the second line it has been transposed to be read by an alto saxophone. When the second line is played by an alto sax player, the result sounds like the first line.
+>
 
-Your garage band would like to feature a solo by a friend who plays the alto sax. Your songwriter has written the solo as it sounds on his keyboard, so you have a C part. Alto sax is an E flat instrument; in other words, when he sees a C, he plays an E flat, the note a [major sixth](ch-32-interval.md) lower. To compensate for this, you must write the part a major sixth higher than your C part.
+> **Example**
+>
+> Your choral group is performing a piece that includes an optional instrumental solo for clarinet. You have no clarinet player, but one group member plays recorder, a C instrument. Since the part is written for a B flat instrument, it is written one whole step higher than it actually sounds. To write it for a C instrument, transpose it back down one whole step.
+>
+> ![Music notation example](../images/cnx/0b1029cc850a654716e6659bf7f5869f6137d694.png)
+>
+> Melody for B flat clarinet
+>
+> ![Music notation example](../images/cnx/a2cc5204bc14ba284a38b79656a35385c42dd208.png)
+>
+> Melody transposed for C instruments
+>
 
-![Music notation example](../images/cnx/05e97a4414d04034d698a706575306327e60f014.png)
-
-![Music notation example](../images/cnx/8a33273b31e996d376c2e7ac4a7d3a697720fa41.png)
-
-In the top line, the melody is written out in concert pitch; on the second line it has been transposed to be read by an alto saxophone. When the second line is played by an alto sax player, the result sounds like the first line.
-
-:::
-
-:::{admonition} Example
-:name: m10668-btoc
-:class: example
-
-Your choral group is performing a piece that includes an optional instrumental solo for clarinet. You have no clarinet player, but one group member plays recorder, a C instrument. Since the part is written for a B flat instrument, it is written one whole step higher than it actually sounds. To write it for a C instrument, transpose it back down one whole step.
-
-![Music notation example](../images/cnx/0b1029cc850a654716e6659bf7f5869f6137d694.png)
-
-Melody for B flat clarinet
-
-![Music notation example](../images/cnx/a2cc5204bc14ba284a38b79656a35385c42dd208.png)
-
-Melody transposed for C instruments
-
-:::
-
-:::{admonition} Practice
-:name: m10668-ex2
-:class: exercise
-
-::::{admonition} Question
-:name: m10668-id13971957
-:class: problem
-
-There\'s a march on your community orchestra\'s program, but the group doesn\'t have quite enough trombone players for a nice big march-type sound. You have extra French horn players, but they can\'t read bass clef C parts.
-
-![Music notation example](../images/cnx/58c7d2fe7b127070dbd4805e66fe913addb6cdd7.png)
-
-Trombone line from a march
-
-::::
-
-::::{admonition} Solution
-:name: m10668-id3548422
-:class: solution
-
-The trombone part is in C in bass clef; the horn players are used to reading parts in F in treble clef. Transpose the notes up a perfect fifth and write the new part in treble clef.
-
-![Music notation example](../images/cnx/70c23d0c3613a1314ef21b11fb5d43b93bfeac64.png)
-
-This is the same part transposed up a fifth so that it is in F
-
-![Music notation example](../images/cnx/1bc5f6dbecf2982d0827b34a0a80bb2de1c8d0ee.png)
-
-Now write it in treble clef to make it easy for horn players to read.
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > There\'s a march on your community orchestra\'s program, but the group doesn\'t have quite enough trombone players for a nice big march-type sound. You have extra French horn players, but they can\'t read bass clef C parts.
+> >
+> > ![Music notation example](../images/cnx/58c7d2fe7b127070dbd4805e66fe913addb6cdd7.png)
+> >
+> > Trombone line from a march
+> >
+>
+> > **Solution**
+> >
+> > The trombone part is in C in bass clef; the horn players are used to reading parts in F in treble clef. Transpose the notes up a perfect fifth and write the new part in treble clef.
+> >
+> > ![Music notation example](../images/cnx/70c23d0c3613a1314ef21b11fb5d43b93bfeac64.png)
+> >
+> > This is the same part transposed up a fifth so that it is in F
+> >
+> > ![Music notation example](../images/cnx/1bc5f6dbecf2982d0827b34a0a80bb2de1c8d0ee.png)
+> >
+> > Now write it in treble clef to make it easy for horn players to read.
+> >
 
 ### Playable Keys
 
 Transposition can also make music easier to play for instrumentalists, and ease of playing generally translates into more satisfying performances. For example, someone writing a transcription for band of an orchestral piece may move the entire piece from a sharp key (easier for strings) to a nearby flat key (easier for winds). A [guitar](https://cnx.org/content/m12745) player, given a piece written in A flat for keyboard, will often prefer to play it in A or G, since the fingerings for chords in those keys are easier. Also, instrumentalists, like vocalists, have [ranges](ch-23-range.md) that need to be considered.
 
-:::{admonition} Example
-:name: m10668-arrange
-:class: example
+> **Example**
+>
+> Your eighth grade [bassoon](https://cnx.org/content/m12612) player would like to play a Mozart minuet at a school talent show with a flute-playing friend from band. The minuet is in C, but the melody is a little too low for a [flute](https://cnx.org/content/m12603), and the bassoonist would also be more comfortable playing higher. If you transpose the whole piece up a minor third to E flat major, both players can hit the lowest notes, and you may also find that fingerings and tunings are better in the flat key.
+>
+> ![Music notation example](../images/cnx/199e90954de40f0f4f0f63d4bee4f2d807841f85.svg)
+>
+> An excerpt from a Mozart Minuet in C. The upper part is too low for a flute player.
+>
+> ![Music notation example](../images/cnx/076691b359e0d170d21f9cdc82ed4eb2191f1570.svg)
+>
+> Both young instrumentalists would be more comfortable playing in this key.
+>
 
-Your eighth grade [bassoon](https://cnx.org/content/m12612) player would like to play a Mozart minuet at a school talent show with a flute-playing friend from band. The minuet is in C, but the melody is a little too low for a [flute](https://cnx.org/content/m12603), and the bassoonist would also be more comfortable playing higher. If you transpose the whole piece up a minor third to E flat major, both players can hit the lowest notes, and you may also find that fingerings and tunings are better in the flat key.
-
-![Music notation example](../images/cnx/199e90954de40f0f4f0f63d4bee4f2d807841f85.svg)
-
-An excerpt from a Mozart Minuet in C. The upper part is too low for a flute player.
-
-![Music notation example](../images/cnx/076691b359e0d170d21f9cdc82ed4eb2191f1570.svg)
-
-Both young instrumentalists would be more comfortable playing in this key.
-
-:::
-
-:::{admonition} Practice
-:name: m10668-ex1
-:class: exercise
-
-::::{admonition} Question
-:name: m10668-id4406688
-:class: problem
-
-You\'ve brought your guitar and your [capo](https://cnx.org/content/m12745#p9c) to the sing-along because you\'d like to play along, too. Going through the music beforehand, you notice that your favorite song is in A flat. The pianist isn\'t prepared to play it in any other key, but you really don\'t like those thin-sounding chords in A flat. You can use your capo to raise the sound of your instrument (basically turning it into a transposing instrument in C sharp, D, D sharp, or even higher), but the less you raise it the more likely you are to still sound in tune with the piano.
-
-![Music notation example](../images/cnx/00c946c0859714899a77c874e8611d5f5d6d77ae.png)
-
-Chords in the key of A flat major are not ideal for guitarists.
-
-::::
-
-::::{admonition} Solution
-:name: m10668-id7396982
-:class: solution
-
-Put the capo on the first fret to raise the sound by one half step. Then transpose the chords down one half step. You will be playing in G, a nice strong key for guitar, but sounding in A flat. For more on transposing chords, see Transposing Chord Names
-
-![Music notation example](../images/cnx/23387d2d29f1a6c933227489159b87830e857c96.png)
-
-Giving guitarists the option of playing in G major (with a capo) can make things easier.
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > You\'ve brought your guitar and your [capo](https://cnx.org/content/m12745#p9c) to the sing-along because you\'d like to play along, too. Going through the music beforehand, you notice that your favorite song is in A flat. The pianist isn\'t prepared to play it in any other key, but you really don\'t like those thin-sounding chords in A flat. You can use your capo to raise the sound of your instrument (basically turning it into a transposing instrument in C sharp, D, D sharp, or even higher), but the less you raise it the more likely you are to still sound in tune with the piano.
+> >
+> > ![Music notation example](../images/cnx/00c946c0859714899a77c874e8611d5f5d6d77ae.png)
+> >
+> > Chords in the key of A flat major are not ideal for guitarists.
+> >
+>
+> > **Solution**
+> >
+> > Put the capo on the first fret to raise the sound by one half step. Then transpose the chords down one half step. You will be playing in G, a nice strong key for guitar, but sounding in A flat. For more on transposing chords, see Transposing Chord Names
+> >
+> > ![Music notation example](../images/cnx/23387d2d29f1a6c933227489159b87830e857c96.png)
+> >
+> > Giving guitarists the option of playing in G major (with a capo) can make things easier.
+> >
 
 ## Transposing at Sight
 
@@ -329,47 +269,32 @@ Using the chromatic circle to count keys, change the note names in all of the ch
 
 Check your transposition by playing it to see if it sounds right. If you don\'t like playing some of the chords in your new key, or if you have changed the key too much or not enough, try a different transposition.
 
-:::{admonition} Example
-:name: m10668-chexam1
-:class: example
+> **Example**
+>
+> Say you have a song in the key of G, which is too low for your voice. If it\'s just a little too low, you can go up two keys to A. If this is still too low, you can go up even further (5 keys altogether) to the key of C. Maybe that\'s high enough for your voice, but you no longer like the chords. If that is the case, you can go up two more keys to D. Notice that, because the keys are arranged in a circle, going up seven keys like this is the same as going down five keys.
+>
+> ![Music notation example](../images/cnx/5aac32756fe57de0e8654854d4441b772a69629f.png)
+>
 
-Say you have a song in the key of G, which is too low for your voice. If it\'s just a little too low, you can go up two keys to A. If this is still too low, you can go up even further (5 keys altogether) to the key of C. Maybe that\'s high enough for your voice, but you no longer like the chords. If that is the case, you can go up two more keys to D. Notice that, because the keys are arranged in a circle, going up seven keys like this is the same as going down five keys.
+> **Example**
+>
+> Now say you have a song in the key of E flat. It\'s not hard to sing in that key, so you don\'t want to go far, but you really don\'t like playing in E flat. You can move the song up one key to E, but you might like the chords even better if you move them down one key to D. Notice that if you are a guitar player, and everyone else really wants to stay in E flat, you can write the chords out in D and play them with a capo on the first fret; to everyone else it will sound as if you\'re playing in E flat.
+>
+> ![Music notation example](../images/cnx/5e7be8b7172b8d938588df091c7af69673af3bef.png)
+>
 
-![Music notation example](../images/cnx/5aac32756fe57de0e8654854d4441b772a69629f.png)
-
-:::
-
-:::{admonition} Example
-:name: m10668-chexam2
-:class: example
-
-Now say you have a song in the key of E flat. It\'s not hard to sing in that key, so you don\'t want to go far, but you really don\'t like playing in E flat. You can move the song up one key to E, but you might like the chords even better if you move them down one key to D. Notice that if you are a guitar player, and everyone else really wants to stay in E flat, you can write the chords out in D and play them with a capo on the first fret; to everyone else it will sound as if you\'re playing in E flat.
-
-![Music notation example](../images/cnx/5e7be8b7172b8d938588df091c7af69673af3bef.png)
-
-:::
-
-:::{admonition} Practice
-:name: m10668-exerchord
-:class: exercise
-
-::::{admonition} Question
-:name: m10668-id7901984
-:class: problem
-
-Now say that you have a song that is in B flat, which is more than a little (more than one key) too high for you. Find a key a bit lower that still has nice, easy-to-play chords for guitar.
-
-![Music notation example](../images/cnx/05a8015fb8b2a22d60955029ef37cd2baf8b8a71.png)
-
-::::
-
-::::{admonition} Solution
-:name: m10668-id5733113
-:class: solution
-
-The best solution here is probably to put the song in the key of G. This is three keys lower, and has easy chords.
-
-![Music notation example](../images/cnx/86b27abcdf3883416ce70b086fd8c1fca9b07ed3.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Now say that you have a song that is in B flat, which is more than a little (more than one key) too high for you. Find a key a bit lower that still has nice, easy-to-play chords for guitar.
+> >
+> > ![Music notation example](../images/cnx/05a8015fb8b2a22d60955029ef37cd2baf8b8a71.png)
+> >
+>
+> > **Solution**
+> >
+> > The best solution here is probably to put the song in the key of G. This is three keys lower, and has easy chords.
+> >
+> > ![Music notation example](../images/cnx/86b27abcdf3883416ce70b086fd8c1fca9b07ed3.png)
+> >

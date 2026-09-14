@@ -51,26 +51,17 @@ Plagal Cadence in C major
 
 Deceptive Cadence in C major
 
-:::{admonition} Practice
-:name: m12402-exer1
-:class: exercise
-
-::::{admonition} Question
-:name: m12402-id1168718046314
-:class: problem
-
-Identify the type of cadence in each excerpt. (Hint: First identify the key and then do a [harmonic analysis](ch-40-beginning-harmonic-analysis.md) of the progression.
-
-![Music notation example](../images/cnx/58b4e67fffbc4be5fc7843f3b89a79e850ee57ab.png)
-
-::::
-
-::::{admonition} Solution
-:name: m12402-id1168717725638
-:class: solution
-
-![Music notation example](../images/cnx/0c0f2770038f60cadb688d1776c0bb6ed2dabc0c.png)
-
-Notice that the half cadence looks like (and in fact is) a [modulation](ch-40-beginning-harmonic-analysis.md) to the dominant. In this very common progression, the dominant seventh of the dominant (which requires an accidental) makes the dominant feel like a very strong resting point, and the piece will continue on in the dominant key for a while, before returning to the tonic key. Also notice the accidental required in the minor key to make the (major) dominant chord.
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Identify the type of cadence in each excerpt. (Hint: First identify the key and then do a [harmonic analysis](ch-40-beginning-harmonic-analysis.md) of the progression.
+> >
+> > ![Music notation example](../images/cnx/58b4e67fffbc4be5fc7843f3b89a79e850ee57ab.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/0c0f2770038f60cadb688d1776c0bb6ed2dabc0c.png)
+> >
+> > Notice that the half cadence looks like (and in fact is) a [modulation](ch-40-beginning-harmonic-analysis.md) to the dominant. In this very common progression, the dominant seventh of the dominant (which requires an accidental) makes the dominant feel like a very strong resting point, and the piece will continue on in the dominant key for a while, before returning to the tonic key. Also notice the accidental required in the minor key to make the (major) dominant chord.

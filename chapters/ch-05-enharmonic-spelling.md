@@ -32,30 +32,21 @@ D sharp and E flat look very different when written in common notation, but they
 
 This is an example of *enharmonic spelling*. Two notes are *enharmonic* if they sound the same on a piano but are named and written differently.
 
-:::{admonition} Practice
-:name: m11641-exer0a
-:class: exercise
-
-::::{admonition} Question
-:name: m11641-id2144520
-:class: problem
-
-Name the other enharmonic notes that are listed above the black keys on the keyboard in the referenced item. Write them on a treble clef staff. If you need staff paper, you can print out this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf)
-::::
-
-::::{admonition} Solution
-:name: m11641-id8077331
-:class: solution
-
-- C sharp and D flat
-- F sharp and G flat
-- G sharp and A flat
-- A sharp and B flat
-
-![Music notation example](../images/cnx/fc80686dbb2a3da98305b51c5fbe0be7fe0df65f.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Name the other enharmonic notes that are listed above the black keys on the keyboard in the referenced item. Write them on a treble clef staff. If you need staff paper, you can print out this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf)
+>
+> > **Solution**
+> >
+> > - C sharp and D flat
+> > - F sharp and G flat
+> > - G sharp and A flat
+> > - A sharp and B flat
+> >
+> > ![Music notation example](../images/cnx/fc80686dbb2a3da98305b51c5fbe0be7fe0df65f.png)
+> >
 
 But these are not the only possible enharmonic notes. Any note can be flat or sharp, so you can have, for example, an E sharp. Looking at the keyboard and remembering that the definition of sharp is \"one half step higher than natural\", you can see that an E sharp must sound the same as an F natural. Why would you choose to call the note E sharp instead of F natural? Even though they sound the same, E sharp and F natural, as they are actually used in music, are different notes. (They may, in some circumstances, also sound different; see below.) Not only will they look different when written on a staff, but they will have different functions within a key and different relationships with the other notes of a piece of music. So a composer may very well prefer to write an E sharp, because that makes the note\'s place in the harmonies of a piece more clear to the performer. (Please see [Triads](ch-36-triads.md), [Beyond Triads](ch-39-beyond-triads-naming-other-chords.md), and [Harmonic Analysis](ch-40-beginning-harmonic-analysis.md) for more on how individual notes fit into chords and harmonic progressions.)
 
@@ -63,34 +54,25 @@ In fact, this need (to make each note\'s place in the harmony very clear) is so 
 
 ![Music notation example](../images/cnx/474e94deea43979f36c549e417e20be46265bcff.png)
 
-:::{admonition} Practice
-:name: m11641-exer0b
-:class: exercise
-
-::::{admonition} Question
-:name: m11641-id1170956803481
-:class: problem
-
-Give at least one enharmonic spelling for the following notes. Try to give more than one. (Look at the keyboard again if you need to.)
-
-1.  E natural
-2.  B natural
-3.  C natural
-4.  G natural
-5.  A natural
-::::
-
-::::{admonition} Solution
-:name: m11641-id1170960083562
-:class: solution
-
-1.  F flat; D double sharp
-2.  C flat; A double sharp
-3.  B sharp; D double flat
-4.  F double sharp; A double flat
-5.  G double sharp; B double flat
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Give at least one enharmonic spelling for the following notes. Try to give more than one. (Look at the keyboard again if you need to.)
+> >
+> > 1.  E natural
+> > 2.  B natural
+> > 3.  C natural
+> > 4.  G natural
+> > 5.  A natural
+>
+> > **Solution**
+> >
+> > 1.  F flat; D double sharp
+> > 2.  C flat; A double sharp
+> > 3.  B sharp; D double flat
+> > 4.  F double sharp; A double flat
+> > 5.  G double sharp; B double flat
 
 ## Enharmonic Keys and Scales
 
@@ -106,28 +88,19 @@ Since the scales are the same, D sharp major and E flat major are also *enharmon
 
 The key signatures for E flat and D sharp look very different, but would sound the same on a keyboard.
 
-:::{admonition} Practice
-:name: m11641-exer1a
-:class: exercise
-
-::::{admonition} Question
-:name: m11641-id1170956383463
-:class: problem
-
-Give an enharmonic name and key signature for the keys given in the referenced item. (If you are not well-versed in [key signatures](ch-04-key-signature.md) yet, pick the easiest enharmonic spelling for the key name, and the easiest enharmonic spelling for every note in the key signature. Writing out the scales may help, too.)
-
-![Music notation example](../images/cnx/2d5aa7cd858822a99a24ca70fa009235bc626daa.png)
-
-::::
-
-::::{admonition} Solution
-:name: m11641-id1170956378392
-:class: solution
-
-![Music notation example](../images/cnx/1a40746eda2587a243368245b5d05212ff77bb72.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Give an enharmonic name and key signature for the keys given in the referenced item. (If you are not well-versed in [key signatures](ch-04-key-signature.md) yet, pick the easiest enharmonic spelling for the key name, and the easiest enharmonic spelling for every note in the key signature. Writing out the scales may help, too.)
+> >
+> > ![Music notation example](../images/cnx/2d5aa7cd858822a99a24ca70fa009235bc626daa.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/1a40746eda2587a243368245b5d05212ff77bb72.png)
+> >
 
 ## Enharmonic Intervals and Chords
 

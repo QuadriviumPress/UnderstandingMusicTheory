@@ -28,12 +28,9 @@ Here are the first sixteen pitches in a harmonic series that starts on a C natur
 
 What does it mean to say that two pitches have a \"simple frequency relationship\"? It doesn\'t mean that their frequencies are almost the same. Two notes whose frequencies are almost the same - say, the frequency of one is 1.005 times the other - sound bad together. Again, anyone who is accustomed to precise tuning would say they are \"out of tune\". Notes with a close relationship have frequencies that can be written as a [ratio](https://cnx.org/content/m11808) of two small whole numbers; the smaller the numbers, the more closely related the notes are. Two notes that are exactly the same pitch, for example, have a frequency ratio of 1:1, and octaves, as we have already seen, are 2:1. Notice that when two pitches are related in this simple-ratio way, it means that they can be considered part of the same harmonic series, and in fact the actual harmonic series of the two notes may also overlap and reinforce each other. The fact that the two notes are complementing and reinforcing each other in this way, rather than presenting the human ear with two completely different harmonic series, may be a major reason why they sound [consonant](ch-38-consonance-and-dissonance.md) and \"in tune\".
 
-:::{admonition} Note
-:name: m11639-id4532758
-:class: note
-
-Nobody has yet proven a physical basis for why simple-ratio combinations sound pleasant to us. For a readable introduction to the subject, I suggest Robert Jourdain\'s Music, the Brain, and Ecstasy
-:::
+> **Note**
+>
+> Nobody has yet proven a physical basis for why simple-ratio combinations sound pleasant to us. For a readable introduction to the subject, I suggest Robert Jourdain\'s Music, the Brain, and Ecstasy
 
 Notice that the actual frequencies of the notes do not matter. What matters is how they compare to each other - basically, how many waves of one note go by for each wave of the other note. Although the actual frequencies of the notes will change for every harmonic series, the comparative distance between the notes, their [interval](ch-32-interval.md), will be the same.
 
@@ -89,12 +86,9 @@ As the series goes on, the ratios get smaller and the notes closer together. [Co
 
 These are fairly small differences, but they can still be heard easily by the human ear. Just intonation uses both the 9:8 whole tone, which is called a *major whole tone* and the 10:9 whole tone, which is called a *minor whole tone*, in order to construct both pure thirds and pure fifths.
 
-:::{admonition} Note
-:name: m11639-id7409907
-:class: note
-
-In case you are curious, the size of the whole tone of the \"mean tone\" system is also the mean, or average, of the major and minor whole tones.
-:::
+> **Note**
+>
+> In case you are curious, the size of the whole tone of the \"mean tone\" system is also the mean, or average, of the major and minor whole tones.
 
 The other accommodation with reality that just intonation must make is the fact that a single just-intonation tuning cannot be used to play in multiple keys. In constructing a just-intonation tuning, it matters which steps of the scale are major whole tones and which are minor whole tones, so an instrument tuned exactly to play with just intonation in the key of C major will have to retune to play in C sharp major or D major. For instruments that can tune almost instantly, like voices, violins, and trombones, this is not a problem; but it is unworkable for pianos, harps, and other other instruments that cannot make small tuning adjustments quickly.
 
@@ -110,12 +104,9 @@ But for many instruments, such as piano, organ, harp, bells, harpsichord, xyloph
 
 As mentioned above, the various tuning systems based on pure intervals eventually have to include \"wolf\" intervals that make some keys unpleasant or even unusable. The various *well temperament* tunings that were very popular in the 18th and 19th centuries tried to strike a balance between staying close to pure intervals and avoiding wolf intervals. A well temperament might have several pure fifths, for example, and several fifths that are smaller than a pure fifth, but not so small that they are \"wolf\" fifths. In such systems, tuning would be noticeably different in each [key](ch-30-major-keys-and-scales.md), but every key would still be pleasant-sounding and usable. This made well temperaments particularly welcome for players of difficult-to-tune instruments like the harpsichord and piano.
 
-:::{admonition} Note
-:name: m11639-id1170966738408
-:class: note
-
-Historically, there has been some confusion as to whether or not well temperament and equal temperament are the same thing, possibly because well temperaments were sometimes referred to at the time as \"equal temperament\". But these well temperaments made all keys equally useful, not equal-sounding as modern equal temperament does.
-:::
+> **Note**
+>
+> Historically, there has been some confusion as to whether or not well temperament and equal temperament are the same thing, possibly because well temperaments were sometimes referred to at the time as \"equal temperament\". But these well temperaments made all keys equally useful, not equal-sounding as modern equal temperament does.
 
 As mentioned above, mean-tone tuning was still very popular in the eighteenth century. J. S. Bach wrote his famous \"Well-Tempered Klavier\" in part as a plea and advertisement to switch to a well temperament system. Various well temperaments did become very popular in the eighteenth and nineteenth centuries, and much of the keyboard-instrument music of those centuries may have been written to take advantage of the tuning characteristics of particular keys in particular well temperaments. Some modern musicians advocate performing such pieces using well temperaments, in order to better understand and appreciate them. It is interesting to note that the different keys in a well temperament tuning were sometimes considered to be aligned with specific colors and emotions. In this way they may have had more in common with various [modes and ragas](ch-45-modes-and-ragas.md) than do keys in equal temperament.
 

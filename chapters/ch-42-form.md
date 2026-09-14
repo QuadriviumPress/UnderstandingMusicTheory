@@ -36,31 +36,22 @@ How do you recognize the sections? With familiar kinds of music, this is pretty 
 
 Most folk and popular music features simple forms that encourage participation.
 
-:::{admonition} Practice
-:name: m10842-element-183
-:class: exercise
-
-::::{admonition} Question
-:name: m10842-id3881926
-:class: problem
-
-Practice identifying some easy musical forms. Pick some favorite songs and listen to each repeatedly until you are satisfied that you have identified its full form using letters and primes. Compare the forms of the tunes to spot similarities and differences.
-
-Listen for:
-
-- **Verses** have the same melody but different words.
-- **Refrains** have the same melody and the same words.
-- **Bridge Sections** are new material that appears late in the song, usually appearing only once or twice, often in place of a verse and usually leading into the refrain. (You may want to note the differences - and the similarity - in the use of the term *bridge* by popular musicians and jazz musicians; see below).
-- **Instrumentals** are important sections that have no vocals. They can come at the beginning or end, or in between other sections. Is there more than one? Do they have the same melody as a verse or refrain? Are they similar to each other?
-::::
-
-::::{admonition} Solution
-:name: m10842-id14415898
-:class: solution
-
-Your answers will depend on the songs you choose. Check them with a teacher if you can. (Bring the music so the teacher can listen to it while checking your answers.)
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Practice identifying some easy musical forms. Pick some favorite songs and listen to each repeatedly until you are satisfied that you have identified its full form using letters and primes. Compare the forms of the tunes to spot similarities and differences.
+> >
+> > Listen for:
+> >
+> > - **Verses** have the same melody but different words.
+> > - **Refrains** have the same melody and the same words.
+> > - **Bridge Sections** are new material that appears late in the song, usually appearing only once or twice, often in place of a verse and usually leading into the refrain. (You may want to note the differences - and the similarity - in the use of the term *bridge* by popular musicians and jazz musicians; see below).
+> > - **Instrumentals** are important sections that have no vocals. They can come at the beginning or end, or in between other sections. Is there more than one? Do they have the same melody as a verse or refrain? Are they similar to each other?
+>
+> > **Solution**
+> >
+> > Your answers will depend on the songs you choose. Check them with a teacher if you can. (Bring the music so the teacher can listen to it while checking your answers.)
 
 While discussing a piece of music in detail, musicians may also use letters to label smaller parts of the piece within larger sections, even down to labelling individual [phrases](ch-19-melody.md). For example, the song \"The Girl I Left Behind\" has many verses with no refrain, an A A\' A\'\'- type form. However, a look at the tune of one verse shows that within that overall form is an A A\' B A\'\' phrase structure.
 
@@ -68,24 +59,15 @@ While discussing a piece of music in detail, musicians may also use letters to l
 
 In detailed discussions of a piece of music, smaller sections, and even individual phrases, may also be labelled with letters, in order to discuss the piece in greater detail. The A A B A form of this verse is very common, found in verses of everything from folk to jazz to pop music. Verses of blues songs are more likely to have an A A' B form.
 
-:::{admonition} Practice
-:name: m10842-element-614
-:class: exercise
-
-::::{admonition} Question
-:name: m10842-id14417291
-:class: problem
-
-Now try labeling the phrases of a verse or a refrain of some of the songs you listened to in the referenced item. Listen for phrases that use similar melodies. (Sometimes, but not always, they even use the same words.) How many of your refrains and verses were basically A A B A? What were the others?
-::::
-
-::::{admonition} Solution
-:name: m10842-id14417320
-:class: solution
-
-If one is available, have a music teacher check your answers.
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Now try labeling the phrases of a verse or a refrain of some of the songs you listened to in the referenced item. Listen for phrases that use similar melodies. (Sometimes, but not always, they even use the same words.) How many of your refrains and verses were basically A A B A? What were the others?
+>
+> > **Solution**
+> >
+> > If one is available, have a music teacher check your answers.
 
 ### Naming Forms
 
@@ -93,12 +75,9 @@ Often a musical form becomes so popular with composers that it is given a name. 
 
 Also, many genres of music tend to follow a preset form, like the \"typical pop song form\" in the referenced item. A *symphony*, for example, is usually a piece of music written for a fairly large number of instruments. It is also associated with a particular form, so knowing that a piece of music is called a symphony should lead you to expect certain things about it. For example, listeners familiar with the symphonic form expect a piece called a symphony to have three or four (depending on when it was written) main sections, called *movements*. They expect a moment of silence in between movements, and also expect the movements to sound very different from each other; for example if the first movement is fast and loud, they might expect that the second movement would be slow and quiet. If they have heard many symphonies, they also would not be at all surprised if the first movement is in sonata form and the third movement is based on a dance.
 
-:::{admonition} Note
-:name: m10842-id3880382
-:class: note
-
-Although a large group of people who play classical music together is often called a symphony, the more accurate term for the group is *orchestra*. The confusion occurs because many orchestras call themselves \"symphony orchestras\" because they spend so much time playing symphonies (as opposed to, for example, an \"opera orchestra\" or a \"pops orchestra\").
-:::
+> **Note**
+>
+> Although a large group of people who play classical music together is often called a symphony, the more accurate term for the group is *orchestra*. The confusion occurs because many orchestras call themselves \"symphony orchestras\" because they spend so much time playing symphonies (as opposed to, for example, an \"opera orchestra\" or a \"pops orchestra\").
 
 Other kinds of music are also so likely to follow a particular overall plan that they have become associated with a particular form. You can hear musicians talk about something being concerto form or sonata form, for example (even if the piece is not technically a concerto or sonata). Particular dances (a minuet, for example), besides having a set [tempo](ch-13-tempo.md) and [time signature](ch-08-time-signature.md), will sometimes have a set form that suits the dance steps. And many marches are similar enough in form that there are names for the expected sections (first strain, second strain, trio, break strain).
 

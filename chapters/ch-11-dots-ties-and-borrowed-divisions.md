@@ -20,28 +20,19 @@ One way to get a different length is by dotting the note or rest. A *dotted note
 
 The dot acts as if it is adding another note half the length of the original note. A dotted quarter note, for example, would be the length of a quarter plus an eighth, because an eighth note is half the length of a quarter note.
 
-:::{admonition} Practice
-:name: m11888-exer3a
-:class: exercise
-
-::::{admonition} Question
-:name: m11888-id1164224144187
-:class: problem
-
-Make groups of equal length on each side, by putting a dotted note or rest in the box.
-
-![Music notation example](../images/cnx/b38c68f9b7567902f35080c958b602133e1646f3.png)
-
-::::
-
-::::{admonition} Solution
-:name: m11888-id1550183
-:class: solution
-
-![Music notation example](../images/cnx/aea8aa79be190e40bc0147148906d1647e4b1b83.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Make groups of equal length on each side, by putting a dotted note or rest in the box.
+> >
+> > ![Music notation example](../images/cnx/b38c68f9b7567902f35080c958b602133e1646f3.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/aea8aa79be190e40bc0147148906d1647e4b1b83.png)
+> >
 
 A note may have more than one dot. Each dot adds half the length that the dot before it added. For example, the first dot after a half note adds a quarter note length; the second dot would add an eighth note length.
 
@@ -53,12 +44,9 @@ When a note has more than one dot, each dot is worth half of the dot before it.
 
 A dotted half lasts as long as a half note plus a quarter note. The same length may be written as a half note and a quarter note tied together. *Tied notes* are written with a curved line connecting two notes that are on the same line or the same space in the staff. Notes of any length may be tied together, and more than two notes may be tied together. **The sound they stand for will be a single note that is the length of all the tied notes added together.** This is another way to make a great variety of note lengths. Tied notes are also the only way to write a sound that starts in one [measure](ch-08-time-signature.md) and ends in a different measure.
 
-:::{admonition} Note
-:name: m11888-id1164228467632
-:class: note
-
-Ties may look like [slurs](ch-16-articulation.md), but they are not the same; a slur connects to notes with different [pitches](ch-03-pitch-sharp-flat-and-natural-notes.md) and is a type of [articulation](ch-16-articulation.md).
-:::
+> **Note**
+>
+> Ties may look like [slurs](ch-16-articulation.md), but they are not the same; a slur connects to notes with different [pitches](ch-03-pitch-sharp-flat-and-natural-notes.md) and is a type of [articulation](ch-16-articulation.md).
 
 ![Music notation example](../images/cnx/78e448e0e53633bbab129e0a9338f671f7aeaf2a.png)
 
@@ -78,12 +66,9 @@ In a compound <a href="ch-09-meter.md">meter</a>, which normally divides a beat 
 
 Notes in jazzy-sounding music that has a \"swing\" beat are often assumed to be triplet rhythms, even when they look like regular divisions; for example, two written eighth notes (or a dotted quarter-sixteenth) might sound like a triplet quarter-eighth rhythm. In jazz and other popular music styles, a [tempo](ch-13-tempo.md) notation that says *swing* usually means that all rhythms should be played as triplets. *Straight* means to play the rhythms as written.
 
-:::{admonition} Note
-:name: m11888-id1164226213887
-:class: note
-
-Some jazz musicians prefer to think of a swing rhythm as more of a heavy accent on the second eighth, rather than as a triplet rhythm, particularly when the [tempo](ch-13-tempo.md) is fast. This distinction is not important for students of music theory, but jazz students will want to work hard on using both [rhythm](ch-17-rhythm.md) and [articulation](ch-16-articulation.md) to produce a convincing \"swing\".
-:::
+> **Note**
+>
+> Some jazz musicians prefer to think of a swing rhythm as more of a heavy accent on the second eighth, rather than as a triplet rhythm, particularly when the [tempo](ch-13-tempo.md) is fast. This distinction is not important for students of music theory, but jazz students will want to work hard on using both [rhythm](ch-17-rhythm.md) and [articulation](ch-16-articulation.md) to produce a convincing \"swing\".
 
 ![Music notation example](../images/cnx/f60857c8669a175558b409f0c714dcbee4a36513.png)
 

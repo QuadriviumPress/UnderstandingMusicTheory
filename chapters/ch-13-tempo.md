@@ -47,34 +47,25 @@ These terms, along with a little more Italian, will help you decipher most tempo
 - **meno** - less (\"MAY-no\")
 - **mosso** - literally \"moved\"; motion or movement (\"MOE-so\")
 
-:::{admonition} Practice
-:name: m11648-exer1a
-:class: exercise
-
-::::{admonition} Question
-:name: m11648-id1168604494850
-:class: problem
-
-Check to see how comfortable you are with Italian tempo markings by translating the following.
-
-1.  un poco allegro
-2.  molto meno mosso
-3.  piu vivo
-4.  molto adagio
-5.  poco piu mosso
-::::
-
-::::{admonition} Solution
-:name: m11648-id1168612736701
-:class: solution
-
-1.  a little fast
-2.  much less motion = much slower
-3.  more lively = faster
-4.  very slow
-5.  a little more motion = a little faster
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Check to see how comfortable you are with Italian tempo markings by translating the following.
+> >
+> > 1.  un poco allegro
+> > 2.  molto meno mosso
+> > 3.  piu vivo
+> > 4.  molto adagio
+> > 5.  poco piu mosso
+>
+> > **Solution**
+> >
+> > 1.  a little fast
+> > 2.  much less motion = much slower
+> > 3.  more lively = faster
+> > 4.  very slow
+> > 5.  a little more motion = a little faster
 
 Of course, tempo instructions don\'t have to be given in Italian. Much folk, popular, and modern music, gives instructions in English or in the composer\'s language. Tempo indications such as \"Not too fast\", \"With energy\", \"Calmly\", or \"March tempo\" give a good idea of how fast the music should feel.
 

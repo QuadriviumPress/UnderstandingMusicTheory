@@ -48,62 +48,41 @@ All intervals in a <strong>whole tone scale</strong> are whole steps.
 
 You can count any number of whole steps or half steps between notes; just remember to count all sharp or flat notes (the black keys on a keyboard) as well as all the natural notes (the white keys) that are in between.
 
-:::{admonition} Example
-:name: m10866-exam0a
-:class: example
+> **Example**
+>
+> The interval between C and the F above it is 5 half steps, or two and a half steps.
+>
+> ![Music notation example](../images/cnx/a377eac1f99e6e98dbe1d2c0947a7626c7386da0.png)
+>
+> Going from C up to F takes five half steps.
+>
 
-The interval between C and the F above it is 5 half steps, or two and a half steps.
+> **Practice**
+>
+> > **Question**
+> >
+> > Identify the intervals below in terms of half steps and whole steps. If you have trouble keeping track of the notes, use a piano keyboard, a written chromatic scale, or the chromatic fingerings for your instrument to count half steps.
+> >
+> > ![Music notation example](../images/cnx/accff92080af0b6693ce2be1cd6200a6dfcb4c3e.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/00f13232da90fddc8e6cd6c5bf22411c54ba182f.png)
+> >
 
-![Music notation example](../images/cnx/a377eac1f99e6e98dbe1d2c0947a7626c7386da0.png)
-
-Going from C up to F takes five half steps.
-
-:::
-
-:::{admonition} Practice
-:name: m10866-exer0a
-:class: exercise
-
-::::{admonition} Question
-:name: m10866-id4883301
-:class: problem
-
-Identify the intervals below in terms of half steps and whole steps. If you have trouble keeping track of the notes, use a piano keyboard, a written chromatic scale, or the chromatic fingerings for your instrument to count half steps.
-
-![Music notation example](../images/cnx/accff92080af0b6693ce2be1cd6200a6dfcb4c3e.png)
-
-::::
-
-::::{admonition} Solution
-:name: m10866-id7432785
-:class: solution
-
-![Music notation example](../images/cnx/00f13232da90fddc8e6cd6c5bf22411c54ba182f.png)
-
-::::
-:::
-
-:::{admonition} Practice
-:name: m10866-exer0b
-:class: exercise
-
-::::{admonition} Question
-:name: m10866-id11899534
-:class: problem
-
-Fill in the second note of the interval indicated in each measure. If you need staff paper for this exercise, you can print out this [staff paper](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf) PDF file.
-
-![Music notation example](../images/cnx/ed35597f1a11d4911bcffeb59b94b7aa1357cfd1.png)
-
-::::
-
-::::{admonition} Solution
-:name: m10866-id7385063
-:class: solution
-
-![Music notation example](../images/cnx/e1166e2deee2765a28a25c97f18b7751aa6c4174.png)
-
-If your answer is different, check to see if you have written a different <a href="ch-05-enharmonic-spelling.md">enharmonic spelling</a> of the note in the answer. For example, the B flat could be written as an A sharp.
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Fill in the second note of the interval indicated in each measure. If you need staff paper for this exercise, you can print out this [staff paper](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf) PDF file.
+> >
+> > ![Music notation example](../images/cnx/ed35597f1a11d4911bcffeb59b94b7aa1357cfd1.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/e1166e2deee2765a28a25c97f18b7751aa6c4174.png)
+> >
+> > If your answer is different, check to see if you have written a different <a href="ch-05-enharmonic-spelling.md">enharmonic spelling</a> of the note in the answer. For example, the B flat could be written as an A sharp.
+> >

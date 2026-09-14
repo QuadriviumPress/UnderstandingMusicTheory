@@ -64,77 +64,50 @@ The G indicated by the treble clef is the G above [middle C](ch-28-octaves-and-t
 
 Middle C is above the bass clef and below the treble clef; so together these two clefs cover much of the range of most voices and instruments.
 
-:::{admonition} Practice
-:name: m10941-exer3a
-:class: exercise
+> **Practice**
+>
+> > **Question**
+> >
+> > Write the name of each note below the note on each staff in the referenced item.
+> >
+> > ![Music notation example](../images/cnx/17e780a24ae09def5583b27898930f3dd936bfa3.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/3087ad9e3af32de3f3c0f6278eca1ce3558cff12.png)
+> >
 
-::::{admonition} Question
-:name: m10941-id42288278
-:class: problem
+> **Practice**
+>
+> > **Question**
+> >
+> > Choose a clef in which you need to practice recognizing notes above and below the staff in the referenced item. Write the clef sign at the beginning of the staff, and then write the correct note names below each note.
+> >
+> > ![Music notation example](../images/cnx/9c39c637224c0bba225d33a4a11dfd0c9c0583bb.png)
+> >
+>
+> > **Solution**
+> >
+> > the referenced item shows the answers for treble and bass clef. If you have done another clef, have your teacher check your answers.
+> >
+> > ![Music notation example](../images/cnx/25011ac162a03037c0aaa44f2843334c4564072e.png)
+> >
 
-Write the name of each note below the note on each staff in the referenced item.
-
-![Music notation example](../images/cnx/17e780a24ae09def5583b27898930f3dd936bfa3.png)
-
-::::
-
-::::{admonition} Solution
-:name: m10941-id42288339
-:class: solution
-
-![Music notation example](../images/cnx/3087ad9e3af32de3f3c0f6278eca1ce3558cff12.png)
-
-::::
-:::
-
-:::{admonition} Practice
-:name: m10941-element-752
-:class: exercise
-
-::::{admonition} Question
-:name: m10941-id42288388
-:class: problem
-
-Choose a clef in which you need to practice recognizing notes above and below the staff in the referenced item. Write the clef sign at the beginning of the staff, and then write the correct note names below each note.
-
-![Music notation example](../images/cnx/9c39c637224c0bba225d33a4a11dfd0c9c0583bb.png)
-
-::::
-
-::::{admonition} Solution
-:name: m10941-id42288450
-:class: solution
-
-the referenced item shows the answers for treble and bass clef. If you have done another clef, have your teacher check your answers.
-
-![Music notation example](../images/cnx/25011ac162a03037c0aaa44f2843334c4564072e.png)
-
-::::
-:::
-
-:::{admonition} Practice
-:name: m10941-element-226
-:class: exercise
-
-::::{admonition} Question
-:name: m10941-id41945873
-:class: problem
-
-the referenced item gives more exercises to help you memorize whichever clef you are learning. You may print these exercises as a [PDF worksheet](../images/cnx/bdd5045fa86b7fe90f70e73d15617d7ba5f96548.pdf) if you like.
-
-![Music notation example](../images/cnx/6e59466f91e61d128e62b1b0d8447df01788fb69.png)
-
-::::
-
-::::{admonition} Solution
-:name: m10941-id41945944
-:class: solution
-
-the referenced item shows the answers for treble clef, and the referenced item the answers for bass clef. If you are working in a more unusual clef, have your teacher check your answers.
-
-![Music notation example](../images/cnx/f24f3bff15f4753276f6263917a6eb58c3924ed2.png)
-
-![Music notation example](../images/cnx/cb8a1669129bb78cc53eb4d1435d1a704d569e88.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > the referenced item gives more exercises to help you memorize whichever clef you are learning. You may print these exercises as a [PDF worksheet](../images/cnx/bdd5045fa86b7fe90f70e73d15617d7ba5f96548.pdf) if you like.
+> >
+> > ![Music notation example](../images/cnx/6e59466f91e61d128e62b1b0d8447df01788fb69.png)
+> >
+>
+> > **Solution**
+> >
+> > the referenced item shows the answers for treble clef, and the referenced item the answers for bass clef. If you are working in a more unusual clef, have your teacher check your answers.
+> >
+> > ![Music notation example](../images/cnx/f24f3bff15f4753276f6263917a6eb58c3924ed2.png)
+> >
+> > ![Music notation example](../images/cnx/cb8a1669129bb78cc53eb4d1435d1a704d569e88.png)
+> >

@@ -22,28 +22,19 @@ Minor scales sound different from major scales because they are based on a diffe
 
 [Listen](../images/cnx/6faeb0239bfa900fbc32fc2eb77c0783bc9f26b7.midi) to these minor scales.
 
-:::{admonition} Practice
-:name: m10856-exer2a
-:class: exercise
-
-::::{admonition} Question
-:name: m10856-id49977815
-:class: problem
-
-For each note below, write a natural minor scale, one octave, ascending (going up) beginning on that note. If you need staff paper, you may print the [staff paper](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf) PDF file.
-
-![Music notation example](../images/cnx/ba0dba3f6286193381242d9b0711ead164b86d22.png)
-
-::::
-
-::::{admonition} Solution
-:name: m10856-id40383622
-:class: solution
-
-![Music notation example](../images/cnx/e97ebaee5739acf24c4d7dc6feccc27dc370c60f.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > For each note below, write a natural minor scale, one octave, ascending (going up) beginning on that note. If you need staff paper, you may print the [staff paper](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf) PDF file.
+> >
+> > ![Music notation example](../images/cnx/ba0dba3f6286193381242d9b0711ead164b86d22.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/e97ebaee5739acf24c4d7dc6feccc27dc370c60f.png)
+> >
 
 ## Relative Minor and Major Keys
 
@@ -59,38 +50,26 @@ It is easy to predict where the relative minor of a major key can be found. Noti
 
 The C major and C minor scales start on the same note, but have different key signatures. C minor and E flat major start on different notes, but have the same key signature. C minor is the <em>relative minor</em> of E flat major.
 
-:::{admonition} Practice
-:name: m10856-exer3a
-:class: exercise
-
-::::{admonition} Question
-:name: m10856-id39733660
-:class: problem
-
-What are the relative majors of the minor keys in the referenced item?
-::::
-
-::::{admonition} Solution
-:name: m10856-id39741089
-:class: solution
-
-1.  A minor: C major
-2.  G minor: B flat major
-3.  B flat minor: D flat major
-4.  E minor: G major
-5.  F minor: A flat major
-6.  F sharp minor: A major
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > What are the relative majors of the minor keys in the referenced item?
+>
+> > **Solution**
+> >
+> > 1.  A minor: C major
+> > 2.  G minor: B flat major
+> > 3.  B flat minor: D flat major
+> > 4.  E minor: G major
+> > 5.  F minor: A flat major
+> > 6.  F sharp minor: A major
 
 ## Harmonic and Melodic Minor Scales
 
-:::{admonition} Note
-:name: m10856-eip-464
-:class: note
-
-Do key signatures make music more complicated than it needs to be? Is there an easier way? Join the discussion at [Opening Measures](http://openingmeasures.com/music/22/why-cant-we-use-something-simpler-than-key-signatures/).
-:::
+> **Note**
+>
+> Do key signatures make music more complicated than it needs to be? Is there an easier way? Join the discussion at [Opening Measures](http://openingmeasures.com/music/22/why-cant-we-use-something-simpler-than-key-signatures/).
 
 All of the scales above are *natural minor scales*. They contain only the notes in the minor key signature. There are two other kinds of minor scales that are commonly used, both of which include notes that are not in the key signature. The *harmonic minor scale* **raises the seventh note of the scale by one half step, whether you are going up or down the scale**. Harmonies in minor keys often use this raised seventh tone in order to make the music feel more strongly centered on the [tonic](ch-30-major-keys-and-scales.md). (Please see [Beginning Harmonic Analysis](ch-40-beginning-harmonic-analysis.md) for more about this.) In the *melodic minor scale*, **the sixth and seventh notes of the scale are each raised by one half step when going up the scale, but return to the natural minor when going down the scale**. Melodies in minor keys often use this particular pattern of [accidentals](ch-03-pitch-sharp-flat-and-natural-notes.md), so instrumentalists find it useful to practice melodic minor scales.
 
@@ -98,45 +77,27 @@ All of the scales above are *natural minor scales*. They contain only the notes 
 
 Listen to the differences between the [natural minor](../images/cnx/71cb0db1d939e0afc6c11b722cd388098d12bc63.mpg), [harmonic minor](../images/cnx/b2828f951ab2eec060f24540ef35f43a2fd7edca.mpg), and [melodic minor](../images/cnx/8251716ef091f30bb48c7d4cbeb29d5054dbac30.mpg) scales.
 
-:::{admonition} Practice
-:name: m10856-exer4a
-:class: exercise
+> **Practice**
+>
+> > **Question**
+> >
+> > Rewrite each scale from the referenced item as an ascending harmonic minor scale.
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/e1b491fc3b7d78fbc33815435de84ee7f561d5a6.png)
+> >
 
-::::{admonition} Question
-:name: m10856-id40018268
-:class: problem
-
-Rewrite each scale from the referenced item as an ascending harmonic minor scale.
-::::
-
-::::{admonition} Solution
-:name: m10856-id40427672
-:class: solution
-
-![Music notation example](../images/cnx/e1b491fc3b7d78fbc33815435de84ee7f561d5a6.png)
-
-::::
-:::
-
-:::{admonition} Practice
-:name: m10856-exer4b
-:class: exercise
-
-::::{admonition} Question
-:name: m10856-id42616219
-:class: problem
-
-Rewrite each scale from the referenced item as an ascending and descending melodic minor scale.
-::::
-
-::::{admonition} Solution
-:name: m10856-id40448821
-:class: solution
-
-![Music notation example](../images/cnx/f51253382ce0d354c87f28eccca901df1572a59d.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Rewrite each scale from the referenced item as an ascending and descending melodic minor scale.
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/f51253382ce0d354c87f28eccca901df1572a59d.png)
+> >
 
 ## Jazz and \"Dorian Minor\"
 

@@ -22,64 +22,43 @@ Keys are not considered closely related to each other if they are near each othe
 
 The circle of fifths gets its name from the fact that as you go from one section of the circle to the next, you are going up or down by an [interval](ch-32-interval.md) of a [perfect fifth](ch-32-interval.md). If you go up a perfect fifth (clockwise in the circle), you get the key that has one more sharp or one less flat; if you go down a perfect fifth (counterclockwise), you get the key that has one more flat or one less sharp. Since going down by a perfect fifth is the same as going up by a [perfect fourth](ch-32-interval.md), the counterclockwise direction is sometimes referred to as a \"circle of fourths\". (Please review [inverted intervals](ch-32-interval.md) if this is confusing.)
 
-:::{admonition} Example
-:name: m10865-exam1b
-:class: example
+> **Example**
+>
+> The key of D major has two sharps. Using the circle of fifths, we find that the most closely related major keys (one in each direction) are G major, with only one sharp, and A major, with three sharps. The relative minors of all of these keys (B minor, E minor, and F sharp minor) are also closely related to D major.
 
-The key of D major has two sharps. Using the circle of fifths, we find that the most closely related major keys (one in each direction) are G major, with only one sharp, and A major, with three sharps. The relative minors of all of these keys (B minor, E minor, and F sharp minor) are also closely related to D major.
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > What are the keys most closely related to E flat major? To A minor?
+>
+> > **Solution**
+> >
+> > - B flat major (2 flats)
+> > - A flat major (4 flats)
+> > - C minor (3 flats)
+> > - G minor (2 flats)
+> > - F minor (4 flats)
+> >
+> > - E minor (1 sharp)
+> > - D minor (1 flat)
+> > - C major (no sharps or flats)
+> > - G major (1 sharp)
+> > - F major (1 flat)
 
-:::{admonition} Practice
-:name: m10865-exer0s
-:class: exercise
-
-::::{admonition} Question
-:name: m10865-id8799881
-:class: problem
-
-What are the keys most closely related to E flat major? To A minor?
-::::
-
-::::{admonition} Solution
-:name: m10865-id7788051
-:class: solution
-
-- B flat major (2 flats)
-- A flat major (4 flats)
-- C minor (3 flats)
-- G minor (2 flats)
-- F minor (4 flats)
-
-- E minor (1 sharp)
-- D minor (1 flat)
-- C major (no sharps or flats)
-- G major (1 sharp)
-- F major (1 flat)
-::::
-:::
-
-:::{admonition} Practice
-:name: m10865-exer0o
-:class: exercise
-
-::::{admonition} Question
-:name: m10865-id1165367187632
-:class: problem
-
-Name the major and minor keys for each key signature.
-
-![Music notation example](../images/cnx/35dd8f8d6266ebddcf5c621a6003cc61e58a2e0f.png)
-
-::::
-
-::::{admonition} Solution
-:name: m10865-id4571256
-:class: solution
-
-![Music notation example](../images/cnx/6dd82e0a8a44b2c43a820343a180ffd54b8821e1.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > Name the major and minor keys for each key signature.
+> >
+> > ![Music notation example](../images/cnx/35dd8f8d6266ebddcf5c621a6003cc61e58a2e0f.png)
+> >
+>
+> > **Solution**
+> >
+> > ![Music notation example](../images/cnx/6dd82e0a8a44b2c43a820343a180ffd54b8821e1.png)
+> >
 
 ## Key Signatures
 
@@ -91,76 +70,49 @@ The first flat in a key signature is always B flat (the same as the last sharp);
 
 Each sharp and flat that is added to a key signature is also a perfect fifth away from the last sharp or flat that was added.
 
-:::{admonition} Practice
-:name: m10865-exer0c
-:class: exercise
+> **Practice**
+>
+> > **Question**
+> >
+> > the referenced item shows that D major has 2 sharps; the referenced item shows that they are F sharp and C sharp. After D major, name the next four sharp keys, and name the sharp that is added with each key.
+>
+> > **Solution**
+> >
+> > - A major adds G sharp
+> > - E major adds D sharp
+> > - B major adds A sharp
+> > - F sharp major adds E sharp
+> >
+> > ![Music notation example](../images/cnx/f7485371936c468434d7dcbb1dec9473ffad7ee2.png)
+> >
 
-::::{admonition} Question
-:name: m10865-id4385682
-:class: problem
+> **Practice**
+>
+> > **Question**
+> >
+> > E minor is the first sharp minor key; the first sharp added in both major and minor keys is always F sharp. Name the next three sharp minor keys, and the sharp that is added in each key.
+>
+> > **Solution**
+> >
+> > - B minor adds C sharp
+> > - F sharp minor adds G sharp
+> > - C sharp minor adds D sharp
+> >
+> > ![Music notation example](../images/cnx/4941d4150e8deeac4a929cffd719f7e07aec91be.png)
+> >
 
-the referenced item shows that D major has 2 sharps; the referenced item shows that they are F sharp and C sharp. After D major, name the next four sharp keys, and name the sharp that is added with each key.
-::::
-
-::::{admonition} Solution
-:name: m10865-id4556904
-:class: solution
-
-- A major adds G sharp
-- E major adds D sharp
-- B major adds A sharp
-- F sharp major adds E sharp
-
-![Music notation example](../images/cnx/f7485371936c468434d7dcbb1dec9473ffad7ee2.png)
-
-::::
-:::
-
-:::{admonition} Practice
-:name: m10865-exer0f
-:class: exercise
-
-::::{admonition} Question
-:name: m10865-id5010925
-:class: problem
-
-E minor is the first sharp minor key; the first sharp added in both major and minor keys is always F sharp. Name the next three sharp minor keys, and the sharp that is added in each key.
-::::
-
-::::{admonition} Solution
-:name: m10865-id1165361322002
-:class: solution
-
-- B minor adds C sharp
-- F sharp minor adds G sharp
-- C sharp minor adds D sharp
-
-![Music notation example](../images/cnx/4941d4150e8deeac4a929cffd719f7e07aec91be.png)
-
-::::
-:::
-
-:::{admonition} Practice
-:name: m10865-exer0j
-:class: exercise
-
-::::{admonition} Question
-:name: m10865-id2719720
-:class: problem
-
-After B flat major, name the next four flat keys, and name the flat that is added with each key.
-::::
-
-::::{admonition} Solution
-:name: m10865-id1165363483543
-:class: solution
-
-- E flat major adds A flat
-- A flat major adds D flat
-- D flat major adds G flat
-- G flat major adds C flat
-
-![Music notation example](../images/cnx/5fd44c0b8192a7023538adb053baca274ad8ab50.png)
-
-::::
-:::
+> **Practice**
+>
+> > **Question**
+> >
+> > After B flat major, name the next four flat keys, and name the flat that is added with each key.
+>
+> > **Solution**
+> >
+> > - E flat major adds A flat
+> > - A flat major adds D flat
+> > - D flat major adds G flat
+> > - G flat major adds C flat
+> >
+> > ![Music notation example](../images/cnx/5fd44c0b8192a7023538adb053baca274ad8ab50.png)
+> >

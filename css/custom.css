@@ -67,6 +67,20 @@ article table {
   border-left-color: #4f7a66;
 }
 
+article blockquote {
+  background: color-mix(in srgb, var(--book-accent) 6%, transparent);
+  border-left: 0.28rem solid var(--book-accent);
+  border-radius: 0.25rem;
+  margin: 1.25rem 0;
+  padding: 0.2rem 1rem 0.65rem;
+}
+
+article blockquote blockquote {
+  background: rgb(255 255 255 / 55%);
+  border-left-color: var(--music-gold);
+  margin: 0.85rem 0;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --music-paper: #242124;
@@ -76,4 +90,3 @@ article table {
     color: #d8ced2;
   }
 }
-
