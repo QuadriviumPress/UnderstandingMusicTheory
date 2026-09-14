@@ -10,23 +10,14 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *An introduction to the basic element of music called tempo, with some useful terms.*
 
-[]{#m11648-p0a}
-
 The *tempo* of a piece of music is its speed. There are two ways to specify a tempo. Metronome markings are absolute and specific. Other tempo markings are verbal descriptions which are more relative and subjective. Both types of markings usually appear above the staff, at the beginning of the piece, and then at any spot where the tempo changes. Markings that ask the player to deviate slightly from the main tempo, such as ritardando may appear either above or below the staff.
 
 ::: {#m11648-s1 .section}
 ## Metronome Markings
 
-[]{#m11648-p0b}
-
 Metronome markings are given in beats per minute. They can be estimated using a clock with a second hand, but the easiest way to find them is with a *metronome*, which is a tool that can give a beat-per-minute tempo as a clicking sound or a pulse of light. the referenced item shows some examples of metronome markings.
 
-[]{#m11648-fig0a}
-<figure>
-<img src="../images/cnx/5a8209d773fa3b65be50ec156c652a8d8389e5c1.png" alt="Music notation example" />
-</figure>
-
-[]{#m11648-p0c}
+![Music notation example](../images/cnx/5a8209d773fa3b65be50ec156c652a8d8389e5c1.png)
 
 Metronomes often come with other tempo indications written on them, but this is misleading. For example, a metronome may have allegro marked at 120 beats per minute and andante marked at 80 beats per minute. Allegro should certainly be quite a bit faster than andante, but it may not be exactly 120 beats per minute.
 :::
@@ -34,11 +25,7 @@ Metronomes often come with other tempo indications written on them, but this is 
 ::: {#m11648-s2 .section}
 ## Tempo Terms
 
-[]{#m11648-p0d}
-
 A tempo marking that is a word or phrase gives you the composer\'s idea of **how fast the music should feel**. How fast a piece of music feels depends on several different things, including the texture and complexity of the music, how often the beat gets divided into faster notes, and how fast the beats themselves are (the metronome marking). Also, the same tempo marking can mean quite different things to different composers; if a metronome marking is not available, the performer should use a knowledge of the music\'s style and genre, and musical common sense, to decide on the proper tempo. When possible, listening to a professional play the piece can help with tempo decisions, but it is also reasonable for different performers to prefer slightly different tempos for the same piece.
-
-[]{#m11648-p0e}
 
 Traditionally, tempo instructions are given in Italian.
 
@@ -57,8 +44,6 @@ Traditionally, tempo instructions are given in Italian.
 - **Prestissimo** - very, very fast (\"press-TEE-see-moe\")
 :::
 
-[]{#m11648-p0f}
-
 These terms, along with a little more Italian, will help you decipher most tempo instructions.
 
 ::: {#m11648-l1b}
@@ -75,11 +60,7 @@ These terms, along with a little more Italian, will help you decipher most tempo
 ::: {#m11648-id1168604494850 .problem}
 **Question**
 
-[]{#m11648-prob0a}
-
 Check to see how comfortable you are with Italian tempo markings by translating the following.
-
-[]{#m11648-lprob1a}
 
 1.  un poco allegro
 2.  molto meno mosso
@@ -91,8 +72,6 @@ Check to see how comfortable you are with Italian tempo markings by translating 
 ::: {#m11648-id1168612736701 .solution}
 **Solution**
 
-[]{#m11648-solv1a}
-
 1.  a little fast
 2.  much less motion = much slower
 3.  more lively = faster
@@ -101,15 +80,11 @@ Check to see how comfortable you are with Italian tempo markings by translating 
 :::
 :::
 
-[]{#m11648-p0g}
-
 Of course, tempo instructions don\'t have to be given in Italian. Much folk, popular, and modern music, gives instructions in English or in the composer\'s language. Tempo indications such as \"Not too fast\", \"With energy\", \"Calmly\", or \"March tempo\" give a good idea of how fast the music should feel.
 :::
 
 ::: {#m11648-s3 .section}
 ## Gradual Tempo Changes
-
-[]{#m11648-p3a}
 
 If the tempo of a piece of music suddenly changes into a completely different tempo, there will be a new tempo given, usually marked in the same way (metronome tempo, Italian term, etc.) as the original tempo. Gradual changes in the basic tempo are also common in music, though, and these have their own set of terms. These terms often appear below the staff, although writing them above the staff is also allowed. These terms can also appear with modifiers like molto or un poco. You may notice that there are quite a few terms for slowing down. Again, the use of these terms will vary from one composer to the next; unless beginning and ending tempo markings are included, the performer must simply use good musical judgement to decide how much to slow down in a particular ritardando or rallentando.
 

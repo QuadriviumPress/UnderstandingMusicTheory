@@ -10,11 +10,7 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *An introduction to the basic element of music called rhythm, with some definitions.*
 
-[]{#m11646-p0a}
-
 Rhythm, [melody](ch-19-melody.md), [harmony](ch-21-harmony.md), [timbre](ch-18-timbre.md), and [texture](ch-20-texture.md) are the essential aspects of a musical performance. They are often called the basic elements of music. The main purpose of music theory is to describe various pieces of music in terms of their similarities and differences in these elements, and music is usually grouped into genres based on similarities in all or most elements. It\'s useful, therefore, to be familiar with the terms commonly used to describe each element. Because harmony is the most highly developed aspect of [Western music](ch-24-classifying-music.md), music theory tends to focus almost exclusively on melody and harmony. Music does not have to have harmony, however, and some music doesn\'t even have melody. So perhaps the other three elements can be considered the most basic components of music.
-
-[]{#m11646-p0b}
 
 Music cannot happen without time. The placement of the sounds in time is the rhythm of a piece of music. Because music must be heard over a period of time, rhythm is one of the most basic elements of music. In some pieces of music, the rhythm is simply a \"placement in time\" that cannot be assigned a [beat](ch-08-time-signature.md) or [meter](ch-09-meter.md), but most rhythm terms concern more familiar types of music with a steady beat. See [Meter](ch-09-meter.md) for more on how such music is organized, and [Duration](ch-06-duration-note-lengths-in-written-music.md) and [Time Signature](ch-08-time-signature.md) for more on how to read and write rhythms. See [Simple Rhythm Activities](https://cnx.org/content/m14258) for easy ways to encourage children to explore rhythm.
 

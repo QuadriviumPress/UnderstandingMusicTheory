@@ -42,13 +42,59 @@ class Module:
     output: Path
 
 
-def preserve_inline_anchors(source: str) -> str:
-    """Add explicit spans for HTML ids that Pandoc otherwise discards."""
-    pattern = re.compile(r'<(?P<tag>p|ul|ol|li)\b(?P<attrs>[^>]*\bid="(?P<id>[^"]+)"[^>]*)>')
-    return pattern.sub(
-        lambda match: f'<span id="{match.group("id")}"></span><{match.group("tag")}{match.group("attrs")}>',
-        source,
+def attribute(tag: str, name: str) -> str | None:
+    """Return an HTML attribute value from a tag, if it has one."""
+    match = re.search(rf'\b{re.escape(name)}\s*=\s*"([^"]*)"', tag, re.IGNORECASE)
+    return html.unescape(match.group(1)) if match else None
+
+
+def convert_figures(body: str) -> str:
+    """Turn retained HTML figures into MyST-recognized images.
+
+    CNX can nest ``<figure>`` elements, while MyST's figure directive accepts
+    only one image. Convert each image independently and retain captions as
+    ordinary text; this guarantees that every asset is copied into HTML.
+    """
+    body = re.sub(
+        r"<figcaption\b[^>]*>(?P<caption>.*?)</figcaption>",
+        lambda match: f"\n\n{match.group('caption').strip()}\n\n",
+        body,
+        flags=re.IGNORECASE | re.DOTALL,
     )
+    body = re.sub(r"</?figure\b[^>]*>", "", body, flags=re.IGNORECASE)
+
+    def image_replacement(match: re.Match[str]) -> str:
+        source = attribute(match.group(0), "src")
+        if not source:
+            return match.group(0)
+        return f"![{attribute(match.group(0), 'alt') or ''}]({source})"
+
+    return re.sub(r"<img\b[^>]*>", image_replacement, body, flags=re.IGNORECASE)
+
+
+def normalize_existing_pages() -> None:
+    """Apply the current post-import normalization without requiring the EPUB.
+
+    This is useful for a checkout that contains the generated book but not the
+    large, vendored EPUB export.
+    """
+    pages = [ROOT / "front" / "introduction.md", *sorted((ROOT / "chapters").glob("*.md"))]
+    for page in pages:
+        body = page.read_text(encoding="utf-8")
+        # Existing imports put a Pandoc anchor immediately before each figure.
+        # Preserve its useful figure name before discarding all standalone
+        # anchors, which MyST otherwise prints literally.
+        body = re.sub(
+            r'^\[\]\{#([A-Za-z0-9_.:-]+)\}\n(?=<figure\b)',
+            r'<figure id="\1">',
+            body,
+            flags=re.MULTILINE,
+        )
+        body = re.sub(r'^\[\]\{#[A-Za-z0-9_.:-]+\}\n?', '', body, flags=re.MULTILINE)
+        body = convert_figures(body)
+        body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
+        page.write_text(body, encoding="utf-8")
+    print(f"Normalized {len(pages)} existing MyST pages.")
 
 
 def local_name(tag: str) -> str:
@@ -150,7 +196,7 @@ def convert() -> None:
 
             source_page = matches[0]
             prepared_page = source_page.with_name(f"prepared-{module.uuid}.xhtml")
-            prepared_page.write_text(preserve_inline_anchors(source_page.read_text(encoding="utf-8")), encoding="utf-8")
+            prepared_page.write_text(source_page.read_text(encoding="utf-8"), encoding="utf-8")
 
             result = subprocess.run(
                 [
@@ -180,19 +226,13 @@ def convert() -> None:
                     body,
                 )
 
-            # MyST does not register anchors inside retained raw-HTML figures.
-            # Keep same-page references readable as text and direct cross-page
-            # references to the relevant lesson rather than a missing fragment.
+            # Fragment-only links cannot survive reliably after the pages are
+            # separated into MyST documents. Keep their text readable and send
+            # cross-page links to the relevant lesson.
             body = re.sub(r"\[([^\]]+)\]\(#[^)]+\)", r"\1", body)
             body = re.sub(r'<a href="#[^"]+">([^<]*)</a>', r"\1", body)
             body = re.sub(r'(ch-[^\s)#"]+\.md)#[A-Za-z0-9_.:-]+', r"\1", body)
-            body = re.sub(r"\{#([A-Za-z0-9_.:-]+)", rf"{{#{module.module_id}-\1", body)
             body = re.sub(r'id="([A-Za-z0-9_.:-]+)"', rf'id="{module.module_id}-\1"', body)
-            body = re.sub(
-                rf'<figure id="({module.module_id}-[^"]+)"([^>]*)>',
-                r'[]{#\1}\n<figure\2>',
-                body,
-            )
             body = body.replace("(resources/", "(../images/cnx/")
             body = body.replace('src="resources/', 'src="../images/cnx/')
             body = body.replace('href="resources/', 'href="../images/cnx/')
@@ -207,6 +247,7 @@ def convert() -> None:
             )
             body = re.sub(r"\[([^\]]+)\]\(#[^)]+\)", r"\1", body)
             body = re.sub(r"\[([^\]]+)\]\(\)", r"\1", body)
+            body = convert_figures(body)
             body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
 
             module.output.parent.mkdir(parents=True, exist_ok=True)
@@ -235,4 +276,7 @@ def convert() -> None:
 
 
 if __name__ == "__main__":
-    convert()
+    if "--normalize-existing" in __import__("sys").argv[1:]:
+        normalize_existing_pages()
+    else:
+        convert()

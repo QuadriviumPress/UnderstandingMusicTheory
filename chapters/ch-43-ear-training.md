@@ -13,19 +13,11 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 ::: {#m12401-s0 .section}
 ## What is Ear Training?
 
-[]{#m12401-p0b}
-
 When musicians talk about *ear*, they don\'t mean the sense organ itself so much as the brain\'s ability to perceive, distinguish, and understand what the ear has heard. The term *ear training* refers to teaching musicians to recognize information about [notes](ch-06-duration-note-lengths-in-written-music.md) and [chords](ch-21-harmony.md) just by hearing them.
-
-[]{#m12401-p0aa}
 
 A few people have what is called *perfect pitch* or *absolute pitch*. These people, when they hear music, can tell you exactly what they are hearing: the G above [middle C](ch-28-octaves-and-the-major-minor-tonal-system.md), for example, or the [first inversion](ch-36-triads.md) of an F [minor chord](ch-37-naming-triads.md). A few musicians with particularly perceptive ears can even tell you that a piano is tuned a few [cents](ch-44-tuning-systems.md) higher than the one that they play at home. This is an unusual skill that even most trained musicians do not have, and research seems to suggest that if you don\'t have it at a very early age, you cannot develop it. (For more on this subject, you may want to look up Robert Jourdain\'s Music, the Brain, and Ecstasy: How Music Captures our Imagination.)
 
-[]{#m12401-p0c}
-
 However, most musicians can be trained to recognize *relative pitch*. In other words, if you play two notes, they can tell you that one of them is a [major third](ch-32-interval.md) higher than the other. If you play four [chords](ch-21-harmony.md) in a row, they can tell you that you played a tonic-subdominant-dominant seventh-tonic (I-IV-V7-I) [chord progression](ch-21-harmony.md).
-
-[]{#m12401-p0f}
 
 Fortunately, having relative pitch is good enough, and for many musicians may even be more useful than perfect pitch, because of the way [Western](ch-24-classifying-music.md) music is conceived. Since all [major keys](ch-30-major-keys-and-scales.md) are so similar, a piece in a major key will sound almost exactly the same whether you play it in C major or D major. The thing that matters is not what note you start on, but how all the notes are related to each other and to the \"home\" note (the [tonic](ch-30-major-keys-and-scales.md)) of the key. If someone really wants the piece to be in a different key (because it\'s easier to sing or play in that key, or just because they want it to sound higher or lower), the whole thing can be [transposed](ch-46-transposition-changing-keys.md), but the only difference that would make (in the sound) is that the entire piece will sound higher or lower. Most listeners would not even notice the difference, unless you played it in both keys, one right after the other.
 
@@ -35,11 +27,7 @@ Fortunately, having relative pitch is good enough, and for many musicians may ev
 All [minor keys](ch-31-minor-keys-and-scales.md) are also heard by most listeners as interchangeable, but there are important differences between major keys and minor keys. In fact, the differences in sound between a major key and a minor key is one of the first differences that a musician should be able to hear. If you would like to see whether your \"ear\" can recognize the difference between major and minor keys, please try the [listening exercise](ch-30-major-keys-and-scales.md) in [Major Keys and Scales](ch-30-major-keys-and-scales.md).
 :::
 
-[]{#m12401-p0d}
-
 So, you often don\'t need to know exactly what notes or chords are being played. Simply having an ear well-trained in \"relative pitch\" is extremely useful in many ways. Guitar and piano players can figure out [chord progressions](ch-21-harmony.md) just by listening to them, and then play the progressions in their favorite keys. Other instrumentalists can play a favorite tune without a written copy of it, just by knowing what the interval to the next note must be. Composers and music arrangers can jot down a piece of music without having to \"pick it out\" on an instrument to find the notes and chords they want. And of course, ear training is crucial to any musician who wants to play jazz or any type of improvisation. Given a well-trained \"ear\", any musical idea that you \"hear\" in your head, you can play. And ear training is also crucial for those interested in music theory, musicology, or just being able to write down a tune accurately.
-
-[]{#m12401-p0e}
 
 As with all other musical skills, there are many different levels and kinds of proficiency. One musician may be very good at \"playing by ear\", but may not even read music and cannot name [intervals](ch-32-interval.md) or write the music down. Another may be very good at \"taking dictation\" (writing down the music they hear), and yet feel unable to do jazz improvisation. As always, the key is to practice the particular skills that you want to develop.
 :::
@@ -49,8 +37,6 @@ As with all other musical skills, there are many different levels and kinds of p
 
 ::: {#m12401-s11 .section}
 ### Tuning
-
-[]{#m12401-p11a}
 
 This is the most basic ear training skill, crucial to being able to play music that people will want to hear.
 
@@ -65,8 +51,6 @@ This is the most basic ear training skill, crucial to being able to play music t
 ::: {#m12401-s12 .section}
 ### Playing Chords By Ear
 
-[]{#m12401-p12a}
-
 For instruments that play chordal accompaniments, this is an incredibly useful skill.
 
 ::: {#m12401-l12a}
@@ -80,8 +64,6 @@ For instruments that play chordal accompaniments, this is an incredibly useful s
 ::: {#m12401-s13 .section}
 ### Playing Tunes by Ear
 
-[]{#m12401-p13a}
-
 This is fun to be able to do, makes it easy to increase your repertoire, and is an important step in being able to improvise.
 
 ::: {#m12401-l13a}
@@ -94,8 +76,6 @@ This is fun to be able to do, makes it easy to increase your repertoire, and is 
 
 ::: {#m12401-s14 .section}
 ### Improvisation
-
-[]{#m12401-p14a}
 
 This is **the** skill you need for jazz. Blues, rock, and many [Non-Western](ch-24-classifying-music.md) traditions also use improvisation.
 
@@ -111,8 +91,6 @@ This is **the** skill you need for jazz. Blues, rock, and many [Non-Western](ch-
 
 ::: {#m12401-s15 .section}
 ### Recognizing Intervals and Writing Music Down
-
-[]{#m12401-p15a}
 
 This is the skill that allowed Beethoven to continue composing masterpieces even after he became deaf. If you are interested in composing, arranging, music theory, musicology, or just being able to write down a tune quickly and accurately, you\'ll want to be able to make that quick connection between what you hear and written music.
 

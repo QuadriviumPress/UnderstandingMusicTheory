@@ -46,11 +46,6 @@ end
 function Span(span)
   if span.attributes['media-type'] == 'application/postscript' then return {} end
   if span.attributes['data-type'] == 'term' then return pandoc.Emph(span.content) end
-  if span.identifier ~= '' and #span.content == 0 then
-    span.attributes = {}
-    span.classes = {}
-    return span
-  end
   return span.content
 end
 

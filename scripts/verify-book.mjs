@@ -40,6 +40,8 @@ for (const file of importedPages) {
     errors.push(`Unconverted EPUB link remains in ${file}`);
   }
   if (/\[missing_resource:/.test(content)) errors.push(`Unresolved CNX media placeholder remains in ${file}`);
+  if (/^\[\]\{#[^}]+\}$/m.test(content)) errors.push(`Visible empty anchor remains in ${file}`);
+  if (/<img\b/i.test(content)) errors.push(`Raw HTML image remains in ${file}`);
 }
 
 for (const file of [...pages, 'README.md', 'SOURCES.md']) {

@@ -10,11 +10,7 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *An introduction to one of the basic elements of music.*
 
-[]{#m11654-p0a}
-
 When you have more than one [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md) sounding at the same time in music, the result is *harmony*. Harmony is one of the basic elements of music, but it is not as basic as some other elements, such as [rhythm](ch-17-rhythm.md) and [melody](ch-19-melody.md). You can have music that is just rhythms, with no pitches at all. You can also have music that is just a single melody, or just a melody with rhythm accompaniment.
-
-[]{#m11654-p0c}
 
 But as soon as there is more than one pitch sounding at a time, you have harmony. Even if nobody is actually playing chords, or even if the notes are part of independent [contrapuntal](ch-22-counterpoint.md) lines, you can hear the relationship of any notes that happen at the same time, and it is this relationship that makes the harmony.
 
@@ -23,8 +19,6 @@ But as soon as there is more than one pitch sounding at a time, you have harmony
 
 Harmony does not have to be particularly \"harmonious\"; it may be quite [dissonant](ch-38-consonance-and-dissonance.md), in fact. For the purpose of definitions, the important fact is the notes sounding at the same time.
 :::
-
-[]{#m11654-p0e}
 
 Harmony is the most emphasized and most highly developed element in [Western music](ch-24-classifying-music.md), and can be the subject of an entire course on music theory. Many of the concepts underlying Western harmony are explained in greater detail elsewhere (see [Triads](ch-36-triads.md) and [Beginning Harmonic Analysis](ch-40-beginning-harmonic-analysis.md), for example), but here are some basic terms and short definitions that you may find useful in discussions of harmony:
 
@@ -57,7 +51,5 @@ Harmony is the most emphasized and most highly developed element in [Western mus
 - *inner parts* or *inner voices* - Accompaniment parts that fill in the music in between the melody (which is often the highest part) and the bass line.
 - *descant* - The melody is not always the highest line in the music. Attention is naturally drawn to high notes, so a part that is higher than the melody is sometimes given a special name such as \"descant\". This term is an old one going all the way back to when harmonies first began to be added to medieval chant. (See [Counterpoint](ch-22-counterpoint.md) for more about descants.)
 :::
-
-[]{#m11654-p0d}
 
 Suggestions for activities that introduce young students to harmony may be found in [Harmony with Drones](https://cnx.org/content/m11844), [Simple Chordal Harmony](https://cnx.org/content/m11875), [Parallel Harmonies](https://cnx.org/content/m11878), and [Independent Harmonies](https://cnx.org/content/m11874).

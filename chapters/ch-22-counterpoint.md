@@ -13,35 +13,21 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 ::: {#m11634-s0 .section}
 ## Introduction
 
-[]{#m11634-p0a}
-
 Counterpoint is an important element of music, but it is not one of the basic elements. Many pieces of music have [rhythm](ch-17-rhythm.md), [melody](ch-19-melody.md), [harmony](ch-21-harmony.md), [color](ch-18-timbre.md), and [texture](ch-20-texture.md), but no real counterpoint. In fact, when describing the texture of a piece of music, two of the most important questions that need to be addressed are: is there counterpoint, and how important is it?
-
-[]{#m11634-p0b}
 
 When there is **more than one independent melodic line happening at the same time** in a piece of music, we say that the music is *contrapuntal*. The independent melodic lines are called *counterpoint*. The music that is made up of counterpoint can also be called *polyphony*, or one can say that the music is *polyphonic* or speak of the *polyphonic texture* of the music. Traditionally, vocal music is more likely to be described as *polyphony* and instrumental music is more likely to be described as *counterpoint*. But all of these terms refer to two or more independent, simultaneous melodies. \"Simultaneous\" means the melodies are happening at the same time. \"Independent\" means that at any given moment what is happening in one melody (both in the [rhythms](ch-17-rhythm.md) and in the [pitches](ch-03-pitch-sharp-flat-and-natural-notes.md)) is probably not the same thing that is happening in the other melody.
 
-[]{#m11634-p0c}
-
 First, some examples of music that is **not** counterpoint. Obviously, there is no counterpoint if there is no melody at all. If there is one melodic line accompanied only by rhythm, or drones, or only by chords, there is no counterpoint.
-
-[]{#m11634-p0d}
 
 Even if different people are singing or playing different parts, it is not necessarily considered counterpoint if the parts are not independent enough, or if one of the parts is very clearly a dominating melody. Many traditional choral pieces are a good example of this. There are four very different singing parts (soprano, alto, tenor, and bass), and each part, sung alone, can seem like its own melody, a melody that does not sound at all like the melody of the piece. But the parts have basically the same rhythms, so that the effect, when sung together, is of chords being sung. \"Barbershop\"-style music is another good example of this [homophonic](ch-20-texture.md), or chordal, kind of texture, which is not considered counterpoint.
 
-[]{#m11634-p0e}
-
 Now for some familiar examples of counterpoint. One of the simplest and most familiar types of counterpoint is the round. In a *round*, everyone sings the same melody, but they start singing it at different times. Although everyone is singing exactly the same tune, at any particular time different people will be singing different parts of it, so the final effect is of independent parts. You may also have heard some Bach fugues or inventions; there are no better examples of counterpoint than these. Another example that may be familiar is the soloist in a pop or gospel song who, after the refrain has been repeated a few times, takes off on a countermelody or descant part while everyone else continues to sing the refrain. The melody instruments in a dixieland band are also generally playing independent parts, giving this genre its \"busy\" sound. In fact, when music sounds very \"busy\" or \"complex\" or when there is so much going on that it gets difficult to decide where the melody is or what part to sing along with, it is likely that you are hearing counterpoint.
-
-[]{#m11634-p0f}
 
 Although there is plenty of music that has no counterpoint, independent parts are one of the most basic ways to make music sound rich and interesting. Even if a piece of music cannot really be called \"counterpoint\" or \"polyphony\", because it clearly has one melody, the [accompaniment](ch-21-harmony.md) lines may still be quite contrapuntal. Even music that most people would describe as [homophonic](ch-20-texture.md) or [chordal](ch-21-harmony.md), because all the lines have exactly the same rhythm, is often written following the voice-leading rules of counterpoint. This gives the music a much richer, more interesting [texture](ch-20-texture.md). Next time you are listening to your favorite song or your favorite piece of music, don\'t hum along with the melody. Instead, listen to the bass line. Listen to the [harmonies](ch-21-harmony.md), the [inner voices](ch-21-harmony.md) and the instrumental accompaniment parts. Chances are that you will hear some interesting lines, even little pieces of melody, that are completely different from the part you normally hear.
 :::
 
 ::: {#m11634-s2 .section}
 ## Some Useful Terms
-
-[]{#m11634-l2a}
 
 - **Canon** - In a canon, different voices (or instruments) sing (or play) the same melody, with no changes, but at different times. The melody is usually sung at the same pitch or an [octave](ch-28-octaves-and-the-major-minor-tonal-system.md) higher or lower, but there are also canons in which the second part sings or plays the melody a [perfect fourth or fifth](ch-32-interval.md) higher or lower than the first part.
 - **Round** - In a canon, obviously every section of the canon must \"fit\" with the section that comes after it. (In other words, they must sound good when sung or played at the same time). A round is a special type of canon in which the last section also fits with the first section, so that the canon can be repeated over and over without stopping. Rounds are usually pretty short and always start at the same note, or the octave.
