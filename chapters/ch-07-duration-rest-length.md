@@ -20,17 +20,17 @@ A *rest* stands for a silence in music. For each kind of [note](ch-06-duration-n
 > >
 > > For each note on the first line, write a rest of the same length on the second line. The first [measure](ch-08-time-signature.md) is done for you.
 > >
-> > ![Music notation example](../images/cnx/516221c98846357d9645c78d9c218df3ad872ef8.png)
+> > ![A two-staff exercise asking for rests matching the note durations on the upper staff.](../images/notation/rest-duration-practice.svg)
 > >
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/d7543f40076f23c7dd430a0b2d4c88e279a6d708.png)
+> > ![Completed two-staff exercise pairing each written note duration with an equivalent rest.](../images/notation/rest-duration-practice-solutions.svg)
 > >
 
 Rests don\'t necessarily mean that there is silence in the music at that point; only that that part is silent. Often, on a [staff](ch-01-the-staff.md) with multiple parts, a rest must be used as a placeholder for one of the parts, even if a single person is playing both parts. When the rhythms are complex, this is necessary to make the rhythm in each part clear.
 
-![Music notation example](../images/cnx/983c61f990d02147ab4473508cb516532e871057.png)
+![Two examples using rests to clarify simultaneous upper and lower rhythms on a single staff.](../images/notation/simultaneous-rhythms-with-rests.svg)
 
 When multiple simultaneous rhythms are written on the same staff, rests may be used to clarify individual rhythms, even if another rhythm contains notes at that point.
 

@@ -58,7 +58,7 @@ This time signature means that there are three quarter notes (or any combination
 
 Most time signatures contain two numbers. The top number tells you how many beats there are in a measure. The bottom number tells you what kind of note gets a beat.
 
-![Music notation example](../images/cnx/1c02351a802600540e0111b6209222fb77641a53.png)
+![A four-four staff showing four quarters, two halves, one whole, and two quarters plus four eighths as equal measures.](../images/notation/four-four-measure-equivalents.svg)
 
 In "four four" time, there are four beats in a measure and a quarter note gets a beat. In order to keep the meter going steadily, every measure must have a combination of notes and rests that is equivalent to four quarter notes.
 
@@ -68,7 +68,7 @@ You may have noticed that the time signature looks a little like a fraction in a
 >
 > If the time signature is three eight, any combination of notes that adds up to three eighths will fill a measure. Remember that a [dot](ch-11-dots-ties-and-borrowed-divisions.md) is worth an extra half of the note it follows. [Listen](../images/cnx/6a05eaba6ecc38fff408bcc960038e4c70d21cb0.midi) to the rhythms in the referenced item.
 >
-> ![Music notation example](../images/cnx/946da6e7a6efd927bc8b1a37b8b0c03a26d94b6d.png)
+> ![Five different rhythmic combinations that each fill one measure of three-eight time.](../images/notation/three-eight-measure-combinations.svg)
 >
 > If the time signature is three eight, a measure may be filled with any combination of notes and rests that adds up to three eight.
 >
@@ -87,7 +87,7 @@ You may have noticed that the time signature looks a little like a fraction in a
 > >
 > > There are an enormous number of possible note combinations for any time signature. That\'s one of the things that makes music interesting. Here are some possibilities. If you are not sure that yours are correct, check with your music instructor.
 > >
-> > ![Music notation example](../images/cnx/08d3f79041cd4535ab484cde32f313555b39adcd.png)
+> > ![Example completed measures in two-four, three-eight, and six-four time signatures.](../images/notation/time-signature-practice-solutions.svg)
 > >
 > > These are only a few of the many, many possible note combinations that could be used in these time signatures.
 > >

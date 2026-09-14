@@ -30,7 +30,7 @@ So if you are wondering how to play slurs on your guitar or staccato on your cla
 
 *Legato* is the opposite of staccato. The notes are very connected; there is no space between the notes at all. There is, however, still some sort of articulation that causes a slight but definite break between the notes (for example, the violin player\'s bow changes direction, the guitar player plucks the string again, or the wind player uses the tongue to interrupt the stream of air).
 
-![Music notation example](../images/cnx/146dfa0726ec0516d4e0257c74b5778ccba89008.png)
+![A three-four melody contrasting separated notes with a smoothly connected legato phrase.](../images/notation/legato-example.svg)
 
 *Accents* - An [accent](ch-15-dynamics-and-accents.md) requires that a note stand out more than the unaccented notes around it. Accents are usually performed by making the accented note, or the beginning of the accented note, louder than the rest of the music. Although this is mostly a quick change in [dynamics](ch-15-dynamics-and-accents.md), it usually affects the articulation of the note, too. The extra loudness of the note often requires a stronger, more definite attack at the beginning of the accented note, and it is emphasized by putting some space before and after the accented notes. The effect of a lot of accented notes in a row may sound marcato.
 

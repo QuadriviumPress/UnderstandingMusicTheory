@@ -32,7 +32,7 @@ If you do not know the name of the key of a piece of music, the key signature ca
 >
 > the referenced item demonstrates quick ways to name the (major) key simply by looking at the key signature. In flat keys, the second-to-last flat names the key. In sharp keys, the note that names the key is one half step above the final sharp.
 >
-> ![Music notation example](../images/cnx/20d859609bbee3a5785ae335555a3c2f7054744b.png)
+> ![Treble and bass examples explaining how the final sharp or second-to-last flat identifies a major key.](../images/notation/key-signature-naming-rules.svg)
 >
 
 The only major keys that these rules do not work for are C major (no flats or sharps) and F major (one flat). It is easiest just to memorize the key signatures for these two very common keys. If you want a rule that also works for the key of F major, remember that the second-to-last flat is always a [perfect fourth](ch-32-interval.md) higher than (or a perfect fifth lower than) the final flat. So you can also say that the name of the key signature is a perfect fourth lower than the name of the final flat.
@@ -49,10 +49,10 @@ If the music is in a minor key, it will be in the [relative minor](ch-31-minor-k
 > >
 > > Write the key signatures asked for in the referenced item and name the major keys that they represent.
 > >
-> > ![Music notation example](../images/cnx/d64908821c909af8dd493167ab6281e4ae6aa542.png)
+> > ![Blank treble-clef measures labelled for writing three, four, and five flats and five and seven sharps.](../images/notation/key-signature-writing-practice.svg)
 > >
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/67b0b986ffc1cbcda11f6d128a847ab6c2455b65.png)
+> > ![Treble-clef key signatures for E-flat major, E major, D-flat major, B major, and C-sharp major.](../images/notation/five-key-signatures.svg)
 > >

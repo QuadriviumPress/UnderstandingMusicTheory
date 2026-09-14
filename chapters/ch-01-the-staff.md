@@ -32,6 +32,6 @@ The staff is read from left to right. Staffs (some musicians prefer the plural *
 
 ![A vocal staff and two braced piano staves that share bar lines.](../images/notation/piano-system.svg)
 
-![Music notation example](../images/cnx/579422782a5ef1c8596ec806f11e71503cd314d1.png)
+![An orchestral score with labelled woodwind, brass, percussion, and string staves aligned in a system.](../images/notation/orchestral-score-layout.svg)
 
 When many staves are to be played at the same time, as in this orchestral score, the lines for similar instruments - all the violins, for example, or all the strings - may be marked with braces or brackets.

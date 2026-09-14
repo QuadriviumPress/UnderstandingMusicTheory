@@ -36,7 +36,7 @@ The notes in different octaves are so closely related that when musicians talk a
 
 But there are also two formal systems for naming the notes in a particular octave. Many musicians use *Helmholtz* notation. Others prefer *scientific pitch notation*, which simply labels the octaves with numbers, starting with C1 for the lowest C on a full-sized keyboard. Figure 3 shows the names of the octaves most commonly used in music.
 
-![Music notation example](../images/cnx/7dc996aef1a319a54ddbb2ad45e04dfb293c039e.png)
+![Six octaves of C labelled with common, Helmholtz, and scientific octave names.](../images/notation/octave-naming-systems.svg)
 
 The octaves are named from one C to the next higher C. For example, all the notes in between "one line c" and "two line c" are "one line" notes.
 

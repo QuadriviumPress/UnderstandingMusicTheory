@@ -80,6 +80,7 @@ function render(definition) {
     renderer.resize(definition.width, definition.height);
     const context = renderer.getContext();
     const svg = host.querySelector('svg');
+    svg.setAttribute('xmlns', namespace);
     svg.setAttribute('viewBox', `0 0 ${definition.width} ${definition.height}`);
     svg.setAttribute('role', 'img');
     svg.setAttribute('aria-labelledby', `${definition.id}-title ${definition.id}-description`);

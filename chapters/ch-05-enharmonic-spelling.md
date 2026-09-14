@@ -20,7 +20,7 @@ Why do we bother with these symbols? There are twelve pitches available within a
 
 This is basically what common notation does. There are only seven note names (A, B, C, D, E, F, G), and each line or space on a [staff](ch-01-the-staff.md) will correspond with one of those note names. To get all twelve pitches using only the seven note names, we allow any of these notes to be sharp, flat, or natural. Look at the notes on a keyboard.
 
-![Music notation example](../images/cnx/74beea27ad30018569811de3fdca3702b5f1328a.png)
+![A piano octave labelling white keys with natural notes and black keys with both sharp and flat names.](../images/notation/piano-sharp-flat-note-names.svg)
 
 Seven of the twelve possible notes in each <a href="ch-28-octaves-and-the-major-minor-tonal-system.md">octave</a> are "natural" notes.
 
@@ -45,14 +45,14 @@ This is an example of *enharmonic spelling*. Two notes are *enharmonic* if they 
 > > - G sharp and A flat
 > > - A sharp and B flat
 > >
-> > ![Music notation example](../images/cnx/fc80686dbb2a3da98305b51c5fbe0be7fe0df65f.png)
+> > ![Four pairs of enharmonic notes: C-sharp and D-flat, F-sharp and G-flat, G-sharp and A-flat, and A-sharp and B-flat.](../images/notation/enharmonic-note-solutions.svg)
 > >
 
 But these are not the only possible enharmonic notes. Any note can be flat or sharp, so you can have, for example, an E sharp. Looking at the keyboard and remembering that the definition of sharp is \"one half step higher than natural\", you can see that an E sharp must sound the same as an F natural. Why would you choose to call the note E sharp instead of F natural? Even though they sound the same, E sharp and F natural, as they are actually used in music, are different notes. (They may, in some circumstances, also sound different; see below.) Not only will they look different when written on a staff, but they will have different functions within a key and different relationships with the other notes of a piece of music. So a composer may very well prefer to write an E sharp, because that makes the note\'s place in the harmonies of a piece more clear to the performer. (Please see [Triads](ch-36-triads.md), [Beyond Triads](ch-39-beyond-triads-naming-other-chords.md), and [Harmonic Analysis](ch-40-beginning-harmonic-analysis.md) for more on how individual notes fit into chords and harmonic progressions.)
 
 In fact, this need (to make each note\'s place in the harmony very clear) is so important that double sharps and double flats have been invented to help do it. A double sharp is two half steps (one [whole step](ch-29-half-steps-and-whole-steps.md)) higher than the natural note. A double flat is two half steps lower than the natural note. Double sharps and flats are fairly rare, and triple and quadruple flats even rarer, but all are allowed.
 
-![Music notation example](../images/cnx/474e94deea43979f36c549e417e20be46265bcff.png)
+![F-double-sharp and F-double-flat shown with their accidental symbols on a treble staff.](../images/notation/double-sharp-and-double-flat.svg)
 
 > **Practice**
 >
@@ -78,7 +78,7 @@ In fact, this need (to make each note\'s place in the harmony very clear) is so 
 
 Keys and scales can also be enharmonic. Major keys, for example, always follow the same pattern of half steps and whole steps. (See [Major Keys and Scales](ch-30-major-keys-and-scales.md). Minor keys also all follow the same pattern, different from the major scale pattern; see [Minor Keys](ch-31-minor-keys-and-scales.md).) So whether you start a major scale on an E flat, or start it on a D sharp, you will be following the same pattern, playing the same piano keys as you go up the scale. But the notes of the two scales will have different names, the scales will look very different when written, and musicians may think of them as being different. For example, most instrumentalists would find it easier to play in E flat than in D sharp. In some cases, an E flat major scale may even sound slightly different from a D sharp major scale. (See below.)
 
-![Music notation example](../images/cnx/78771163de17e6e1143aee5b2ceac299a8b11e63.png)
+![E-flat-major and D-sharp-major scales written with different spellings but sounding the same on a piano.](../images/notation/enharmonic-major-scales.svg)
 
 The E flat major and D sharp major scales sound the same on the piano, although they look very different. If this surprises you, look again at the piano keyboard and find the notes that you would play for each scale.
 
@@ -94,21 +94,21 @@ The key signatures for E flat and D sharp look very different, but would sound t
 > >
 > > Give an enharmonic name and key signature for the keys given in the referenced item. (If you are not well-versed in [key signatures](ch-04-key-signature.md) yet, pick the easiest enharmonic spelling for the key name, and the easiest enharmonic spelling for every note in the key signature. Writing out the scales may help, too.)
 > >
-> > ![Music notation example](../images/cnx/2d5aa7cd858822a99a24ca70fa009235bc626daa.png)
+> > ![B-major and B-flat-minor key signatures beside blank staves for writing their enharmonic equivalents.](../images/notation/enharmonic-key-signature-practice.svg)
 > >
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/1a40746eda2587a243368245b5d05212ff77bb72.png)
+> > ![Key signatures for B major and its enharmonic C-flat major, and B-flat minor and its enharmonic A-sharp minor.](../images/notation/enharmonic-key-signature-solutions.svg)
 > >
 
 ## Enharmonic Intervals and Chords
 
-![Music notation example](../images/cnx/41cd0fba81c5164971645814179ff8ee1586a587.png)
+![A major third compared with a diminished fourth, and a minor second compared with an augmented prime.](../images/notation/enharmonic-interval-pairs.svg)
 
 [Chords](ch-21-harmony.md) and [intervals](ch-32-interval.md) also can have enharmonic spellings. Again, it is important to name a chord or interval as it has been spelled, in order to understand how it fits into the rest of the music. A C sharp major chord means something different in the key of D than a D flat major chord does. And an interval of a diminished fourth means something different than an interval of a major third, even though they would be played using the same keys on a piano. (For practice naming intervals, see [Interval](ch-32-interval.md). For practice naming chords, see [Naming Triads](ch-37-naming-triads.md) and [Beyond Triads](ch-39-beyond-triads-naming-other-chords.md). For an introduction to how chords function in a harmony, see [Beginning Harmonic Analysis](ch-40-beginning-harmonic-analysis.md).)
 
-![Music notation example](../images/cnx/b5c853589275412d74aa8b6c3cbedd069a6294b3.png)
+![Enharmonic intervals and chords written with different note spellings on treble and bass staves.](../images/notation/enharmonic-chords-and-intervals.svg)
 
 ## Enharmonic Spellings and Equal Temperament
 

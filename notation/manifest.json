@@ -20,7 +20,9 @@
       "status": "unclassified"
     },
     "02b3dcafe15c45a0dd5bc1c2261ba0498de65c9f.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "fractional-note-values",
+      "output": "images/notation/fractional-note-values.svg"
     },
     "02df34c31ca1f7c64cc2059d3a8fcfc91afed439.png": {
       "status": "unclassified"
@@ -44,7 +46,9 @@
       "status": "unclassified"
     },
     "08d3f79041cd4535ab484cde32f313555b39adcd.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "time-signature-practice-solutions",
+      "output": "images/notation/time-signature-practice-solutions.svg"
     },
     "09cc6019fdbc5e06c0d4ab70c6ce8e3af6fc10ce.png": {
       "status": "unclassified"
@@ -94,7 +98,9 @@
       "status": "unclassified"
     },
     "146dfa0726ec0516d4e0257c74b5778ccba89008.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "legato-example",
+      "output": "images/notation/legato-example.svg"
     },
     "167319e65873b522367d26f5d108463bb0156321.png": {
       "status": "unclassified"
@@ -103,10 +109,14 @@
       "status": "unclassified"
     },
     "17e780a24ae09def5583b27898930f3dd936bfa3.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "clef-note-name-practice",
+      "output": "images/notation/clef-note-name-practice.svg"
     },
     "1a40746eda2587a243368245b5d05212ff77bb72.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "enharmonic-key-signature-solutions",
+      "output": "images/notation/enharmonic-key-signature-solutions.svg"
     },
     "1bc5f6dbecf2982d0827b34a0a80bb2de1c8d0ee.png": {
       "status": "unclassified"
@@ -115,13 +125,19 @@
       "status": "unclassified"
     },
     "1c02351a802600540e0111b6209222fb77641a53.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "four-four-measure-equivalents",
+      "output": "images/notation/four-four-measure-equivalents.svg"
     },
     "1c0318c0e18cbf5f0a591a3d5d6fceb2bf48a3ac.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "note-anatomy",
+      "output": "images/notation/note-anatomy.svg"
     },
     "1cb4dee12c597c2cdb3d2c11db504a01d045ac37.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "enharmonic-black-key-example",
+      "output": "images/notation/enharmonic-black-key-example.svg"
     },
     "1cc77561ab4c42099909c1c9c119c5258b945cb3.png": {
       "status": "unclassified"
@@ -130,7 +146,9 @@
       "status": "unclassified"
     },
     "1da6a0c9f0312bd0155dbc94725a1e8649cc66d5.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "tempo-changes-actual-duration",
+      "output": "images/notation/tempo-changes-actual-duration.svg"
     },
     "1e680bce00d5343675596e1b60c05b74baee38fe.png": {
       "status": "vexflow-overlay",
@@ -138,16 +156,22 @@
       "output": "images/notation/order-of-accidentals.svg"
     },
     "1f026bcc116aef253d1c52649ca5cfcf53b691e2.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "note-duration-practice",
+      "output": "images/notation/note-duration-practice.svg"
     },
     "20477f21bfabd1ca700d9d8d578fbbeb218fc823.png": {
       "status": "unclassified"
     },
     "20d859609bbee3a5785ae335555a3c2f7054744b.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "key-signature-naming-rules",
+      "output": "images/notation/key-signature-naming-rules.svg"
     },
     "2277ff861fd1e5c40c62d2f7350ff845bd5c59c7.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "headless-and-slash-notes",
+      "output": "images/notation/headless-and-slash-notes.svg"
     },
     "22b5ae512ec83d6deb1ceb4ddee6e040e09b7d52.png": {
       "status": "vexflow-overlay",
@@ -161,7 +185,9 @@
       "status": "unclassified"
     },
     "25011ac162a03037c0aaa44f2843334c4564072e.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "ledger-note-practice-answers",
+      "output": "images/notation/ledger-note-practice-answers.svg"
     },
     "25354c60c6686014216c73df293a583d4275aca5.png": {
       "status": "vexflow-overlay",
@@ -192,7 +218,9 @@
       "status": "unclassified"
     },
     "2d5aa7cd858822a99a24ca70fa009235bc626daa.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "enharmonic-key-signature-practice",
+      "output": "images/notation/enharmonic-key-signature-practice.svg"
     },
     "2f9271d0daa8bc0f5e23bb4724651674a7814787.png": {
       "status": "vexflow-overlay",
@@ -200,7 +228,9 @@
       "output": "images/notation/time-signature-anatomy.svg"
     },
     "3087ad9e3af32de3f3c0f6278eca1ce3558cff12.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "clef-note-name-answers",
+      "output": "images/notation/clef-note-name-answers.svg"
     },
     "315403d0f8e3593e35187bcadfa48bfc2cb9e10d.png": {
       "status": "unclassified"
@@ -244,7 +274,9 @@
       "status": "unclassified"
     },
     "41cd0fba81c5164971645814179ff8ee1586a587.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "enharmonic-interval-pairs",
+      "output": "images/notation/enharmonic-interval-pairs.svg"
     },
     "4216daa4328f8456a887e88bd49184ab8697d084.png": {
       "status": "vexflow-overlay",
@@ -252,13 +284,17 @@
       "output": "images/notation/b-flat-in-every-octave.svg"
     },
     "45208895ad6be8fb4640e26efd4788b7b8e78f9a.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "half-and-whole-steps-keyboard",
+      "output": "images/notation/half-and-whole-steps-keyboard.svg"
     },
     "46a2c2b0748bc340628e21f5b422f86e16c9fd7e.png": {
       "status": "unclassified"
     },
     "474e94deea43979f36c549e417e20be46265bcff.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "double-sharp-and-double-flat",
+      "output": "images/notation/double-sharp-and-double-flat.svg"
     },
     "475b22aebf81fa1ea80faef5e6f79f78d2ffa09d.png": {
       "status": "vexflow-overlay",
@@ -292,10 +328,14 @@
       "status": "unclassified"
     },
     "4db15424aa05d5a4b5a3841d69ffeffbbc34f162.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "augmented-and-diminished-intervals",
+      "output": "images/notation/augmented-and-diminished-intervals.svg"
     },
     "516221c98846357d9645c78d9c218df3ad872ef8.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "rest-duration-practice",
+      "output": "images/notation/rest-duration-practice.svg"
     },
     "532b2abab3e3cfbc1e5bf701125da62a8aecc991.png": {
       "status": "unclassified"
@@ -310,7 +350,9 @@
       "status": "unclassified"
     },
     "579422782a5ef1c8596ec806f11e71503cd314d1.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "orchestral-score-layout",
+      "output": "images/notation/orchestral-score-layout.svg"
     },
     "57c3afee0d3d8890000a64ea020ceeb925b9cb44.png": {
       "status": "unclassified"
@@ -388,7 +430,9 @@
       "status": "unclassified"
     },
     "67b0b986ffc1cbcda11f6d128a847ab6c2455b65.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "five-key-signatures",
+      "output": "images/notation/five-key-signatures.svg"
     },
     "67efd497927b2a2a0fb20a89f8078e2d7465faf9.png": {
       "status": "unclassified"
@@ -397,7 +441,9 @@
       "status": "unclassified"
     },
     "6a559902470af8de8f7a3e2b8ad222cecdcc9fa7.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "movable-g-and-f-clefs",
+      "output": "images/notation/movable-g-and-f-clefs.svg"
     },
     "6a71fe8ef244b0a4385573aff0451eaadabb8201.png": {
       "status": "unclassified"
@@ -412,7 +458,9 @@
       "status": "unclassified"
     },
     "6e59466f91e61d128e62b1b0d8447df01788fb69.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "clef-practice-worksheet",
+      "output": "images/notation/clef-practice-worksheet.svg"
     },
     "6e98c07a7efbb518d9a08be043a9311988da9a98.png": {
       "status": "unclassified"
@@ -445,7 +493,9 @@
       "status": "unclassified"
     },
     "74beea27ad30018569811de3fdca3702b5f1328a.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "piano-sharp-flat-note-names",
+      "output": "images/notation/piano-sharp-flat-note-names.svg"
     },
     "7515c11c14f5445d12afa8dedd9817f2cdbdd5ca.png": {
       "status": "unclassified"
@@ -460,7 +510,9 @@
       "status": "unclassified"
     },
     "78771163de17e6e1143aee5b2ceac299a8b11e63.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "enharmonic-major-scales",
+      "output": "images/notation/enharmonic-major-scales.svg"
     },
     "78e448e0e53633bbab129e0a9338f671f7aeaf2a.png": {
       "status": "vexflow-overlay",
@@ -484,7 +536,9 @@
       "status": "unclassified"
     },
     "7dc996aef1a319a54ddbb2ad45e04dfb293c039e.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "octave-naming-systems",
+      "output": "images/notation/octave-naming-systems.svg"
     },
     "7e50de433d0a7c1b59dacfe13036ded4a3f0adf8.png": {
       "status": "unclassified"
@@ -562,7 +616,9 @@
       "status": "unclassified"
     },
     "946da6e7a6efd927bc8b1a37b8b0c03a26d94b6d.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "three-eight-measure-combinations",
+      "output": "images/notation/three-eight-measure-combinations.svg"
     },
     "96d057cfd9c863b41dc745cf93c6ce8a64ff7ce6.png": {
       "status": "unclassified"
@@ -571,7 +627,9 @@
       "status": "unclassified"
     },
     "983c61f990d02147ab4473508cb516532e871057.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "simultaneous-rhythms-with-rests",
+      "output": "images/notation/simultaneous-rhythms-with-rests.svg"
     },
     "9901bdbeacc244671af7a5173eb91147c1fc2ba7.png": {
       "status": "unclassified"
@@ -580,10 +638,14 @@
       "status": "unclassified"
     },
     "99d68c0293627fcea7ee6bed18af4d5b5eeda47e.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "enharmonic-interval-pairs",
+      "output": "images/notation/enharmonic-interval-pairs.svg"
     },
     "9c39c637224c0bba225d33a4a11dfd0c9c0583bb.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "ledger-note-practice",
+      "output": "images/notation/ledger-note-practice.svg"
     },
     "9ccaa35c2e2f92fdf3c76c341017b4aa750c273e.png": {
       "status": "unclassified"
@@ -607,7 +669,9 @@
       "status": "unclassified"
     },
     "a4e3c4299b4df0cbc42338cbce821ba91aa2dea2.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "note-value-equations",
+      "output": "images/notation/note-value-equations.svg"
     },
     "a52102ca5ea2cc4b0026dcd4188cec9edc85a13e.png": {
       "status": "unclassified"
@@ -616,7 +680,9 @@
       "status": "unclassified"
     },
     "a69c707986504c5a27ee1c94ddbbb00d1101f4b7.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "same-melody-treble-and-bass",
+      "output": "images/notation/same-melody-treble-and-bass.svg"
     },
     "a7aa06ece55d66a2196c6f440ab588184c3067d4.png": {
       "status": "unclassified"
@@ -674,7 +740,9 @@
       "status": "unclassified"
     },
     "b5c853589275412d74aa8b6c3cbedd069a6294b3.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "enharmonic-chords-and-intervals",
+      "output": "images/notation/enharmonic-chords-and-intervals.svg"
     },
     "b6f00fa66ded19df9aff2d2b8c16a5c4fae07e26.png": {
       "status": "unclassified"
@@ -683,7 +751,9 @@
       "status": "unclassified"
     },
     "b9295f79fda01598db4bcb7cc6b5fa206bb65c1a.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "treble-clef-mnemonics",
+      "output": "images/notation/treble-clef-mnemonics.svg"
     },
     "ba0dba3f6286193381242d9b0711ead164b86d22.png": {
       "status": "unclassified"
@@ -725,7 +795,9 @@
       "status": "unclassified"
     },
     "cb8a1669129bb78cc53eb4d1435d1a704d569e88.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "bass-clef-practice-answers",
+      "output": "images/notation/bass-clef-practice-answers.svg"
     },
     "cbfa55d933eebda424353b4e388f6efa93374438.png": {
       "status": "vexflow-overlay",
@@ -745,7 +817,9 @@
       "status": "unclassified"
     },
     "d0df5580a52bd5ff1c22982ff89e7ce408a5750a.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "bass-clef-mnemonics",
+      "output": "images/notation/bass-clef-mnemonics.svg"
     },
     "d1156e89d761fd0b2c7989ae3f41998b094037e5.png": {
       "status": "unclassified"
@@ -776,13 +850,19 @@
       "output": "images/notation/key-signature-accidentals.svg"
     },
     "d602c16ca85ac9a1dec4202c752714bcb05c3124.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "bass-pitch-names",
+      "output": "images/notation/bass-pitch-names.svg"
     },
     "d64908821c909af8dd493167ab6281e4ae6aa542.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "key-signature-writing-practice",
+      "output": "images/notation/key-signature-writing-practice.svg"
     },
     "d7543f40076f23c7dd430a0b2d4c88e279a6d708.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "rest-duration-practice-solutions",
+      "output": "images/notation/rest-duration-practice-solutions.svg"
     },
     "d7d88dada170cabb40a5168da677a7d94fdcb92d.png": {
       "status": "unclassified"
@@ -791,7 +871,9 @@
       "status": "unclassified"
     },
     "d9bb1aa306154dd4ae19d956f60214da91569c09.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "piano-natural-notes",
+      "output": "images/notation/piano-natural-notes.svg"
     },
     "d9d282a798bfcd3b0b60329222e1bc0c72659209.png": {
       "status": "unclassified"
@@ -817,13 +899,17 @@
       "status": "unclassified"
     },
     "e2897b454b02e02a65a9b8cd989a5187cbda5093.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "middle-c-in-three-clefs",
+      "output": "images/notation/middle-c-in-three-clefs.svg"
     },
     "e2f8f09813a0e0bff4ecb4cb571a114b3f6163b0.png": {
       "status": "unclassified"
     },
     "e420035b374f956c2c7e871076450ff828a83e6f.png": {
-      "status": "unclassified"
+      "status": "svg-overlay",
+      "definition": "note-duration-practice-solutions",
+      "output": "images/notation/note-duration-practice-solutions.svg"
     },
     "e4fa99218d125c95730f25437e9a42952b90ea81.png": {
       "status": "unclassified"
@@ -832,7 +918,9 @@
       "status": "unclassified"
     },
     "e62d54293b2496a82a5aa78702e98cc70a128ea2.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "flags-and-beams-equivalence",
+      "output": "images/notation/flags-and-beams-equivalence.svg"
     },
     "e96d273df2c65b03f1273355868a774bdf546968.png": {
       "status": "unclassified"
@@ -844,7 +932,9 @@
       "status": "unclassified"
     },
     "e99ec8a03615fb0497f77b5299866549ca529fb6.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "stem-direction-and-voices",
+      "output": "images/notation/stem-direction-and-voices.svg"
     },
     "e9c7307b9a2752128fb6dbf906ddb725735750df.png": {
       "status": "vexflow-overlay",
@@ -870,10 +960,14 @@
       "status": "unclassified"
     },
     "f16500ce77df4e1782cd94f61ad8ed4b0b584405.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "approximate-vocal-ranges",
+      "output": "images/notation/approximate-vocal-ranges.svg"
     },
     "f24f3bff15f4753276f6263917a6eb58c3924ed2.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "treble-clef-practice-answers",
+      "output": "images/notation/treble-clef-practice-answers.svg"
     },
     "f2b61cfd8801b8d1548d9d7df76190770472186e.png": {
       "status": "svg-overlay",
@@ -916,10 +1010,14 @@
       "status": "unclassified"
     },
     "fc80686dbb2a3da98305b51c5fbe0be7fe0df65f.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "enharmonic-note-solutions",
+      "output": "images/notation/enharmonic-note-solutions.svg"
     },
     "fc98d4be7671f4ac93df2eafee35a17db51d68bb.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "double-accidental-equivalence",
+      "output": "images/notation/double-accidental-equivalence.svg"
     },
     "fd33a943a49e63f0d89569e9d66459a0a3056ce4.png": {
       "status": "unclassified"
@@ -934,7 +1032,9 @@
       "status": "unclassified"
     },
     "ffb90bf82bdbce7380d5bddb01b62ab9084d239b.png": {
-      "status": "unclassified"
+      "status": "vexflow-overlay",
+      "definition": "interval-number-answers",
+      "output": "images/notation/interval-number-answers.svg"
     }
   }
 }

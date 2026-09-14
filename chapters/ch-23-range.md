@@ -37,7 +37,7 @@ Arrangements for these four voices are labelled SATB (for Soprano Alto Tenor Bas
 - *Countertenor* -- A male voice that is unusually high, light, and agile, even for a tenor
 - *Baritone* -- A male voice that falls in between tenor and bass
 
-![Music notation example](../images/cnx/f16500ce77df4e1782cd94f61ad8ed4b0b584405.png)
+![Approximate ranges for soprano, mezzo-soprano, alto, tenor, baritone, and bass voices.](../images/notation/approximate-vocal-ranges.svg)
 
 Voices are as individual as faces; some altos will have a narrower or wider range, or the sweetest and most powerful part of their range in a different place than other altos. These are approximate, average ranges for each voice category.
 

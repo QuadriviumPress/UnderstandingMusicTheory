@@ -12,7 +12,7 @@ export const definition = {
     sharp.setContext(context).draw();
     // D-sharp major is a theoretical signature containing double sharps,
     // which VexFlow's built-in key-signature table intentionally omits.
-    [['𝄪', 475, 105], ['♯', 500, 120], ['♯', 525, 95], ['♯', 550, 112], ['♯', 575, 128], ['♯', 600, 104], ['𝄪', 625, 121]].forEach(([symbol, x, y]) => {
+    [['×', 475, 105], ['♯', 500, 120], ['♯', 525, 95], ['♯', 550, 112], ['♯', 575, 128], ['♯', 600, 104], ['×', 625, 121]].forEach(([symbol, x, y]) => {
       overlay.text(symbol, x, y, { 'font-size': 30, 'text-anchor': 'middle' });
     });
     overlay.text('E♭ major', 200, 38, { 'font-size': 21, 'font-weight': '700', 'text-anchor': 'middle' });

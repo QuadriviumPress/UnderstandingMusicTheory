@@ -24,7 +24,8 @@ for (const [source, figure] of Object.entries(manifest.figures)) {
 for (const file of fs.readdirSync(path.join(root, 'images', 'notation'), { withFileTypes: true }).filter((entry) => entry.isFile() && entry.name.endsWith('.svg'))) {
   const svg = fs.readFileSync(path.join(root, 'images', 'notation', file.name), 'utf8');
   if (!/<svg\b/.test(svg) || !/viewBox=/.test(svg)) errors.push(`${file.name}: SVG needs an svg root and viewBox`);
-  if (/<image\b|https?:\/\//.test(svg)) errors.push(`${file.name}: SVG must not embed raster or external content`);
+  if (!/<svg\b[^>]*xmlns="http:\/\/www\.w3\.org\/2000\/svg"/.test(svg)) errors.push(`${file.name}: SVG needs the SVG XML namespace`);
+  if (/<image\b|(?:href|src)=["']https?:\/\//.test(svg)) errors.push(`${file.name}: SVG must not embed raster or external content`);
   if (!/@font-face\{font-family:Bravura;src:url\(data:font\/woff2/.test(svg)) errors.push(`${file.name}: SVG must embed the notation font`);
 }
 if (errors.length) throw new Error(errors.join('\n'));

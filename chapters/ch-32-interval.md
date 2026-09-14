@@ -49,7 +49,7 @@ Listen to the compound intervals in the referenced item: [ninth](../images/cnx/5
 >
 > > **Solution**
 > >
-> > ![Music notation example](../images/cnx/ffb90bf82bdbce7380d5bddb01b62ab9084d239b.png)
+> > ![Six written intervals labelled third, fifth, octave, second, seventh, and fourth.](../images/notation/interval-number-answers.svg)
 > >
 
 > **Practice**
@@ -153,7 +153,7 @@ If an interval is a half-step larger than a perfect or a major interval, it is c
 
 > **Example**
 >
-> ![Music notation example](../images/cnx/4db15424aa05d5a4b5a3841d69ffeffbbc34f162.png)
+> ![Examples of augmented and diminished primes, seconds, thirds, fourths, fifths, sixths, sevenths, and octaves.](../images/notation/augmented-and-diminished-intervals.svg)
 >
 > Listen to the [augmented prime](../images/cnx/2c36d5f2b6ab75a4d322c93225198b0ea14348ba.midi), [diminished second](../images/cnx/e51b0d96d78b3c64cc62c27774f6f748677b31cc.midi), [augmented third](../images/cnx/a0865ce4b4109f49e5ea365b69946e714c751bcc.midi), [diminished sixth](../images/cnx/74ed0e29e2782bff8cb2dc1acdb8295d6f6fe9a1.midi), [augmented seventh](../images/cnx/1ac3e814e3b35954013624ae03edacaefda1f658.midi), [diminished octave](../images/cnx/4d827f92b6395bde89f5c254822c088f2251631a.midi), [augmented fourth](../images/cnx/e963b3fc61fe066e94ab84de2ce07b4ab78d47d9.midi), and [diminished fifth](../images/cnx/e963b3fc61fe066e94ab84de2ce07b4ab78d47d9.midi). Are you surprised that the augmented fourth and diminished fifth sound the same?
 
@@ -175,7 +175,7 @@ As mentioned above, the diminished fifth and augmented fourth sound the same. Bo
 
 You have probably noticed by now that the tritone is not the only interval that can be \"spelled\" in more than one way. In fact, because of [enharmonic spellings](ch-05-enharmonic-spelling.md), the interval for any two pitches can be written in various ways. A major third could be written as a diminished fourth, for example, or a minor second as an augmented prime. **Always classify the interval as it is written; the composer had a reason for writing it that way.** That reason sometimes has to do with subtle differences in the way different written notes will be interpreted by performers, but it is mostly a matter of placing the notes correctly in the context of the [key](ch-30-major-keys-and-scales.md), the [chord](ch-21-harmony.md), and the evolving [harmony](ch-21-harmony.md). (Please see [Beginning Harmonic Analysis](ch-40-beginning-harmonic-analysis.md) for more on that subject.)
 
-![Music notation example](../images/cnx/99d68c0293627fcea7ee6bed18af4d5b5eeda47e.png)
+![A major third compared with a diminished fourth, and a minor second compared with an augmented prime.](../images/notation/enharmonic-interval-pairs.svg)
 
 Any interval can be written in a variety of ways using <a href="ch-05-enharmonic-spelling.md">enharmonic</a> spelling. Always classify the interval as it is written.
 
