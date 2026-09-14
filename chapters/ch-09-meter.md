@@ -10,7 +10,6 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *The meter of a piece of music is the repetitive arrangement of strong and weak pulses in the rhythm. Young children can be encouraged to recognize and classify meters even before they learn about time signatures and reading music.*
 
-::: {#m12405-s0 .section}
 ## What is Meter?
 
 The *meter* of a piece of music is the arrangment of its rhythms in a repetitive pattern of strong and weak beats. This does not necessarily mean that the rhythms themselves are repetitive, but they do strongly suggest a repeated pattern of pulses. It is on these pulses, the [beat](ch-08-time-signature.md) of the music, that you tap your foot, clap your hands, dance, etc.
@@ -22,9 +21,7 @@ But most [Western](ch-24-classifying-music.md) music has simple, repetitive patt
 [Conducting](https://cnx.org/content/m12404) also depends on the meter of the piece; conductors use different conducting patterns for the different meters. These patterns emphasize the differences between the stronger and weaker beats to help the performers keep track of where they are in the music.
 
 But the conducting patterns depend only on the pattern of strong and weak beats. In other words, they only depend on \"how many beats there are in a measure\", not \"what type of note gets a beat\". So even though the time signature is often called the \"meter\" of a piece, one can talk about meter without worrying about the time signature or even being able to read music. (Teachers, note that this means that children can be introduced to the concept of meter long before they are reading music. See [Meter Activities](https://cnx.org/content/m13616) for some suggestions.)
-:::
 
-::: {#m12405-s1 .section}
 ## Classifying Meters
 
 Meters can be classified by counting the number of beats from one strong beat to the next. For example, if the meter of the music feels like \"strong-weak-strong-weak\", it is in *duple* meter. \"strong-weak-weak-strong-weak-weak\" is *triple* meter, and \"strong-weak-weak-weak\" is *quadruple*. (Most people don\'t bother classifying the more unusual meters, such as those with five beats in a measure.)
@@ -32,9 +29,7 @@ Meters can be classified by counting the number of beats from one strong beat to
 Meters can also be classified as either simple or compound. In a *simple* meter, each beat is basically divided into halves. In *compound* meters, each beat is divided into thirds.
 
 A *borrowed division* occurs whenever the basic meter of a piece is interrupted by some beats that sound like they are \"borrowed\" from a different meter. One of the most common examples of this is the use of [triplets](ch-11-dots-ties-and-borrowed-divisions.md) to add some compound meter to a piece that is mostly in a simple meter. (See [Dots, Ties, and Borrowed Divisions](ch-11-dots-ties-and-borrowed-divisions.md) to see what borrowed divisions look like in common notation.)
-:::
 
-::: {#m12405-s2 .section}
 ## Recognizing Meters
 
 To learn to recognize meter, remember that (in most [Western](ch-24-classifying-music.md) music) the beats and the subdivisions of beats are all equal and even. So you are basically listening for a running, even pulse underlying the rhythms of the music. For example, if it makes sense to count along with the music \"ONE-and-Two-and-ONE-and-Two-and\" (with all the syllables very evenly spaced) then you probably have a simple duple meter. But if it\'s more comfortable to count \"ONE-and-a-Two-and-a-ONE-and-a-Two-and-a\", it\'s probably compound duple meter. (Make sure numbers always come on a pulse, and \"one\" always on the strongest pulse.)
@@ -44,5 +39,3 @@ This may take some practice if you\'re not used to it, but it can be useful prac
 ![Music notation example](../images/cnx/77f33d1d601bfa5087cad774ba9e409e87922dd4.png)
 
 Remember that meter is not the same as time signature; the time signatures given here are just examples. For example, 2/2 and 2/8 are also simple duple meters.
-
-:::

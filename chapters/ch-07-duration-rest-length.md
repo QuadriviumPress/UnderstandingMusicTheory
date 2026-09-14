@@ -14,24 +14,27 @@ A *rest* stands for a silence in music. For each kind of [note](ch-06-duration-n
 
 ![Music notation example](../images/cnx/bd711483c83680623a2d7c368a02da858e0ffc8f.png)
 
-::: {#m11887-exer2a .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m11887-exer2a
+:class: exercise
 
-::: {#m11887-id1170197108933 .problem}
-**Question**
+::::{admonition} Question
+:name: m11887-id1170197108933
+:class: problem
 
 For each note on the first line, write a rest of the same length on the second line. The first [measure](ch-08-time-signature.md) is done for you.
 
 ![Music notation example](../images/cnx/516221c98846357d9645c78d9c218df3ad872ef8.png)
 
-:::
+::::
 
-::: {#m11887-id1170197931556 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m11887-id1170197931556
+:class: solution
 
 ![Music notation example](../images/cnx/d7543f40076f23c7dd430a0b2d4c88e279a6d708.png)
 
-:::
+::::
 :::
 
 Rests don\'t necessarily mean that there is silence in the music at that point; only that that part is silent. Often, on a [staff](ch-01-the-staff.md) with multiple parts, a rest must be used as a placeholder for one of the parts, even if a single person is playing both parts. When the rhythms are complex, this is necessary to make the rhythm in each part clear.

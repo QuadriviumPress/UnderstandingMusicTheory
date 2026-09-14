@@ -10,7 +10,6 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *The clef symbol on a musical staff tells you which pitches belong on the lines and spaces of that staff.*
 
-::: {#m10941-s1 .section}
 ## Treble Clef and Bass Clef
 
 The first symbol that appears at the beginning of every music [staff](ch-01-the-staff.md) is a *clef symbol*. It is very important because it tells you which [note](ch-06-duration-note-lengths-in-written-music.md) (A, B, C, D, E, F, or G) is found on each line or space. For example, a *treble clef* symbol tells you that the second line from the bottom (the line that the symbol curls around) is \"G\". On any staff, the notes are always arranged so that the next letter is always on the next higher line or space. The last note letter, G, is always followed by another A.
@@ -21,9 +20,6 @@ A *bass clef* symbol tells you that the second line from the top (the one bracke
 
 ![Music notation example](../images/cnx/d602c16ca85ac9a1dec4202c752714bcb05c3124.png)
 
-:::
-
-::: {#m10941-s4 .section}
 ## Memorizing the Notes in Bass and Treble Clef
 
 One of the first steps in learning to read music in a particular clef is memorizing where the notes are. Many students prefer to memorize the notes and spaces separately. Here are some of the most popular mnemonics used.
@@ -34,9 +30,6 @@ One of the first steps in learning to read music in a particular clef is memoriz
 
 You can use a word or silly sentence to help you memorize which notes belong on the lines or spaces of a clef. If you don't like these ones, you can make up your own.
 
-:::
-
-::: {#m10941-s2 .section}
 ## Moveable Clefs
 
 Most music these days is written in either bass clef or treble clef, but some music is written in a *C clef*. The C clef is moveable: whatever line it centers on is a [middle C](ch-28-octaves-and-the-major-minor-tonal-system.md).
@@ -57,9 +50,6 @@ Much more common is the use of a treble clef that is meant to be read one octave
 
 A small "8" at the bottom of a treble clef means that the notes should sound one octave lower than written.
 
-:::
-
-::: {#m10941-s3 .section}
 ## Why use different clefs?
 
 Music is easier to read and write if most of the notes fall on the staff and few [ledger lines](ch-01-the-staff.md) have to be used.
@@ -74,64 +64,71 @@ The G indicated by the treble clef is the G above [middle C](ch-28-octaves-and-t
 
 Middle C is above the bass clef and below the treble clef; so together these two clefs cover much of the range of most voices and instruments.
 
-:::
+:::{admonition} Practice
+:name: m10941-exer3a
+:class: exercise
 
-::: {#m10941-exer3a .exercise}
-**Practice**
-
-::: {#m10941-id42288278 .problem}
-**Question**
+::::{admonition} Question
+:name: m10941-id42288278
+:class: problem
 
 Write the name of each note below the note on each staff in the referenced item.
 
 ![Music notation example](../images/cnx/17e780a24ae09def5583b27898930f3dd936bfa3.png)
 
-:::
+::::
 
-::: {#m10941-id42288339 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m10941-id42288339
+:class: solution
 
 ![Music notation example](../images/cnx/3087ad9e3af32de3f3c0f6278eca1ce3558cff12.png)
 
-:::
+::::
 :::
 
-::: {#m10941-element-752 .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m10941-element-752
+:class: exercise
 
-::: {#m10941-id42288388 .problem}
-**Question**
+::::{admonition} Question
+:name: m10941-id42288388
+:class: problem
 
 Choose a clef in which you need to practice recognizing notes above and below the staff in the referenced item. Write the clef sign at the beginning of the staff, and then write the correct note names below each note.
 
 ![Music notation example](../images/cnx/9c39c637224c0bba225d33a4a11dfd0c9c0583bb.png)
 
-:::
+::::
 
-::: {#m10941-id42288450 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m10941-id42288450
+:class: solution
 
 the referenced item shows the answers for treble and bass clef. If you have done another clef, have your teacher check your answers.
 
 ![Music notation example](../images/cnx/25011ac162a03037c0aaa44f2843334c4564072e.png)
 
-:::
+::::
 :::
 
-::: {#m10941-element-226 .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m10941-element-226
+:class: exercise
 
-::: {#m10941-id41945873 .problem}
-**Question**
+::::{admonition} Question
+:name: m10941-id41945873
+:class: problem
 
 the referenced item gives more exercises to help you memorize whichever clef you are learning. You may print these exercises as a [PDF worksheet](../images/cnx/bdd5045fa86b7fe90f70e73d15617d7ba5f96548.pdf) if you like.
 
 ![Music notation example](../images/cnx/6e59466f91e61d128e62b1b0d8447df01788fb69.png)
 
-:::
+::::
 
-::: {#m10941-id41945944 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m10941-id41945944
+:class: solution
 
 the referenced item shows the answers for treble clef, and the referenced item the answers for bass clef. If you are working in a more unusual clef, have your teacher check your answers.
 
@@ -139,5 +136,5 @@ the referenced item shows the answers for treble clef, and the referenced item t
 
 ![Music notation example](../images/cnx/cb8a1669129bb78cc53eb4d1435d1a704d569e88.png)
 
-:::
+::::
 :::

@@ -10,18 +10,14 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *A short introduction to the basic element of music called texture.*
 
-::: {#m11645-s0 .section}
 ## Introduction
 
 Texture is one of the basic elements of music. When you describe the *texture* of a piece of music, you are describing how much is going on in the music at any given moment. For example, the texture of the music might be thick or thin, or it may have many or few layers. It might be made up of rhythm only, or of a melody line with chordal accompaniment, or many interweaving melodies. Below you will find some of the formal terms musicians use to describe texture. Suggestions for activities to introduce the concept of texture to young students can be found in [Musical Textures Activities](https://cnx.org/content/m14260).
-:::
 
-::: {#m11645-s1 .section}
 ## Terms that Describe Texture
 
 There are many informal terms that can describe the texture of a piece of music (thick, thin, bass-heavy, rhythmically complex, and so on), but the formal terms that are used to describe texture all describe the relationships of [melodies](ch-19-melody.md) and [harmonies](ch-21-harmony.md). Here are definitions and examples of the four main types of texture. For specific pieces of music that are good examples of each type of texture, please see below.
 
-::: {#m11645-s11 .section}
 ### Monophonic
 
 *Monophonic* music has only one [melodic](ch-19-melody.md) line, with no [harmony](ch-21-harmony.md) or [counterpoint](ch-22-counterpoint.md). There may be [rhythmic](ch-17-rhythm.md) accompaniment, but only one line that has specific [pitches](ch-03-pitch-sharp-flat-and-natural-notes.md). Monophonic music can also be called *monophony*. It is sometimes called *monody*, although the term \"monody\" can also refer to a particular type of solo song (with instrumental accompaniment) that was very popular in the 1600\'s.
@@ -31,10 +27,7 @@ There are many informal terms that can describe the texture of a piece of music 
 - A single bugle sounding \"Taps\"
 - A group of people all singing a song together, without harmonies or instruments
 - A fife and drum corp, with all the fifes playing the same melody
-:::
-:::
 
-::: {#m11645-s12 .section}
 ### Homophonic
 
 *Homophonic* music can also be called *homophony*. More informally, people who are describing homophonic music may mention [chords](ch-21-harmony.md), [accompaniment](ch-21-harmony.md), [harmony or harmonies](ch-21-harmony.md). Homophony has one clearly [melodic](ch-19-melody.md) line; it\'s the line that naturally draws your attention. All other parts provide accompaniment or fill in the chords. In most well-written homophony, the parts that are not melody may still have a lot of melodic interest. They may follow many of the rules of well-written [counterpoint](ch-22-counterpoint.md), and they can sound quite different from the melody and be interesting to listen to by themselves. But when they are sung or played with the melody, it is clear that they are not independent melodic parts, either because they have the same rhythm as the melody (i.e. are not independent) or because their main purpose is to fill in the chords or harmony (i.e. they are not really melodies).
@@ -45,9 +38,7 @@ There are many informal terms that can describe the texture of a piece of music 
 - A small jazz combo with a bass, a piano, and a drum set providing the \"rhythm\" background for a trumpet improvising a solo.
 - A single bagpipes or accordion player playing a melody with drones or chords.
 :::
-:::
 
-::: {#m11645-s13 .section}
 ### Polyphonic
 
 *Polyphonic* music can also be called *polyphony*, *counterpoint*, or *contrapuntal* music. If more than one independent [melody](ch-19-melody.md) is occurring at the same time, the music is polyphonic. (See [counterpoint](ch-22-counterpoint.md).)
@@ -58,9 +49,7 @@ There are many informal terms that can describe the texture of a piece of music 
 - Most music for large instrumental groups such as bands or orchestras is contrapuntal at least some of the time.
 - Music that is mostly homophonic can become temporarily polyphonic if an independent countermelody is added. Think of a favorite pop or gospel tune that, near the end, has the soloist \"ad libbing\" while the back-up singers repeat the refrain.
 :::
-:::
 
-::: {#m11645-s14 .section}
 ### Heterophonic
 
 A *heterophonic* texture is rare in [Western](ch-24-classifying-music.md) music. In *heterophony*, there is only one melody, but different variations of it are being sung or played at the same time.
@@ -68,9 +57,7 @@ A *heterophonic* texture is rare in [Western](ch-24-classifying-music.md) music.
 - Heterophony can be heard in the Bluegrass, \"mountain music\", Cajun, and Zydeco traditions. Listen for the tune to be played by two instruments (say fiddle and banjo) at the same time, with each adding the [embellishments, ornaments](ch-19-melody.md), and flourishes that are characteristic of the instrument.
 - Some Middle Eastern, South Asian, central Eurasian, and Native American music traditions include heterophony. Listen for traditional music (most modern-composed music, even from these cultures, has little or no heterophony) in which singers and/or instrumentalists perform the same melody at the same time, but give it different embellishments or ornaments.
 :::
-:::
 
-::: {#m11645-s4 .section}
 ## Suggested Listening
 
 ::: {#m11645-l4a}
@@ -81,7 +68,6 @@ A *heterophonic* texture is rare in [Western](ch-24-classifying-music.md) music.
 - Most fife and drum music
 - Long sections of \"The People that Walked in Darkness\" aria in Handel\'s \"Messiah\" are monophonic (the instruments are playing the same line as the voice). Apparently Handel associates monophony with \"walking in darkness\"!
 - Monophony is very unusual in contemporary popular genres, but can be heard in Queen\'s \"We Will Rock You.\"
-:::
 
 ::: {#m11645-l4b}
 - A classic Scott Joplin rag such as \"Maple Leaf Rag\" or \"The Entertainer\"

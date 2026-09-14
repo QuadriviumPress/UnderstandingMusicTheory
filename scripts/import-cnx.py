@@ -72,6 +72,63 @@ def convert_figures(body: str) -> str:
     return re.sub(r"<img\b[^>]*>", image_replacement, body, flags=re.IGNORECASE)
 
 
+def convert_callouts(body: str) -> str:
+    """Convert Pandoc CommonMark divs to MyST admonitions.
+
+    Pandoc writes CNX callouts as ``::: {#id .class}``, which MyST displays as
+    literal text. Section wrappers add no useful HTML semantics, while the
+    remaining callouts become nested MyST admonitions with their original CSS
+    classes.
+    """
+    titles = {
+        "example": "Example",
+        "exercise": "Practice",
+        "note": "Note",
+        "problem": "Question",
+        "solution": "Solution",
+    }
+    opening = re.compile(r"^::: \{#(?P<id>[A-Za-z0-9_.:-]+) \.(?P<class>[A-Za-z0-9_-]+)\}$")
+    stack: list[tuple[str, int]] = []
+    lines: list[str] = []
+    skip_label = False
+
+    for line in body.splitlines():
+        match = opening.match(line)
+        if match:
+            kind = match.group("class")
+            if kind == "section":
+                stack.append((kind, 0))
+                continue
+            if kind in titles:
+                fence = 3 + sum(1 for _, depth in stack if depth)
+                stack.append((kind, fence))
+                lines.extend([
+                    f"{':' * fence}{{admonition}} {titles[kind]}",
+                    f":name: {match.group('id')}",
+                    f":class: {kind}",
+                    "",
+                ])
+                skip_label = True
+                continue
+
+        if line == ":::" and stack:
+            _, fence = stack.pop()
+            if fence:
+                lines.append(":" * fence)
+            continue
+
+        if skip_label:
+            if line in {"**Practice**", "**Example**", "**Note**", "**Question**", "**Solution**"}:
+                skip_label = False
+                continue
+            skip_label = False
+        lines.append(line)
+
+    if stack:
+        raise RuntimeError("Unclosed Pandoc div in imported content")
+    return "\n".join(lines)
+
+
 def normalize_existing_pages() -> None:
     """Apply the current post-import normalization without requiring the EPUB.
 
@@ -92,6 +149,7 @@ def normalize_existing_pages() -> None:
         )
         body = re.sub(r'^\[\]\{#[A-Za-z0-9_.:-]+\}\n?', '', body, flags=re.MULTILINE)
         body = convert_figures(body)
+        body = convert_callouts(body)
         body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
         page.write_text(body, encoding="utf-8")
     print(f"Normalized {len(pages)} existing MyST pages.")
@@ -248,6 +306,7 @@ def convert() -> None:
             body = re.sub(r"\[([^\]]+)\]\(#[^)]+\)", r"\1", body)
             body = re.sub(r"\[([^\]]+)\]\(\)", r"\1", body)
             body = convert_figures(body)
+            body = convert_callouts(body)
             body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
 
             module.output.parent.mkdir(parents=True, exist_ok=True)

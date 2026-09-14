@@ -10,7 +10,6 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *For adults, a short review of the physics underlying music theory.*
 
-::: {#m13246-s1 .section}
 ## Music is Organized Sound Waves
 
 *Music* is sound that\'s organized by people on purpose, to dance to, to tell a story, to make other people feel a certain way, or just to sound pretty or be entertaining. Music is organized on many different levels. Sounds can be arranged into [melodies](ch-19-melody.md), [harmonies](ch-21-harmony.md), [rhythms](ch-17-rhythm.md), [textures](ch-20-texture.md) and [phrases](ch-19-melody.md). [Beats](ch-08-time-signature.md), [measures](ch-01-the-staff.md), [cadences](ch-41-cadence.md), and [form](ch-42-form.md) all help to keep the music organized and understandable. But the most basic way that music is organized is by arranging the actual sound waves themselves so that the sounds are interesting and pleasant and go well together.
@@ -26,9 +25,7 @@ A random jumble of sound waves is heard as a noise. A regular, evenly-spaced sou
 Musicians have terms that they use to describe tones. (Musicians also have other meanings for the word \"tone\", but this course will stick to the \"a sound with pitch\" meaning.) This kind of (regular, evenly spaced) wave is useful for things other than music, however, so scientists and engineers also have terms that describe pitched sound waves. As we talk about where music theory comes from, it will be very useful to know both the scientific and the musical terms and how they are related to each other.
 
 For example, the closer together those evenly-spaced waves are, the higher the note sounds. Musicians talk about the [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md) of the sound, or [name specific notes](ch-02-clef.md), or talk about [tuning](ch-44-tuning-systems.md). Scientists and engineers, on the other hand, talk about the frequency and the wavelength of the sound. They are all essentially talking about the same things, but talking about them in slightly different ways, and using the scientific ideas of wavelength and frequency can help clarify some of the main ideas underlying music theory.
-:::
 
-::: {#m13246-s11 .section}
 ## Longitudinal and Transverse Waves
 
 So what are we talking about when we speak of sound waves? Waves are disturbances; they are changes in something - the surface of the ocean, the air, electromagnetic fields. Normally, these changes are travelling (except for [standing waves](ch-26-standing-waves-and-musical-instruments.md)); the disturbance is moving away from whatever created it, in a kind of domino effect.
@@ -44,9 +41,7 @@ But sound waves are not transverse. Sound waves are *longitudinal waves*. If sou
 Longitudinal waves may also be a little difficult to imagine, because there aren\'t any examples that we can see in everyday life (unless you like to play with toy slinkies). A mathematical description might be that in longitudinal waves, the waves (the disturbances) are along the same axis as the direction of motion of the wave; transverse waves are at right angles to the direction of motion of the wave. If this doesn\'t help, try imagining yourself as one of the particles that the wave is disturbing (a water drop on the surface of the ocean, or an air molecule). As it comes from behind you, a transverse waves lifts you up and then drops down; a longitudinal wave coming from behind pushes you forward and pulls you back. You can view here animations of [longitudinal and transverse waves](../images/cnx/a004afe82ceb89f2a9d899dc85710f2879e5dfac.swf), [single particles being disturbed by a transverse wave or by a longitudinal wave](../images/cnx/eb8f617b9c4aa68eb80c82aee6cf2477a96a2120.swf), and [particles being disturbed by transverse and longitudinal waves](../images/cnx/9b5d64858e6c1049b45597043879343c8f33f781.swf).
 
 The result of these \"forward and backward\" waves is that the \"high point\" of a sound wave is where the air molecules are bunched together, and the \"low point\" is where there are fewer air molecules. In a pitched sound, these areas of bunched molecules are very evenly spaced. In fact, they are so even, that there are some very useful things we can measure and say about them. **In order to clearly show you what they are, most of the diagrams in this course will show sound waves as if they are transverse waves**.
-:::
 
-::: {#m13246-s12 .section}
 ## Wave Amplitude and Loudness
 
 Both transverse and longitudinal waves cause a *displacement* of something: air molecules, for example, or the surface of the ocean. The amount of displacement at any particular spot changes as the wave passes. If there is no wave, or if the spot is in the same state it would be in if there was no wave, there is no displacement. Displacement is biggest (furthest from \"normal\") at the highest and lowest points of the wave. In a sound wave, then, there is no displacement wherever the air molecules are at a normal density. The most displacement occurs wherever the molecules are the most crowded or least crowded.
@@ -61,9 +56,6 @@ Musicians call the loudness of a note its *dynamic level*. *Forte* (pronounced \
 
 The size of a wave (how much it is "piled up" at the high points) is its <em>amplitude</em>. For sound waves, the bigger the amplitude, the louder the sound.
 
-:::
-
-::: {#m13246-s2 .section}
 ## Wavelength, Frequency, and Pitch
 
 The aspect of evenly-spaced sound waves that really affects music theory is the spacing between the waves, the distance between, for example, one high point and the next high point. This is the *wavelength*, and it affects the [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md) of the sound; the closer together the waves are, the higher the tone sounds.
@@ -77,4 +69,3 @@ Since the sounds are travelling at about the same speed, the one with the shorte
 The word that musicians use for frequency is *pitch*. The shorter the wavelength, the higher the frequency, and the higher the pitch, of the sound. In other words, short waves sound high; long waves sound low. Instead of measuring frequencies, musicians [name the pitches](ch-02-clef.md) that they use most often. They might call a note \"middle C\" or \"second line G\" or \"the F sharp in the bass clef\". (See [Octaves and Diatonic Music](ch-28-octaves-and-the-major-minor-tonal-system.md) and [Tuning Systems](ch-44-tuning-systems.md) for more on naming specific frequencies.) These notes have frequencies (Have you heard of the \"A 440\" that is used as a tuning note?), but the actual frequency of a middle C can vary a little from one orchestra, piano, or performance, to another, so musicians usually find it more useful to talk about note names.
 
 Most musicians cannot name the frequencies of any notes other than the tuning A (440 hertz). The human ear can easily distinguish two pitches that are only one hertz apart when it hears them both, but it is the very rare musician who can hear specifically that a note is 442 hertz rather than 440. So why should we bother talking about frequency, when musicians usually don\'t? As we will see, the physics of sound waves - and especially frequency - affects the most basic aspects of music, including [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md), [tuning](ch-44-tuning-systems.md), [consonance and dissonance](ch-38-consonance-and-dissonance.md), [harmony](ch-21-harmony.md), and [timbre](ch-18-timbre.md).
-:::

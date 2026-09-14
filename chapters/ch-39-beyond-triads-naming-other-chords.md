@@ -10,7 +10,6 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *The name of a chord is determined by the relationship to the tonic of every note in the chord.*
 
-::: {#m11995-s0 .section}
 ## Introduction
 
 Once you know how to name triads (please see [Triads](ch-36-triads.md) and [Naming Triads](ch-37-naming-triads.md)), you need only a few more rules to be able to name all of the most common chords.
@@ -24,16 +23,15 @@ Chord manuals, fingering charts, chord diagrams, and notes written out on a staf
 2.  You must be able to find intervals from the [root](ch-36-triads.md) of the chord. One way to do this is by using the rules for intervals. (See [Interval](ch-32-interval.md).) **Or** if you know your scales and don\'t want to learn about intervals, you can use the method in \#3 instead.
 3.  If you know all your scales (always a good thing to know, for so many reasons), you can find all the intervals from the root using scales. For example, the \"4\" in Csus4 is the 4th note in a C (major or minor) scale, and the \"minor 7th\" in Dm7 is the 7th note in a D (natural) minor scale. If you would prefer this method, but need to brush up on your scales, please see [Major Keys and Scales](ch-30-major-keys-and-scales.md) and [Minor Keys and Scales](ch-31-minor-keys-and-scales.md).
 4.  You need to know the rules for the common seventh chords, for extending and altering chords, for adding notes, and for naming bass notes. The basic rules for these are all found below.
-:::
 
-::: {#m11995-id14476237 .note}
-**Note**
+:::{admonition} Note
+:name: m11995-id14476237
+:class: note
 
 Please note that the modern system of chord symbols, discussed below, is very different from the *figured bass* shorthand popular in the seventeenth century (which is not discussed here). For example, the \"6\" in figured bass notation implies the first [inversion](ch-36-triads.md) chord, not an added 6. (As of this writing, there was a very straightforward summary of figured bass at [Ars Nova Software](http://www.ars-nova.com/cpmanual/realizeharmony.htm).)
 :::
 :::
 
-::: {#m11995-s5 .section}
 ## Chord Symbols
 
 Some instrumentalists, such as guitarists and pianists, are sometimes expected to be able to play a named chord, or an [accompaniment](ch-21-harmony.md) based on that chord, without seeing the notes written out in [common notation](ch-01-the-staff.md). In such cases, a *chord symbol* above the [staff](ch-01-the-staff.md) tells the performer what chord should be used as accompaniment to the music until the next symbol appears.
@@ -48,9 +46,6 @@ There is widespread agreement on how to name chords, but there are several diffe
 
 There is unfortunately a wide variation in the use of chord symbols. In particular, notice that some symbols, such as the "minus" sign and the triangle, can refer to different chords, depending on the assumptions of the person who wrote the symbol.
 
-:::
-
-::: {#m11995-s1 .section}
 ## Seventh Chords
 
 If you take a basic [triad](ch-36-triads.md) and add a note that is a [seventh](ch-32-interval.md) above the [root](ch-36-triads.md), you have a *seventh chord*. There are several different types of seventh chords, distinguished by both the type of triad and the type of seventh used. Here are the most common.
@@ -61,7 +56,6 @@ If you take a basic [triad](ch-36-triads.md) and add a note that is a [seventh](
 - Minor Seventh chord = minor triad + minor seventh
 - Diminished Seventh chord = diminished triad + diminished seventh (half step lower than a minor seventh)
 - Half-diminished Seventh chord = diminished triad + minor seventh
-:::
 
 ::: {#m11995-l1b}
 - The **major seventh** is one half step below the [octave](ch-28-octaves-and-the-major-minor-tonal-system.md).
@@ -73,11 +67,13 @@ If you take a basic [triad](ch-36-triads.md) and add a note that is a [seventh](
 
 Listen to the differences between the [C seventh](../images/cnx/392a19e22ab714ac36f4cbddfbd4282a1481edea.mpg), [C major seventh](../images/cnx/6291362856e5792cb4f0ba9ec1236fa36dbf3450.mpg), [C minor seventh](../images/cnx/1aa5adbf0ccb241a170c40f3d19995a00145aa3c.mpg), [C diminished seventh](../images/cnx/ffd6f430f30f9a38f081d2a8502109e7caa46e8c.mpg), and [C half-diminished seventh](../images/cnx/be0fd4983577bfbd6684afeb68fd4dc6921a130f.mpg).
 
-::: {#m11995-element-367 .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m11995-element-367
+:class: exercise
 
-::: {#m11995-id4891710 .problem}
-**Question**
+::::{admonition} Question
+:name: m11995-id4891710
+:class: problem
 
 Write the following seventh chords. If you need staff paper, you can print this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf)
 
@@ -89,35 +85,38 @@ Write the following seventh chords. If you need staff paper, you can print this 
 6.  F sharp minor seventh
 7.  G major seventh
 8.  B half-diminished seventh
-:::
+::::
 
-::: {#m11995-id4378059 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m11995-id4378059
+:class: solution
 
 ![Music notation example](../images/cnx/eecc6ad2e298c8e52b235ca4f517b5756d79fde8.png)
 
-:::
+::::
 :::
 
-::: {#m11995-exer4d .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m11995-exer4d
+:class: exercise
 
-::: {#m11995-id3594203 .problem}
-**Question**
+::::{admonition} Question
+:name: m11995-id3594203
+:class: problem
 
 Write a Ddim7, Fdim7, G#dim7, and Bdim7. Look closely at the chords you have written and see if you can notice something surprising about them. (Hint: try rewriting the chords [enharmonically](ch-05-enharmonic-spelling.md) so that all the notes are either natural or (single) flat.
-:::
+::::
 
-::: {#m11995-id4706538 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m11995-id4706538
+:class: solution
 
 ![Music notation example](../images/cnx/725a611834696d4ca4891a7537f1ad87ec39a9d3.png)
 
-:::
+::::
 :::
 :::
 
-::: {#m11995-s2 .section}
 ## Added Notes, Suspensions, and Extensions
 
 The seventh is not the only note you can add to a basic triad to get a new chord. You can continue to **extend** the chord by adding to the [stack of thirds](ch-36-triads.md), or you can **add** any note you want. The most common additions and extensions add notes that are in the scale named by the chord.
@@ -138,8 +137,9 @@ Many of the higher added notes are considered *extensions* of the \"stack of thi
 
 Take care to use the correct third and seventh - dominant, major, or minor - with extended chords. If the higher note is labelled "add", don't include the chord extensions that aren't named.
 
-::: {#m11995-id4965657 .note}
-**Note**
+:::{admonition} Note
+:name: m11995-id4965657
+:class: note
 
 All added notes and extensions, including sevenths, introduce [dissonance](ch-38-consonance-and-dissonance.md) into the chord. In some modern music, many of these dissonances are heard as pleasant or interesting or jazzy and don\'t need to be resolved. However, in other styles of music, dissonances need to be [resolved](ch-38-consonance-and-dissonance.md), and some chords may be altered to make the dissonance sound less harsh (for example, by leaving out the 3 in a chord with a 4).
 :::
@@ -150,9 +150,6 @@ You may have noticed that, once you pass the octave (8), you are repeating the s
 
 Low-number added notes and high-number added notes are treated differently. So even though they both add an F, a <a href="../images/cnx/feb9a7dbe2e2fe49bb09b410da09a4fe9e5e434f.midi">C4 suspension</a> will sound quite different from a <a href="../images/cnx/e15a86d1a913eb1d1117a3476e9402ff9d3ec6ba.midi">C11</a> extended chord.
 
-:::
-
-::: {#m11995-s3 .section}
 ## Bass Notes
 
 The [bass line](ch-21-harmony.md) of a piece of music is very important, and the composer/arranger often will want to specify what note should be the lowest-sounding in the chord. At the end of the chord name will be a slash followed by a note name, for example C/E. The note following the slash should be the bass note.
@@ -163,48 +160,52 @@ The note following the slash is the bass note of the chord. It can be a note tha
 
 The note named as the bass note can be a note normally found in the chord - for example, C/E or C/G - or it can be an added note - for example C/B or C/A. If the bass note is not named, it is best to use the [tonic](ch-30-major-keys-and-scales.md) as the primary bass note.
 
-::: {#m11995-exer4a .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m11995-exer4a
+:class: exercise
 
-::: {#m11995-id13168015 .problem}
-**Question**
+::::{admonition} Question
+:name: m11995-id13168015
+:class: problem
 
 Name the chords. (Hint: Look for suspensions, added notes, extensions, and basses that are not the root. Try to identify the main triad or root first.)
 
 ![Music notation example](../images/cnx/6fae5e3e315152e356619791dc81b760dd741b15.png)
 
-:::
+::::
 
-::: {#m11995-id13624856 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m11995-id13624856
+:class: solution
 
 ![Music notation example](../images/cnx/b5882de1fc02277c9dd83949ff4e15f5b2e7fef9.png)
 
-:::
+::::
 :::
 
-::: {#m11995-exer4c .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m11995-exer4c
+:class: exercise
 
-::: {#m11995-id3570981 .problem}
-**Question**
+::::{admonition} Question
+:name: m11995-id3570981
+:class: problem
 
 For guitarists, pianists, and other chord players: Get some practical practice. Name some chords you don\'t have memorized (maybe F6, Am/G, Fsus4, BM7, etc.). Chords with fingerings that you don\'t know but with a sound that you would recognize work best for this exercise. Decide what notes must be in those chords, find a practical fingering for them, play the notes and see what they sound like.
-:::
+::::
 
-::: {#m11995-id12231304 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m11995-id12231304
+:class: solution
 
 ::: {#m11995-solv4c}
 - listening to the chords to see if they sound correct
 - playing your chords for your teacher or other trained musician
 - checking your answers using a chord manual or chord diagrams
-:::
-:::
+::::
 :::
 :::
 
-::: {#m11995-s6 .section}
 ## Altering Notes and Chords
 
 If a note in the chord is not in the major or minor scale of the [root](ch-36-triads.md) of the chord, it is an *altered note* and makes the chord an *altered chord*. The alteration - for example \"flat five\" or \"sharp nine\" - is listed in the chord symbol. Any number of alterations can be listed, making some chord symbols quite long. **Alterations are not the same as [accidentals](ch-03-pitch-sharp-flat-and-natural-notes.md).** Remember, a chord symbol always names notes in the scale of the chord [root](ch-36-triads.md), ignoring the [key signature](ch-04-key-signature.md) of the piece that the chord is in, so the alterations are from the scale of the chord, not from the key of the piece.
@@ -213,11 +214,13 @@ If a note in the chord is not in the major or minor scale of the [root](ch-36-tr
 
 There is some variation in the chord symbols for altered chords. Plus/minus or sharp/flat symbols may appear before or after the note number. When sharps and flats are used, remember that the alteration is always from the scale of the chord root, not from the key signature.
 
-::: {#m11995-exer4b .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m11995-exer4b
+:class: exercise
 
-::: {#m11995-id14563769 .problem}
-**Question**
+::::{admonition} Question
+:name: m11995-id14563769
+:class: problem
 
 On a treble clef staff, write the chords named. You can print this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf) if you need staff paper for this exercise.
 
@@ -226,15 +229,15 @@ On a treble clef staff, write the chords named. You can print this [PDF file](..
 3.  G minor with a sharp seven
 4.  B flat (dominant) seventh with a sharp nine
 5.  F nine sharp eleven
-:::
+::::
 
-::: {#m11995-id4720204 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m11995-id4720204
+:class: solution
 
 Notice that a half-diminished seventh can be (and sometimes is) written as it is here, as a minor seventh with flat five.
 
 ![Music notation example](../images/cnx/16b01d3271b27e709b1fbdc483fdd09e7770e0b9.png)
 
-:::
-:::
+::::
 :::

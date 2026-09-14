@@ -10,13 +10,10 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *An introduction to the basic element of music called melody, with some useful definitions.*
 
-::: {#m11647-s0 .section}
 ## Introduction
 
 Melody is one of the most basic elements of music. A note is a sound with a particular [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md) and [duration](ch-06-duration-note-lengths-in-written-music.md). String a series of notes together, one after the other, and you have a *melody*. But the melody of a piece of music isn\'t just any string of notes. It\'s the notes that catch your ear as you listen; the line that sounds most important is the melody. There are some common terms used in discussions of melody that you may find it useful to know. First of all, the *melodic line* of a piece of music is the string of notes that make up the melody. Extra notes, such as trills and slides, that are not part of the main melodic line but are added to the melody either by the composer or the performer to make the melody more complex and interesting are called *ornaments* or *embellishments*. Below are some more concepts that are associated with melody.
-:::
 
-::: {#m11647-s1 .section}
 ## The Shape or Contour of a Melody
 
 A melody that stays on the same [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md) gets boring pretty quickly. As the melody progresses, the pitches may go up or down slowly or quickly. One can picture a line that goes up steeply when the melody suddenly jumps to a much higher note, or that goes down slowly when the melody gently falls. Such a line gives the *contour* or *shape* of the melodic line. You can often get a good idea of the shape of this line by looking at the melody as it is written on the staff, but you can also hear it as you listen to the music.
@@ -26,9 +23,7 @@ A melody that stays on the same [pitch](ch-03-pitch-sharp-flat-and-natural-notes
 Arch shapes (in which the melody rises and then falls) are easy to find in many melodies.
 
 You can also describe the shape of a melody verbally. For example, you can speak of a \"rising melody\" or of an \"arch-shaped\" phrase. Please see [The Shape of a Melody](https://cnx.org/content/m11832) for children\'s activities covering melodic contour.
-:::
 
-::: {#m11647-s7 .section}
 ## Melodic Motion
 
 Another set of useful terms describe how quickly a melody goes up and down. A melody that rises and falls slowly, with only small pitch changes between one note and the next, is *conjunct*. One may also speak of such a melody in terms of *step-wise* or *scalar* motion, since most of the [intervals](ch-32-interval.md) in the melody are half or whole [steps](ch-29-half-steps-and-whole-steps.md) or are part of a [scale](ch-30-major-keys-and-scales.md).
@@ -39,9 +34,6 @@ A melody that rises and falls quickly, with large [intervals](ch-32-interval.md)
 
 A melody may show conjuct motion, with small changes in pitch from one note to the next, or disjunct motion, with large leaps. Many melodies are an interesting, fairly balanced mixture of conjunct and disjunct motion.
 
-:::
-
-::: {#m11647-s2 .section}
 ## Melodic Phrases
 
 Melodies are often described as being made up of phrases. A musical *phrase* is actually a lot like a grammatical phrase. A phrase in a sentence (for example, \"into the deep, dark forest\" or \"under that heavy book\") is a group of words that make sense together and express a definite idea, but the phrase is not a complete sentence by itself. A melodic phrase is a group of notes that make sense together and express a definite melodic \"idea\", but it takes more than one phrase to make a complete melody.
@@ -61,9 +53,7 @@ One way that a composer keeps a piece of music interesting is by varying how str
 The rhythm of the first two phrases of "Auld Lang Syne" is the same, but both the melody and the harmony lead the first phrase to feel unfinished until it is answered by the second phrase. Note that both the melody and harmony of the second phrase end on the <a href="ch-30-major-keys-and-scales.md">tonic</a>, the "home" note and chord of the key.
 
 Of course, melodies don\'t always divide into clear, separated phrases. Often the phrases in a melody will run into each other, cut each other short, or overlap. This is one of the things that keeps a melody interesting.
-:::
 
-::: {#m11647-s3 .section}
 ## Motif
 
 Another term that usually refers to a piece of melody (although it can also refer to a [rhythm](ch-17-rhythm.md) or a [chord progression](ch-21-harmony.md)) is \"motif\". A *motif* is a short musical idea - shorter than a phrase - that occurs often in a piece of music. A short melodic idea may also be called a *motiv*, a *motive*, a *cell*, or a *figure*. These small pieces of melody will appear again and again in a piece of music, sometimes exactly the same and sometimes changed. When a motif returns, it can be slower or faster, or in a different key. It may return \"upside down\" (with the notes going up instead of down, for example), or with the pitches or rhythms altered.
@@ -78,15 +68,10 @@ Most figures and motifs are shorter than phrases, but some of the leitmotifs of 
 
 A melodic phrase based on the <a href="../images/cnx/0e9c4692a852de9fbece7964754434a1e815f987.midi">Siegfried leitmotif</a>, from Wagner's opera <strong>The Valkyrie</strong>.
 
-:::
-
-::: {#m11647-s4 .section}
 ## Melodies in Counterpoint
 
 [Counterpoint](ch-22-counterpoint.md) has more than one melody at the same time. This tends to change the rules for using and developing melodies, so the terms used to talk about contrapuntal melodies are different, too. For example, the melodic idea that is most important in a [fugue](ch-22-counterpoint.md) is called its *subject*. Like a motif, a subject has often changed when it reappears, sounding higher or lower, for example, or faster or slower. For more on the subject (pun intended), please see [Counterpoint](ch-22-counterpoint.md).
-:::
 
-::: {#m11647-s5 .section}
 ## Themes
 
 A longer section of melody that keeps reappearing in the music - for example, in a \"theme and variations\" - is often called a *theme*. Themes generally are at least one phrase long and often have several phrases. Many longer works of music, such as symphony movements, have more than one melodic theme.
@@ -96,10 +81,7 @@ A longer section of melody that keeps reappearing in the music - for example, in
 The <a href="../images/cnx/421279fbc084452d587ecacfbad093fbb3f26e89.midi">tune</a> of this theme will be very familiar to most people, but you may want to listen to the entire last movement of the symphony to hear the different ways that Beethoven uses the melody again and again.
 
 The musical scores for movies and television can also contain melodic *themes*, which can be developed as they might be in a symphony or may be used very much like operatic leitmotifs. For example, in the music John Williams composed for the **Star Wars** movies, there are melodic themes that are associated with the main characters. These themes are often complete melodies with many phrases, but a single phrase can be taken from the melody and used as a motif. A single phrase of [Ben Kenobi\'s Theme](../images/cnx/61ac530f31ee7743fc675f93571e88c754ca252b.midi), for example, can remind you of all the good things he stands for, even if he is not on the movie screen at the time.
-:::
 
-::: {#m11647-s6 .section}
 ## Suggestions for Presenting these Concepts to Children
 
 Melody is a particularly easy concept to convey to children, since attention to a piece of music is naturally drawn to the melody. If you would like to introduce some of these concepts and terms to children, please see [A Melody Activity](https://cnx.org/content/m11833), [The Shape of a Melody](https://cnx.org/content/m11832), [Melodic Phrases](https://cnx.org/content/m11879), and [Theme and Motif in Music](https://cnx.org/content/m11880).
-:::

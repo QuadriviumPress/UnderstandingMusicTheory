@@ -10,7 +10,6 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *Each type of voice and musical instrument has a characteristic pitch range.*
 
-::: {#m12381-id2553114 .section}
 ## Introduction
 
 The *range* of a voice or instrument is the set of [pitches](ch-03-pitch-sharp-flat-and-natural-notes.md), from lowest to highest, that it can sing or play. A range can be described using the appropriate [octave identification](ch-28-octaves-and-the-major-minor-tonal-system.md), for example, \"from one-line c to two-line g\". But it is often easiest to write the range on a staff, as the two notes at the high and low ends of the range.
@@ -21,9 +20,6 @@ A *register* is a distinctive part of a vocal or instrumental range. For example
 
 ![Music notation example](../images/cnx/402dd0fcd9295e3f332d3afc3f834bb36322a789.png)
 
-:::
-
-::: {#m12381-id2553200 .section}
 ## Vocal Ranges
 
 A typical choral arrangement divides women into higher and lower voices and men into higher or lower voices. Most voices can be assigned one of these four ranges, and this gives the composer four vocal lines to work with, which is usually enough. The four main vocal ranges are:
@@ -45,9 +41,6 @@ Arrangements for these four voices are labelled SATB (for Soprano Alto Tenor Bas
 
 Voices are as individual as faces; some altos will have a narrower or wider range, or the sweetest and most powerful part of their range in a different place than other altos. These are approximate, average ranges for each voice category.
 
-:::
-
-::: {#m12381-id2553355 .section}
 ## Instrumental Ranges
 
 The same terms used to identify vocal ranges are also often used to identify particular instruments. For example a bass [trombone](https://cnx.org/content/m12602) has a lower range than a tenor trombone, and an alto [saxophone](https://cnx.org/content/m12611) sounds higher than a tenor saxophone. Some other terms that are used to describe instrument ranges are:
@@ -62,11 +55,11 @@ Other instruments may be a mix of absolute and indefinite ranges. For example, o
 
 So it is sometimes useful to distinguish between a *possible range*, which includes the notes that a very experienced player can get, and a *practical range*, that includes all the notes that any competent player (including a good younger player) can get.
 
-::: {#m12381-id1163686163237 .note}
-**Note**
+:::{admonition} Note
+:name: m12381-id1163686163237
+:class: note
 
 Outside of the instrument's practical range, it may be a strain for even a very good player to play long or tricky passages. So if you are composing or arranging, it's a very good idea to be able to distinguish between these two ranges for the voices or instruments you include.
 :::
 
 Some sources even list the *power range* of an instrument or voice. This is the part of the range where the instrument or voice is particularly strong. It may be in the middle of the range, or at the top or bottom, but writing in the power range should guarantee that the part is easy to play (or sing), sounds clear and strong, and can be easily heard, even when many other instruments are playing.
-:::

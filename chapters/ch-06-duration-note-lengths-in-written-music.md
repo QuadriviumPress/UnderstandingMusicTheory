@@ -10,7 +10,6 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *In standard music notation, the duration (time length) of a particular note is defined by how long it lasts compared to a whole note.*
 
-::: {#m10945-s1 .section}
 ## The Shape of a Note
 
 In standard notation, a single musical sound is written as a *note*. The two most important things a written piece of music needs to tell you about a note are its pitch - how high or low it is - and its *duration* - how long it lasts.
@@ -29,14 +28,13 @@ If a note does not have head, it does not have one definite pitch. Such a note m
 
 The head of the note may be filled in (black), or not. The note may also have (or not) a stem, one or more flags, beams connecting it to other notes, or one or more dots following the head of the note. All of these things affect how much time the note is given in the music.
 
-::: {#m10945-id12339747 .note}
-**Note**
+:::{admonition} Note
+:name: m10945-id12339747
+:class: note
 
 A dot that is someplace other than next to the head of the note **does not affect the rhythm**. Other dots are [articulation](ch-16-articulation.md) marks. They may affect the actual length of the note (the amount of time it sounds), but do not affect the amount of time it must be given. (The extra time when the note could be sounding, but isn\'t, becomes an unwritten [rest](ch-07-duration-rest-length.md).) If this is confusing, please see the explanation in [articulation](ch-16-articulation.md).
 :::
-:::
 
-::: {#m10945-s2 .section}
 ## The Length of a Note
 
 ![Music notation example](../images/cnx/58f7babd6a79d85b58a149a716fd1b943e004d1d.png)
@@ -55,46 +53,49 @@ The notes connected with beams are easier to read quickly than the flagged notes
 
 You may have also noticed that the note lengths sound like fractions in arithmetic. In fact they work very much like fractions: two half notes will be equal to (last as long as) one whole note; four eighth notes will be the same length as one half note; and so on. (For classroom activities relating music to fractions, see [Fractions, Multiples, Beats, and Measures](https://cnx.org/content/m11807).)
 
-::: {#m10945-ex1a .example}
-**Example**
+:::{admonition} Example
+:name: m10945-ex1a
+:class: example
 
 ![Music notation example](../images/cnx/a4e3c4299b4df0cbc42338cbce821ba91aa2dea2.png)
 
 :::
 
-::: {#m10945-exer1a .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m10945-exer1a
+:class: exercise
 
-::: {#m10945-id21497376 .problem}
-**Question**
+::::{admonition} Question
+:name: m10945-id21497376
+:class: problem
 
 Draw the missing notes and fill in the blanks to make each side the same duration (length of time).
 
 ![Music notation example](../images/cnx/1f026bcc116aef253d1c52649ca5cfcf53b691e2.png)
 
-:::
+::::
 
-::: {#m10945-id13537995 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m10945-id13537995
+:class: solution
 
 ![Music notation example](../images/cnx/e420035b374f956c2c7e871076450ff828a83e6f.png)
 
-:::
+::::
 :::
 
 So how long does each of these notes actually last? That depends on a couple of things. A written note lasts for a certain amount of time measured in [beats](ch-08-time-signature.md). To find out exactly how many beats it takes, you must know the [time signature](ch-08-time-signature.md). And to find out how long a beat is, you need to know the [tempo](ch-13-tempo.md).
 
-::: {#m10945-examp2 .example}
-**Example**
+:::{admonition} Example
+:name: m10945-examp2
+:class: example
 
 ![Music notation example](../images/cnx/1da6a0c9f0312bd0155dbc94725a1e8649cc66d5.png)
 
 In any particular section of a piece of music, a half note is always twice as long as a quarter note. But how long each note actually lasts depends on the time signature and the tempo.
 
 :::
-:::
 
-::: {#m10945-s4 .section}
 ## More about Stems
 
 Whether a stem points up or down does not affect the note length at all. There are two basic ideas that lead to the rules for stem direction. One is that the music should be as easy as possible to read and understand. The other is that the notes should tend to be \"in the staff\" as much as reasonably possible.
@@ -105,7 +106,6 @@ Whether a stem points up or down does not affect the note length at all. There a
 3.  **Notes sharing a beam** - Again, generally you will want to use the stem direction of the note farthest from the center of the staff, to keep the beam near the staff.
 4.  **Different rhythms being played at the same time by the same player** - Clarity requires that you write one rhythm with stems up and the other stems down.
 5.  **Two parts for different performers written on the same staff** - If the parts have the same rhythm, they may be written as block chords. If they do not, the stems for one part (the \"high\" part or \"first\" part) will point up and the stems for the other part will point down. This rule is especially important when the two parts cross; otherwise there is no way for the performers to know that the \"low\" part should be reading the high note at that spot.
-:::
 
 ![Music notation example](../images/cnx/e99ec8a03615fb0497f77b5299866549ca529fb6.png)
 

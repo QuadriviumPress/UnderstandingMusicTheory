@@ -10,7 +10,6 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *For middle school and up, an explanation of how standing waves in musical instruments produce sounds with particular pitches and timbres.*
 
-::: {#m12413-s0 .section}
 ## What is a Standing Wave?
 
 Musical tones are produced by musical instruments, or by the voice, which, from a physics perspective, is a very complex [wind](https://cnx.org/content/m12364) instrument. So the physics of music is the physics of the kinds of sounds these instruments can make. What kinds of sounds are these? They are tones caused by standing waves produced in or on the instrument. So the properties of these standing waves, which are always produced in very specific groups, or series, have far-reaching effects on music theory.
@@ -33,8 +32,9 @@ This sort of orderliness is actually hard to get from water waves, but relativel
 
 In order to get the necessary constant reinforcement, the container has to be the perfect size (length) for a certain wavelength, so that waves bouncing back or being produced at each end reinforce each other, instead of interfering with each other and cancelling each other out. And it really helps to keep the container very narrow, so that you don\'t have to worry about waves bouncing off the sides and complicating things. So you have a bunch of regularly-spaced waves that are trapped, bouncing back and forth in a container that fits their wavelength perfectly. If you could watch these waves, it would not even look as if they are traveling back and forth. Instead, waves would seem to be appearing and disappearing regularly at exactly the same spots, so these trapped waves are called *standing waves*.
 
-::: {#m12413-id1165156267973 .note}
-**Note**
+:::{admonition} Note
+:name: m12413-id1165156267973
+:class: note
 
 Although standing waves are harder to get in water, the phenomenon does apparently happen very rarely in lakes, resulting in freak disasters. You can sometimes get the same effect by pushing a tub of water back and forth, but this is a messy experiment; you\'ll know you are getting a standing wave when the water suddenly starts sloshing much higher - right out of the tub!
 :::
@@ -46,9 +46,7 @@ For any narrow \"container\" of a particular length, there are plenty of possibl
 There is a whole set of standing waves, called <em>harmonics</em>, that will fit into any "container" of a specific length. This set of waves is called a <em>harmonic series</em>.
 
 Notice that it doesn\'t matter what the length of the fundamental is; the waves in the second harmonic must be half the length of the first harmonic; that\'s the only way they\'ll both \"fit\". The waves of the third harmonic must be a third the length of the first harmonic, and so on. This has a direct effect on the frequency and pitch of harmonics, and so it affects the basics of music tremendously. To find out more about these subjects, please see [Frequency, Wavelength, and Pitch](https://cnx.org/content/m11060), [Harmonic Series](https://cnx.org/content/m11118), or [Musical Intervals, Frequency, and Ratio](https://cnx.org/content/m11808).
-:::
 
-::: {#m12413-s1 .section}
 ## Standing Waves on Strings
 
 You may have noticed an interesting thing in the animation of standing waves: there are spots where the \"water\" goes up and down a great deal, and other spots where the \"water level\" doesn\'t seem to move at all. All standing waves have places, called *nodes*, where there is no wave motion, and *antinodes*, where the wave is largest. It is the placement of the nodes that determines which wavelengths \"fit\" into a musical instrument \"container\".
@@ -65,21 +63,24 @@ A string that's held very tightly at both ends can only vibrate at very particul
 
 The fundamental wave is the one that gives a string its [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md). But the string is making all those other possible vibrations, too, all at the same time, so that the actual vibration of the string is pretty complex. The other vibrations (the ones that basically divide the string into halves, thirds and so on) produce a whole series of *harmonics*. We don\'t hear the harmonics as separate notes, but we do hear them. They are what gives the string its rich, musical, string-like sound - its [timbre](ch-18-timbre.md). (The sound of a single frequency alone is a much more mechanical, uninteresting, and unmusical sound.) To find out more about harmonics and how they affect a musical sound, see [Harmonic Series](https://cnx.org/content/m11118).
 
-::: {#m12413-exer2a .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m12413-exer2a
+:class: exercise
 
-::: {#m12413-id1165156343679 .problem}
-**Question**
+::::{admonition} Question
+:name: m12413-id1165156343679
+:class: problem
 
 ::: {#m12413-prob2a}
 1.  How has the part of the string that vibrates changed?
 2.  How does this change the sound waves that the string makes?
 3.  How does this change the sound that is heard?
-:::
+::::
 :::
 
-::: {#m12413-id8069724 .solution}
-**Solution**
+:::{admonition} Solution
+:name: m12413-id8069724
+:class: solution
 
 1.  The part of the string that can vibrate is shorter. The finger becomes the new \"end\" of the string.
 2.  The new sound wave is shorter, so its frequency is higher.
@@ -91,9 +92,7 @@ When a finger holds the string down tightly, the finger becomes the new end of t
 
 :::
 :::
-:::
 
-::: {#m12413-s2 .section}
 ## Standing Waves in Wind Instruments
 
 The string disturbs the air molecules around it as it vibrates, producing sound waves in the air. But another great container for standing waves actually holds standing waves of air inside a long, narrow tube. This type of instrument is called an [aerophone](https://cnx.org/content/m11896#s22), and the most well-known of this type of instrument are often called [wind instruments](https://cnx.org/content/m11897#s1) because, although the instrument itself does vibrate a little, most of the sound is produced by standing waves in the column of air inside the instrument.
@@ -111,39 +110,40 @@ The standing waves in a wind instrument are a little different from a vibrating 
 The standing waves in the tubes are actually longitudinal sound waves. Here the displacement standing waves in [link] are shown instead as longitudinal air pressure waves. Each wave would be oscillating back and forth between the state on the right and the one on the left. See <a href="https://cnx.org/content/m12589">Standing Waves in Wind Instruments</a> for more explanation.
 
 The harmonics of wind instruments are also a little more complicated, since there are two basic shapes ([cylindrical](https://cnx.org/content/m12364#p1c) and [conical](https://cnx.org/content/m12364#p1c)) that are useful for wind instruments, and they have different properties. The standing-wave tube of a wind instrument also may be open at both ends, or it may be closed at one end (for a mouthpiece, for example), and this also affects the instrument. Please see [Standing Waves in Wind Instruments](https://cnx.org/content/m12589) if you want more information on that subject. For the purposes of understanding music theory, however, the important thing about standing waves in winds is this: the harmonic series they produce is essentially the same as the harmonic series on a string. In other words, the second harmonic is still half the length of the fundamental, the third harmonic is one third the length, and so on. (Actually, for reasons explained in [Standing Waves in Wind Instruments](https://cnx.org/content/m12589), some harmonics are \"missing\" in some wind instruments, but this mainly affects the [timbre](ch-18-timbre.md) and some aspects of playing the instrument. It does not affect the basic relationships in the harmonic series.)
-:::
 
-::: {#m12413-s3 .section}
 ## Standing Waves in Other Objects
 
 So far we have looked at two of the four main groups of musical instruments: chordophones and aerophones. That leaves [membranophones](https://cnx.org/content/m11896#s23) and [idiophones](https://cnx.org/content/m11896#s24). *Membranophones* are instruments in which the sound is produced by making a membrane vibrate; drums are the most familiar example. Most drums do not produce tones; they produce rhythmic \"noise\" (bursts of irregular waves). Some drums do have [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md), due to complex-patterned standing waves on the membrane that are reinforced in the space inside the drum. This works a little bit like the waves in tubes, above, but the waves produced on membranes, though very interesting, are too complex to be discussed here.
 
 *Idiophones* are instruments in which the body of the instrument itself, or a part of it, produces the original vibration. Some of these instruments (cymbals, for example) produce simple noise-like sounds when struck. But in some, the shape of the instrument - usually a tube, block, circle, or bell shape - allows the instrument to ring with a standing-wave vibration when you strike it. The standing waves in these carefully-shaped-and-sized idiophones - for example, the blocks on a xylophone - produce pitched tones, but again, the patterns of standing waves in these instruments are a little too complicated for this discussion. If a percussion instrument does produce pitched sounds, however, the reason, again, is that it is mainly producing harmonic-series [overtones](https://cnx.org/content/m11118).
 
-::: {#m12413-id9053211 .note}
-**Note**
+:::{admonition} Note
+:name: m12413-id9053211
+:class: note
 
 Although [percussion](https://cnx.org/content/m11897#s14) specializes in \"noise\"-type sounds, even instruments like snare drums follow the basic physics rule of \"bigger instrument makes longer wavelengths and lower sounds\". If you can, listen to a percussion player or section that is using snare drums, cymbals, or other percussion of the same type but different sizes. Can you hear the difference that size makes, as opposed to differences in [timbre](ch-18-timbre.md) produced by different types of drums?
 :::
 
-::: {#m12413-exer2b .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m12413-exer2b
+:class: exercise
 
-::: {#m12413-id8807052 .problem}
-**Question**
+::::{admonition} Question
+:name: m12413-id8807052
+:class: problem
 
 Some idiophones, like gongs, ring at many different pitches when they are struck. Like most drums, they don\'t have a particular pitch, but make more of a \"noise\"-type sound. Other idiophones, though, like xylophones, are designed to ring at more particular frequencies. Can you think of some other percussion instruments that get particular pitches? (Some can get enough different pitches to play a tune.)
-:::
+::::
 
-::: {#m12413-id1165156365571 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m12413-id1165156365571
+:class: solution
 
 ::: {#m12413-solu2b}
 - Chimes
 - All xylophone-type instruments, such as marimba, vibraphone, and glockenspiel
 - Handbells and other tuned bells
 - Steel pan drums
-:::
-:::
+::::
 :::
 :::

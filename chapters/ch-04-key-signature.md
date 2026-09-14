@@ -28,8 +28,9 @@ The sharps or flats always appear in the same order in all key signatures. This 
 
 If you do not know the name of the key of a piece of music, the key signature can help you find out. Assume for a moment that you are in a [major key](ch-30-major-keys-and-scales.md). If the key contains sharps, the name of the key is one [half step](ch-29-half-steps-and-whole-steps.md) higher than the last sharp in the key signature. If the key contains flats, the name of the key signature is the name of the second-to-last flat in the key signature.
 
-::: {#m10881-examp0a .example}
-**Example**
+:::{admonition} Example
+:name: m10881-examp0a
+:class: example
 
 the referenced item demonstrates quick ways to name the (major) key simply by looking at the key signature. In flat keys, the second-to-last flat names the key. In sharp keys, the note that names the key is one half step above the final sharp.
 
@@ -45,22 +46,25 @@ The key of C major has no sharps or flats. F major has one flat.
 
 If the music is in a minor key, it will be in the [relative minor](ch-31-minor-keys-and-scales.md) of the major key for that key signature. You may be able to tell just from listening (see [Major Keys and Scales](ch-30-major-keys-and-scales.md)) whether the music is in a major or minor key. If not, the best clue is to look at the final [chord](ch-21-harmony.md). That chord (and often the final note of the melody, also) will usually name the key.
 
-::: {#m10881-exer0a .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m10881-exer0a
+:class: exercise
 
-::: {#m10881-id1166921759937 .problem}
-**Question**
+::::{admonition} Question
+:name: m10881-id1166921759937
+:class: problem
 
 Write the key signatures asked for in the referenced item and name the major keys that they represent.
 
 ![Music notation example](../images/cnx/d64908821c909af8dd493167ab6281e4ae6aa542.png)
 
-:::
+::::
 
-::: {#m10881-id1166916155046 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m10881-id1166916155046
+:class: solution
 
 ![Music notation example](../images/cnx/67b0b986ffc1cbcda11f6d128a847ab6c2455b65.png)
 
-:::
+::::
 :::

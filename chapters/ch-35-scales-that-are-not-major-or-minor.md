@@ -10,7 +10,6 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 *There are many musical scales that cannot be classified as major or minor, including chromatic, whole-tone, pentatonic, blues, and various scales common to Non-Western music.*
 
-::: {#m11636-s0 .section}
 ## Introduction
 
 Sounds - ordinary, everyday \"noises\" - come in every conceivable [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md) and groups of pitches. In fact, the essence of noise, \"white noise\", is basically every pitch at once, so that no particular pitch is heard.
@@ -19,8 +18,9 @@ One of the things that makes music pleasant to hear and easy to \"understand\" i
 
 The set of expected pitches for a piece of music can be arranged into a *scale*. In a scale, the pitches are usually arranged from lowest to highest (or highest to lowest), in a pattern that usually repeats within every [octave](ch-28-octaves-and-the-major-minor-tonal-system.md).
 
-::: {#m11636-id4606593 .note}
-**Note**
+:::{admonition} Note
+:name: m11636-id4606593
+:class: note
 
 In some kinds of music, the notes of a particular scale are the only notes allowed in a given piece of music. In other music traditions, notes from outside the scale ([accidentals](ch-03-pitch-sharp-flat-and-natural-notes.md)) are allowed, but are usually much less common than the scale notes.
 :::
@@ -29,14 +29,13 @@ The set of pitches, or notes, that are used, and their relationships to each oth
 
 Some of the more commonly used scales that are not major or minor are introduced here. Pentatonic scales are often associated with eastern Asia, but many other music traditions also use them. Blues scales, used in blues, jazz, and other African-American traditions, grew out of a compromise between European and African scales. Some of the scales that sound \"exotic\" to the Western ear are taken from the musical traditions of eastern Europe, the Middle East, and western Asia. Microtones can be found in some traditional musics (for example, [Indian classical music](https://cnx.org/content/m12459)) and in some modern [art](ch-24-classifying-music.md) music.
 
-::: {#m11636-id3589916 .note}
-**Note**
+:::{admonition} Note
+:name: m11636-id3589916
+:class: note
 
 Some music traditions, such as Indian and medieval European, use modes or ragas, which are not quite the same as scales. Please see [Modes and Ragas.](ch-45-modes-and-ragas.md)
 :::
-:::
 
-::: {#m11636-s5 .section}
 ## Scales and Western Music
 
 The [Western](ch-24-classifying-music.md) musical tradition that developed in Europe after the middle ages is based on major and minor scales, but there are other scales that are a part of this tradition.
@@ -53,47 +52,51 @@ In a *whole tone scale*, every interval is a [whole step](ch-29-half-steps-and-w
 
 Because all the intervals are the same, it doesn't matter much where you begin a chromatic or whole tone scale. For example, this scale would contain the same notes whether you start it on C or E.
 
-::: {#m11636-element-339 .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m11636-element-339
+:class: exercise
 
-::: {#m11636-id3387074 .problem}
-**Question**
+::::{admonition} Question
+:name: m11636-id3387074
+:class: problem
 
 There is basically only one chromatic scale; you can start it on any note, but the pitches will end up being the same as the pitches in any other chromatic scale. There are basically two possible whole tone scales. Beginning on a b, write a whole tone scale that uses a different pitches than the one in the referenced item. If you need staff paper, you can download this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf).
-:::
+::::
 
-::: {#m11636-id7643267 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m11636-id7643267
+:class: solution
 
 ![Music notation example](../images/cnx/c8bb1260bacd706b374ec56e203579a2ed86f2a1.png)
 
 This whole tone scale contains the notes that are not in the whole tone scale in [link].
 
-:::
+::::
 :::
 
-::: {#m11636-element-868 .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m11636-element-868
+:class: exercise
 
-::: {#m11636-id4241553 .problem}
-**Question**
+::::{admonition} Question
+:name: m11636-id4241553
+:class: problem
 
 Now write a whole tone scale beginning on an a flat. Is this scale essentially the same as the one in the referenced item or the one in the referenced item?
-:::
+::::
 
-::: {#m11636-id3955711 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m11636-id3955711
+:class: solution
 
 ![Music notation example](../images/cnx/2b2d87c3a8bf13953b7eaf68268f57cd03661ea2.png)
 
 The flats in one scale are the <a href="ch-05-enharmonic-spelling.md">enharmonic</a> equivalents of the sharps in the other scale.
 
 Assuming that octaves don\'t matter - as they usually don\'t in [Western](ch-24-classifying-music.md) music theory, this scale shares all of its possible pitches with the scale in the referenced item.
-:::
-:::
+::::
 :::
 
-::: {#m11636-s1 .section}
 ## Pentatonic Scales
 
 In Western music, there are twelve pitches within each [octave](ch-28-octaves-and-the-major-minor-tonal-system.md). (The thirteenth note starts the next octave.) But in a [tonal](ch-24-classifying-music.md) piece of music only seven of these notes, the seven notes of a major or minor scale, are used often.
@@ -118,24 +121,25 @@ This pentatonic scale is not a transposed version of [link].It has a different s
 
 The point here is that music based on the pentatonic scale in the referenced item will sound very different from music based on the pentatonic scale in the referenced item, because the relationships between the notes are different, much as music in a minor key is noticeably different from music in a major key. So there are quite a few different possible pentatonic scales that will produce a recognizably \"unique sound\", and many of these possible five-note scales have been named and used in various music traditions around the world.
 
-::: {#m11636-element-796 .exercise}
-**Practice**
+:::{admonition} Practice
+:name: m11636-element-796
+:class: exercise
 
-::: {#m11636-id4914956 .problem}
-**Question**
+::::{admonition} Question
+:name: m11636-id4914956
+:class: problem
 
 To get a feeling for the concepts in this section, try composing some short pieces using the pentatonic scales given in the referenced item and in the referenced item. You may use more than one octave of each scale, but use only one scale for each piece. As you are composing, listen for how the constraints of using only those five notes, with those pitch relationships, affect your music. See if you can play your the referenced item composition in a different key, for example, using the scale in the referenced item.
-:::
+::::
 
-::: {#m11636-id4901647 .solution}
-**Solution**
+::::{admonition} Solution
+:name: m11636-id4901647
+:class: solution
 
 If you can, have your teacher listen to your compositions.
-:::
-:::
+::::
 :::
 
-::: {#m11636-s6 .section}
 ## Dividing the Octave, More or Less
 
 Any scale will list a certain number of notes within an octave. For major and minor scales, there are seven notes; for pentatonic, five; for a chromatic scale, twelve. Although some divisions are more common than others, any division can be imagined, and many are used in different musical traditions around the world. For example, the classical music of India recognizes twenty-two different possible pitches within an octave; each raga uses five, six, or seven of these possible pitches. (Please see [Indian Classical Music: Tuning and Ragas](https://cnx.org/content/m12459) for more on this.) And there are some traditions in Africa that use six or eight notes within an octave. Listen to one possible eight-tone, or [octatonic scale](../images/cnx/9a5069e36459ad74027924ff66ccdc100fc1e3b6.midi).
@@ -145,9 +149,7 @@ Any scale will list a certain number of notes within an octave. For major and mi
 Many Non-Western traditions, besides using different scales, also use different [tuning systems](ch-44-tuning-systems.md); the intervals in the scales may involve *quarter tones* (a half of a half step), for example, or other intervals we don\'t use. Even trying to write them in common notation can be a bit misleading.
 
 *Microtones* are intervals smaller than a half step. Besides being necessary to describe the scales and tuning systems of many Non-Western traditions, they have also been used in modern Western classical music, and are also used in African-American traditions such as jazz and blues. As of this writing, the [Huygens-Fokker Foundation](http://www.xs4all.nl/~huygensf/english/index.html) was a good place to start looking for information on microtonal music.
-:::
 
-::: {#m11636-s2 .section}
 ## Constructing a Blues Scale
 
 Blues scales are closely related to pentatonic scales. (Some versions are pentatonic.) Rearrange the pentatonic scale in the referenced item above so that it begins on the C, and add an F sharp in between the F and G, and you have a commonly used version of the blues scale. Listen to this [blues scale](../images/cnx/2f1710f0db1493fcbf31ba185c645a84f2ac4b98.midi).
@@ -156,15 +158,10 @@ Blues scales are closely related to pentatonic scales. (Some versions are pentat
 
 Blues scales are closely related to pentatonic scales.
 
-:::
-
-::: {#m11636-s3 .section}
 ## Modes and Ragas
 
 Many music traditions do not use scales. The most familiar of these to the [Western](ch-24-classifying-music.md) listener are medieval chant and the classical music of India. In these and other modal traditions, the rules for constructing a piece of music are quite different than the rules for music that is based on a scale. Please see [Modes and Ragas](ch-45-modes-and-ragas.md) for more information.
-:::
 
-::: {#m11636-s4 .section}
 ## Other Scales
 
 There are many, many other possible scales that are not part of the major-minor system. Some, like pentatonic and octatonic scales, have fewer or more notes per octave, but many have seven tones, just as a major scale does. A scale may be chosen or constructed by a composer for certain intriguing characteristics, for the types of melodies or harmonies that the scale enables, or just for the interesting or pleasant sound of music created using the scale.
@@ -182,5 +179,3 @@ Some scales are loosely based on the music of other cultures, and are used when 
 You may want to experiment with some of the many scales possible. Listen to one version each of: [\"diminished\" scale](../images/cnx/cbc1e22db9e80f0fae8731633f7995d47ce2474d.midi), [\"enigmatic\" scale](../images/cnx/0e9da78349e5cc716466642436fff15e0869e708.midi), [\"Romanian\" Scale](../images/cnx/752150898babbb3fbf230b222865ff60c8d7533c.midi), [\"Persian\" scale](../images/cnx/71f77c9244fe93a36530bcddea0cfd0f9e332e33.midi) and [\"Hungarian Major\" Scale](../images/cnx/230f369a5338a8fed980099fd5adcef5fe77401a.midi). For even more possibilities, try a web search for \"exotic scales\"; or try inventing your own scales and using them in compositions and improvisations.
 
 ![Music notation example](../images/cnx/58719aa93dd4e7023d27131cafd89ba42c439f94.png)
-
-:::

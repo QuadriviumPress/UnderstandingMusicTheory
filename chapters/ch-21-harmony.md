@@ -14,8 +14,9 @@ When you have more than one [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md)
 
 But as soon as there is more than one pitch sounding at a time, you have harmony. Even if nobody is actually playing chords, or even if the notes are part of independent [contrapuntal](ch-22-counterpoint.md) lines, you can hear the relationship of any notes that happen at the same time, and it is this relationship that makes the harmony.
 
-::: {#m11654-id1171504323050 .note}
-**Note**
+:::{admonition} Note
+:name: m11654-id1171504323050
+:class: note
 
 Harmony does not have to be particularly \"harmonious\"; it may be quite [dissonant](ch-38-consonance-and-dissonance.md), in fact. For the purpose of definitions, the important fact is the notes sounding at the same time.
 :::
