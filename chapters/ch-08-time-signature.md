@@ -12,7 +12,7 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 In [common notation](ch-01-the-staff.md), the *time signature* appears at the beginning of a piece of music, right after the [key signature](ch-04-key-signature.md). Unlike the key signature, which is on every [staff](ch-01-the-staff.md), the time signature will not appear again in the music unless the meter changes. The [meter](ch-09-meter.md) of a piece is a repetitive rhythmic pulse that underlies the music. The time signature is the symbol that tells you what meter is being used in a piece of music and what [types of note](ch-06-duration-note-lengths-in-written-music.md)) are being used to write it out.
 
-![Music notation example](../images/cnx/d50860c797fd51831afff0c564476d8e63f8143b.png)
+![A treble clef followed by a three-sharp key signature and a four-four time signature.](../images/notation/signature-order.svg)
 
 The time signature appears at the beginning of the piece of music, right after the clef symbol and key signature.
 
@@ -37,7 +37,7 @@ When music is organized into beats, it makes sense to write it down that way. In
 
 In most metered music, some of the beats are stronger (louder, more powerful, more noticeable, or busier), than others, and there is a regular pattern of stronger and weaker beats, for example, strong-weak-weak-strong-weak-weak, or strong-weak-strong-weak. So the beats are organized even further by grouping them into *bars*, or *measures*. (The two words mean the same thing.) For example, for music with a beat pattern of strong-weak-weak-strong-weak-weak, or 1-2-3-1-2-3, a measure would have three beats in it. The *time signature* tells you two things: how many beats there are in each measure, and what [type of note](ch-06-duration-note-lengths-in-written-music.md) gets a beat.
 
-![Music notation example](../images/cnx/2f9271d0daa8bc0f5e23bb4724651674a7814787.png)
+![A three-four time signature labelled to show beats per measure and the note value receiving one beat.](../images/notation/time-signature-anatomy.svg)
 
 This time signature means that there are three quarter notes (or any combination of notes that equals three quarter notes) in every measure. A piece with this time signature would be "in three four time" or just "in three four".
 
@@ -94,7 +94,7 @@ You may have noticed that the time signature looks a little like a fraction in a
 
 A few time signatures don\'t have to be written as numbers. Four four time is used so much that it is often called *common time*, written as a bold \"C\". When both fours are \"cut\" in half to twos, you have *cut time*, written as a \"C\" cut by a vertical slash.
 
-![Music notation example](../images/cnx/475b22aebf81fa1ea80faef5e6f79f78d2ffa09d.png)
+![Common-time and cut-time symbols compared with four-four and two-two numerical time signatures.](../images/notation/common-and-cut-time.svg)
 
 ## Counting and Conducting
 

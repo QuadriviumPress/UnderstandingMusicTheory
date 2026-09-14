@@ -14,7 +14,7 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 In [common notation](ch-01-the-staff.md), any note can be [sharp, flat, or natural](ch-03-pitch-sharp-flat-and-natural-notes.md). A sharp symbol raises the [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md) (of a natural note) by one [half step](ch-29-half-steps-and-whole-steps.md); a flat symbol lowers it by one half step.
 
-![Music notation example](../images/cnx/25354c60c6686014216c73df293a583d4275aca5.png)
+![D sharp, D flat, and D natural written on a treble staff with their accidental symbols labelled.](../images/notation/sharp-flat-natural.svg)
 
 Why do we bother with these symbols? There are twelve pitches available within any [octave](ch-28-octaves-and-the-major-minor-tonal-system.md). We could give each of those twelve pitches its own name (A, B, C, D, E, F, G, H, I, J, K, and L) and its own line or space on a staff. But that would actually be fairly inefficient, because most music is in a particular [key](ch-30-major-keys-and-scales.md). And music that is in a [major](ch-30-major-keys-and-scales.md) or [minor](ch-31-minor-keys-and-scales.md) key will tend to use only seven of those twelve notes. So music is easier to read if it has only lines, spaces, and notes for the seven pitches it is (mostly) going to use, plus a way to write the occasional notes that are not in the key.
 
@@ -26,7 +26,7 @@ Seven of the twelve possible notes in each <a href="ch-28-octaves-and-the-major-
 
 Because most of the natural notes are two half steps apart, there are plenty of pitches that you can only get by naming them with either a flat or a sharp (on the keyboard, the \"black key\" notes). For example, the note in between D natural and E natural can be named either D sharp or E flat. These two names look very different on the staff, but they are going to sound exactly the same, since you play both of them by pressing the same black key on the piano.
 
-![Music notation example](../images/cnx/83d12745a48c3a3f1f65ab8b3f003a09c8a1e460.png)
+![D sharp and E flat written differently on a treble staff although they sound the same on a piano.](../images/notation/enharmonic-d-sharp-e-flat.svg)
 
 D sharp and E flat look very different when written in common notation, but they sound exactly the same when played on a piano.
 
@@ -84,7 +84,7 @@ The E flat major and D sharp major scales sound the same on the piano, although 
 
 Since the scales are the same, D sharp major and E flat major are also *enharmonic keys*. Again, their key signatures will look very different, but music in D sharp will not be any higher or lower than music in E flat.
 
-![Music notation example](../images/cnx/cbfa55d933eebda424353b4e388f6efa93374438.png)
+![The three-flat E-flat major and theoretical D-sharp major key signatures, which are enharmonic.](../images/notation/enharmonic-key-signatures.svg)
 
 The key signatures for E flat and D sharp look very different, but would sound the same on a keyboard.
 

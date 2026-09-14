@@ -50,7 +50,7 @@ A slur marking indicates no articulation - no break in the sound - between notes
 
 A *portamento* is a smooth glide between the two notes, including all the [pitches](ch-03-pitch-sharp-flat-and-natural-notes.md) in between. For some instruments, like [violin](https://cnx.org/content/m13437) and [trombone](https://cnx.org/content/m12602), this includes even the pitches in between the written notes. For other instruments, such as [guitar](https://cnx.org/content/m12745), it means sliding through all of the possible notes between the two written pitches.
 
-![Music notation example](../images/cnx/22b5ae512ec83d6deb1ceb4ddee6e040e09b7d52.png)
+![Two notes of the same pitch joined by a tie across a barline.](../images/notation/tie-example.svg)
 
 Although unusual in traditional [common notation](ch-01-the-staff.md), a type of portamento that includes only one written pitch can be found in some styles of music, notably jazz, blues, and rock. As the notation suggests, the proper performance of *scoops* and *fall-offs* requires that the portamento begins (in scoops) or ends (in fall-offs) with the slide itself, rather than with a specific note.
 
@@ -60,6 +60,6 @@ The notation for scoops and fall-offs has not been standardized, but either one 
 
 Some articulations may be some combination of staccato, legato, and accent. *Marcato*, for example means \"marked\" in the sense of \"stressed\" or \"noticeable\". Notes marked marcato have enough of an accent and/or enough space between them to make each note seem stressed or set apart. They are usually longer than staccato but shorter than legato. Other notes may be marked with a combination of articulation symbols, for example legato with accents. As always, the best way to perform such notes depends on the instrument and the style of the music.
 
-![Music notation example](../images/cnx/7c179b36f452ae1939fc4bfc193fb62e59a75154.png)
+![A phrase demonstrating staccato, tenuto, accents, and marcato articulation marks.](../images/notation/articulation-sampler.svg)
 
 Plenty of music has no articulation marks at all, or marks on only a few notes. Often, such music calls for notes that are a little more separate or defined than legato, but still nowhere as short as staccato. Mostly, though, it is up to the performer to know what is considered proper for a particular piece. For example, most ballads are sung legato, and most marches are played fairly staccato or marcato, whether they are marked that way or not. Furthermore, singing or playing a [phrase](ch-19-melody.md) with musicianship often requires knowing which notes of the phrase should be legato, which should be more separate, where to add a little portamento, and so on. This does not mean the best players consciously decide how to play each note. Good articulation comes naturally to the musician who has mastered the instrument and the style of the music.

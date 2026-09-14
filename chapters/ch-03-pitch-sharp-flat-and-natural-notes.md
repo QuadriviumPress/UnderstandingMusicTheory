@@ -18,7 +18,7 @@ The natural notes name the white keys on a keyboard.
 
 But in [Western](ch-24-classifying-music.md) music there are twelve notes in each octave that are in common use. How do you name the other five notes (on a keyboard, the black keys)?
 
-![Music notation example](../images/cnx/7bdb702ae46b9f046bc9e058e4fb2172d4d4a597.png)
+![Sharp, natural, and flat symbols shown above a staff with D-sharp, D-natural, and D-flat notes.](../images/notation/accidental-symbols.svg)
 
 Sharp, flat, and natural signs can appear either in the <a href="ch-04-key-signature.md">key signature</a>, or right in front of the note that they change.
 
@@ -34,7 +34,7 @@ G sharp and A flat sound the same. E sharp and F natural sound the same.
 
 Sharp and flat signs can be used in two ways: they can be part of a [key signature](ch-04-key-signature.md), or they can mark accidentals. For example, if most of the C\'s in a piece of music are going to be sharp, then a sharp sign is put in the \"C\" space at the beginning of the [staff](ch-01-the-staff.md), in the key signature. If only a few of the C\'s are going to be sharp, then those C\'s are marked individually with a sharp sign right in front of them. Pitches that are not in the key signature are called *accidentals*.
 
-![Music notation example](../images/cnx/d5fbd204f80fa9fe24ff054c8d36e40421292834.png)
+![A key signature with C sharp and later C notes showing the difference between a key signature and an accidental.](../images/notation/key-signature-accidentals.svg)
 
 When a sharp sign appears in the C space in the key signature, all C's are sharp unless marked as accidentals.
 

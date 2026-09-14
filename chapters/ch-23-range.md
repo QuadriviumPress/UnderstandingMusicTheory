@@ -18,7 +18,7 @@ A piece of music, or one performer\'s part in that piece, may also be described 
 
 A *register* is a distinctive part of a vocal or instrumental range. For example, singers may speak of the *head register*, in the upper part of their range, and the *chest register* in the lower part of their range. These two registers sound and feel very different, and the singer may have even have two distinct tessituras, one in each register. The large range of the [clarinet](https://cnx.org/content/m12604) is also divided into distinctive registers with different capabilities and very different [timbres](ch-18-timbre.md). Even when an instrument does not have a very large variation in timbre over its range, its players may speak of the difficulty of \"playing in the high register\" or a \"dull timbre in the low register\".
 
-![Music notation example](../images/cnx/402dd0fcd9295e3f332d3afc3f834bb36322a789.png)
+![Two whole notes from low C to high G connected by a red line to illustrate musical range.](../images/notation/vocal-range-example.svg)
 
 ## Vocal Ranges
 

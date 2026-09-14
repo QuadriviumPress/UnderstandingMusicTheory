@@ -1,0 +1,107 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import process from 'node:process';
+import { fileURLToPath, pathToFileURL } from 'node:url';
+import { JSDOM } from 'jsdom';
+import * as VF from 'vexflow';
+
+const root = process.cwd();
+const definitionsDirectory = path.join(root, 'notation', 'definitions');
+const outputDirectory = path.join(root, 'images', 'notation');
+const namespace = 'http://www.w3.org/2000/svg';
+const bravuraSource = fs.readFileSync(path.join(root, 'node_modules', 'vexflow', 'build', 'esm', 'src', 'fonts', 'bravura.js'), 'utf8');
+const bravuraDataUri = bravuraSource.match(/export const Bravura = '([^']+)'/)?.[1];
+if (!bravuraDataUri) throw new Error('Unable to load VexFlow Bravura font.');
+
+function element(document, name, attributes = {}, content) {
+  const node = document.createElementNS(namespace, name);
+  for (const [key, value] of Object.entries(attributes)) {
+    if (value !== undefined) node.setAttribute(key, String(value));
+  }
+  if (content !== undefined) node.textContent = content;
+  return node;
+}
+
+function createOverlay(document, svg) {
+  const layer = element(document, 'g', { class: 'notation-overlay' });
+  svg.append(layer);
+  const append = (name, attributes, content) => layer.append(element(document, name, attributes, content));
+  return {
+    line(x1, y1, x2, y2, attributes = {}) { append('line', { x1, y1, x2, y2, ...attributes }); },
+    circle(cx, cy, r, attributes = {}) { append('circle', { cx, cy, r, ...attributes }); },
+    ellipse(cx, cy, rx, ry, attributes = {}) { append('ellipse', { cx, cy, rx, ry, ...attributes }); },
+    path(d, attributes = {}) { append('path', { d, ...attributes }); },
+    text(value, x, y, attributes = {}) {
+      String(value).split('\n').forEach((line, index) => append('text', {
+        x,
+        y: y + index * Number(attributes['data-line-height'] ?? 22),
+        'font-family': 'system-ui, sans-serif',
+        'font-size': 16,
+        ...attributes,
+        'data-line-height': undefined,
+      }, line));
+    },
+  };
+}
+
+async function loadDefinitions() {
+  const files = fs.readdirSync(definitionsDirectory).filter((file) => file.endsWith('.mjs')).sort();
+  const groups = await Promise.all(files.map(async (file) => {
+    const module = await import(pathToFileURL(path.join(definitionsDirectory, file)).href);
+    const definitions = module.definitions ?? [module.definition];
+    if (!definitions.length || definitions.some((definition) => !definition?.id || typeof definition.render !== 'function')) {
+      throw new Error(`Invalid notation definition: ${file}`);
+    }
+    return definitions;
+  }));
+  return groups.flat();
+}
+
+function render(definition) {
+  const dom = new JSDOM('<!doctype html><html><body><div id="score"></div></body></html>');
+  const previousDocument = globalThis.document;
+  const previousWindow = globalThis.window;
+  globalThis.document = dom.window.document;
+  globalThis.window = dom.window;
+  // VexFlow uses an offscreen canvas only for text metrics, including when it
+  // renders SVG. JSDOM intentionally omits Canvas; deterministic metrics keep
+  // the static renderer dependency-free and make layout repeatable in CI.
+  dom.window.HTMLCanvasElement.prototype.getContext = () => ({
+    font: '',
+    measureText: (text) => ({
+      width: String(text).length * 8,
+      actualBoundingBoxAscent: 10,
+      actualBoundingBoxDescent: 3,
+    }),
+  });
+  try {
+    const host = dom.window.document.getElementById('score');
+    const renderer = new VF.Renderer(host, VF.Renderer.Backends.SVG);
+    renderer.resize(definition.width, definition.height);
+    const context = renderer.getContext();
+    const svg = host.querySelector('svg');
+    svg.setAttribute('viewBox', `0 0 ${definition.width} ${definition.height}`);
+    svg.setAttribute('role', 'img');
+    svg.setAttribute('aria-labelledby', `${definition.id}-title ${definition.id}-description`);
+    svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
+    svg.prepend(element(dom.window.document, 'style', {}, `@font-face{font-family:Bravura;src:url(${bravuraDataUri}) format('woff2');}`));
+    svg.prepend(element(dom.window.document, 'desc', { id: `${definition.id}-description` }, definition.alt));
+    svg.prepend(element(dom.window.document, 'title', { id: `${definition.id}-title` }, definition.id.replaceAll('-', ' ')));
+    definition.render({ VF, context, overlay: createOverlay(dom.window.document, svg) });
+    return `<?xml version="1.0" encoding="UTF-8"?>\n${svg.outerHTML}\n`;
+  } finally {
+    globalThis.document = previousDocument;
+    globalThis.window = previousWindow;
+    dom.window.close();
+  }
+}
+
+const definitions = await loadDefinitions();
+const requested = process.argv.slice(2);
+const selected = requested.length ? definitions.filter((definition) => requested.includes(definition.id)) : definitions;
+if (requested.length && selected.length !== requested.length) throw new Error('Unknown notation definition requested.');
+fs.mkdirSync(outputDirectory, { recursive: true });
+for (const definition of selected) {
+  fs.writeFileSync(path.join(outputDirectory, definition.output), render(definition));
+  console.log(`Rendered ${definition.id}`);
+}

@@ -20,7 +20,7 @@ If the repeated part is very small - only one or two measures, for example - the
 
 For repeated sections of medium length - usually four to thirty-two measures - *repeat dots* with or without endings are the most common markings. Dots to the right of a [double bar line](ch-01-the-staff.md) begin the repeated section; dots to the left of a double bar line end it. If there are no beginning repeat dots, you should go all the way back to the beginning of the music and repeat from there.
 
-![Music notation example](../images/cnx/b4c37691fafd379d87d5be52dc7271c4a6364cba.png)
+![Repeat barlines showing a return to the beginning and a repeated section enclosed by repeat signs.](../images/notation/repeat-barlines.svg)
 
 If there are no extra instructions, a repeated section should be played twice. Occasionally you will see extra instructions over the repeat dots, for example to play the section "3x" (three times).
 

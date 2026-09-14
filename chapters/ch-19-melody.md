@@ -18,7 +18,7 @@ Melody is one of the most basic elements of music. A note is a sound with a part
 
 A melody that stays on the same [pitch](ch-03-pitch-sharp-flat-and-natural-notes.md) gets boring pretty quickly. As the melody progresses, the pitches may go up or down slowly or quickly. One can picture a line that goes up steeply when the melody suddenly jumps to a much higher note, or that goes down slowly when the melody gently falls. Such a line gives the *contour* or *shape* of the melodic line. You can often get a good idea of the shape of this line by looking at the melody as it is written on the staff, but you can also hear it as you listen to the music.
 
-![Music notation example](../images/cnx/c32e677198a253273e91fa742ab010574fb28de7.png)
+![A melody that rises and then falls, with a red curve tracing its contour.](../images/notation/melodic-contour.svg)
 
 Arch shapes (in which the melody rises and then falls) are easy to find in many melodies.
 

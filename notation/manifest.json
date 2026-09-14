@@ -1,0 +1,940 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": null,
+  "figures": {
+    "00081e8549fa81c9cc33f0859bf191fb238b07bf.png": {
+      "status": "vexflow-overlay",
+      "definition": "notation-directions",
+      "output": "images/notation/notation-directions.svg"
+    },
+    "00c946c0859714899a77c874e8611d5f5d6d77ae.png": {
+      "status": "unclassified"
+    },
+    "00f13232da90fddc8e6cd6c5bf22411c54ba182f.png": {
+      "status": "unclassified"
+    },
+    "018eaacd044b0ae816385df52c97804730172e7c.png": {
+      "status": "unclassified"
+    },
+    "0262dfc15f0324031344f9242aab78f616fd4a53.png": {
+      "status": "unclassified"
+    },
+    "02b3dcafe15c45a0dd5bc1c2261ba0498de65c9f.png": {
+      "status": "unclassified"
+    },
+    "02df34c31ca1f7c64cc2059d3a8fcfc91afed439.png": {
+      "status": "unclassified"
+    },
+    "03b7366048cf2260192eef50e9284ac1644a9b26.png": {
+      "status": "unclassified"
+    },
+    "03fa0af783198b5c02044abfa9c9d47b3f5dafb9.png": {
+      "status": "unclassified"
+    },
+    "04927277898bb7083653a273fe8b6f3fd515161e.png": {
+      "status": "unclassified"
+    },
+    "04f1d4ac48717164428426cac4f806a7c27c9e16.png": {
+      "status": "unclassified"
+    },
+    "05a8015fb8b2a22d60955029ef37cd2baf8b8a71.png": {
+      "status": "unclassified"
+    },
+    "05e97a4414d04034d698a706575306327e60f014.png": {
+      "status": "unclassified"
+    },
+    "08d3f79041cd4535ab484cde32f313555b39adcd.png": {
+      "status": "unclassified"
+    },
+    "09cc6019fdbc5e06c0d4ab70c6ce8e3af6fc10ce.png": {
+      "status": "unclassified"
+    },
+    "0b031fe9771692a9cb4b3ddc90a324d2f884c502.png": {
+      "status": "unclassified"
+    },
+    "0b1029cc850a654716e6659bf7f5869f6137d694.png": {
+      "status": "unclassified"
+    },
+    "0bf05d9e775798258180a99a2ffd159ebd3e4e85.png": {
+      "status": "unclassified"
+    },
+    "0c0315eb934bcecb3beda30e35080268075e6b7a.png": {
+      "status": "unclassified"
+    },
+    "0c0f2770038f60cadb688d1776c0bb6ed2dabc0c.png": {
+      "status": "unclassified"
+    },
+    "0ca729006239aff32bf84829c3726bf48dee2249.png": {
+      "status": "unclassified"
+    },
+    "0d1135ce7bd720e0ae9367bea25fb7b8dca927ea.png": {
+      "status": "unclassified"
+    },
+    "0d59f7d0976d9c0cd647cb7c33601359c96c63b0.png": {
+      "status": "unclassified"
+    },
+    "0da96940e079272e14f867fb6afe50aab934db38.png": {
+      "status": "vexflow-overlay",
+      "definition": "gradual-dynamics",
+      "output": "images/notation/gradual-dynamics.svg"
+    },
+    "0faca70af58c13dea96cb6962daf2ca357b8ebee.png": {
+      "status": "unclassified"
+    },
+    "1064d35194f9c5ffefc3f50c0ca0e338f6426d44.png": {
+      "status": "unclassified"
+    },
+    "12f8d342927b1b8031f704ebab230367719e09d7.png": {
+      "status": "unclassified"
+    },
+    "13ccf02d28b0b91b988f28de078f3c1d6e016ed7.png": {
+      "status": "unclassified"
+    },
+    "13d3ec84ab691b3c6fb1d0b65e681e8ac17a4186.png": {
+      "status": "unclassified"
+    },
+    "146dfa0726ec0516d4e0257c74b5778ccba89008.png": {
+      "status": "unclassified"
+    },
+    "167319e65873b522367d26f5d108463bb0156321.png": {
+      "status": "unclassified"
+    },
+    "16b01d3271b27e709b1fbdc483fdd09e7770e0b9.png": {
+      "status": "unclassified"
+    },
+    "17e780a24ae09def5583b27898930f3dd936bfa3.png": {
+      "status": "unclassified"
+    },
+    "1a40746eda2587a243368245b5d05212ff77bb72.png": {
+      "status": "unclassified"
+    },
+    "1bc5f6dbecf2982d0827b34a0a80bb2de1c8d0ee.png": {
+      "status": "unclassified"
+    },
+    "1bfb97518f1715dcec30606eeb7c871841e687fc.png": {
+      "status": "unclassified"
+    },
+    "1c02351a802600540e0111b6209222fb77641a53.png": {
+      "status": "unclassified"
+    },
+    "1c0318c0e18cbf5f0a591a3d5d6fceb2bf48a3ac.png": {
+      "status": "unclassified"
+    },
+    "1cb4dee12c597c2cdb3d2c11db504a01d045ac37.png": {
+      "status": "unclassified"
+    },
+    "1cc77561ab4c42099909c1c9c119c5258b945cb3.png": {
+      "status": "unclassified"
+    },
+    "1d543f9a3400d8706e1fee949b5d583f5fa4dcbc.png": {
+      "status": "unclassified"
+    },
+    "1da6a0c9f0312bd0155dbc94725a1e8649cc66d5.png": {
+      "status": "unclassified"
+    },
+    "1e680bce00d5343675596e1b60c05b74baee38fe.png": {
+      "status": "vexflow-overlay",
+      "definition": "order-of-accidentals",
+      "output": "images/notation/order-of-accidentals.svg"
+    },
+    "1f026bcc116aef253d1c52649ca5cfcf53b691e2.png": {
+      "status": "unclassified"
+    },
+    "20477f21bfabd1ca700d9d8d578fbbeb218fc823.png": {
+      "status": "unclassified"
+    },
+    "20d859609bbee3a5785ae335555a3c2f7054744b.png": {
+      "status": "unclassified"
+    },
+    "2277ff861fd1e5c40c62d2f7350ff845bd5c59c7.png": {
+      "status": "unclassified"
+    },
+    "22b5ae512ec83d6deb1ceb4ddee6e040e09b7d52.png": {
+      "status": "vexflow-overlay",
+      "definition": "tie-example",
+      "output": "images/notation/tie-example.svg"
+    },
+    "23387d2d29f1a6c933227489159b87830e857c96.png": {
+      "status": "unclassified"
+    },
+    "24ed0b8b91554c464f5b194f34d8ebab6b5f143b.png": {
+      "status": "unclassified"
+    },
+    "25011ac162a03037c0aaa44f2843334c4564072e.png": {
+      "status": "unclassified"
+    },
+    "25354c60c6686014216c73df293a583d4275aca5.png": {
+      "status": "vexflow-overlay",
+      "definition": "sharp-flat-natural",
+      "output": "images/notation/sharp-flat-natural.svg"
+    },
+    "2749a1f9ce0ab7e901f61b6858a33354bba8033d.png": {
+      "status": "vexflow-overlay",
+      "definition": "whole-rest-full-measure",
+      "output": "images/notation/whole-rest-full-measure.svg"
+    },
+    "2777c8f46803b9ecab65f8d81f77ad2050678285.png": {
+      "status": "unclassified"
+    },
+    "2a5a43eedddcfae83e15f9507150c98a9f0597d0.png": {
+      "status": "unclassified"
+    },
+    "2a98cbbce6f7ff1fa2cfe1808a9be2b7997d16df.png": {
+      "status": "unclassified"
+    },
+    "2b2d87c3a8bf13953b7eaf68268f57cd03661ea2.png": {
+      "status": "unclassified"
+    },
+    "2ce337631ea22e3e00c8bf33981c83c0374e0759.png": {
+      "status": "unclassified"
+    },
+    "2cebbec9e75194690ae93a7479c224f1a9ceb90c.png": {
+      "status": "unclassified"
+    },
+    "2d5aa7cd858822a99a24ca70fa009235bc626daa.png": {
+      "status": "unclassified"
+    },
+    "2f9271d0daa8bc0f5e23bb4724651674a7814787.png": {
+      "status": "vexflow-overlay",
+      "definition": "time-signature-anatomy",
+      "output": "images/notation/time-signature-anatomy.svg"
+    },
+    "3087ad9e3af32de3f3c0f6278eca1ce3558cff12.png": {
+      "status": "unclassified"
+    },
+    "315403d0f8e3593e35187bcadfa48bfc2cb9e10d.png": {
+      "status": "unclassified"
+    },
+    "31c995861b2dffd208346e79492b348278fc3c21.png": {
+      "status": "unclassified"
+    },
+    "3255fdfd457b56d4ac1885fa0ffc56f37ee450f7.png": {
+      "status": "unclassified"
+    },
+    "33960a69fd3a1c138c9f46079f7a2c93120c758b.png": {
+      "status": "unclassified"
+    },
+    "353ee2d79e1b6c84699e438f7286e307474a23e6.png": {
+      "status": "unclassified"
+    },
+    "35dd8f8d6266ebddcf5c621a6003cc61e58a2e0f.png": {
+      "status": "unclassified"
+    },
+    "3790348ad803232771a0a0338773ace6a6da0ebe.png": {
+      "status": "unclassified"
+    },
+    "380559fd8532ba7c030733c52a8a893fa6f53fff.png": {
+      "status": "unclassified"
+    },
+    "3c685067aa0d4183c9daa43d662382ef87efc702.png": {
+      "status": "unclassified"
+    },
+    "3d28d333392fe076fda46e9e83008e54aebbdef1.png": {
+      "status": "unclassified"
+    },
+    "3d9009feab4fb0b2f7b3e95e4d2a7126b2f71d60.png": {
+      "status": "unclassified"
+    },
+    "402dd0fcd9295e3f332d3afc3f834bb36322a789.png": {
+      "status": "vexflow-overlay",
+      "definition": "vocal-range-example",
+      "output": "images/notation/vocal-range-example.svg"
+    },
+    "40913177bc0dddb32b33257cd68ac554629d3930.png": {
+      "status": "unclassified"
+    },
+    "41cd0fba81c5164971645814179ff8ee1586a587.png": {
+      "status": "unclassified"
+    },
+    "4216daa4328f8456a887e88bd49184ab8697d084.png": {
+      "status": "vexflow-overlay",
+      "definition": "b-flat-in-every-octave",
+      "output": "images/notation/b-flat-in-every-octave.svg"
+    },
+    "45208895ad6be8fb4640e26efd4788b7b8e78f9a.png": {
+      "status": "unclassified"
+    },
+    "46a2c2b0748bc340628e21f5b422f86e16c9fd7e.png": {
+      "status": "unclassified"
+    },
+    "474e94deea43979f36c549e417e20be46265bcff.png": {
+      "status": "unclassified"
+    },
+    "475b22aebf81fa1ea80faef5e6f79f78d2ffa09d.png": {
+      "status": "vexflow-overlay",
+      "definition": "common-and-cut-time",
+      "output": "images/notation/common-and-cut-time.svg"
+    },
+    "4830f752fce4ceee3445fb41c26b6202b0fddfc6.png": {
+      "status": "unclassified"
+    },
+    "48fcee2683006bd15bb81c5f8806c034e40f7993.png": {
+      "status": "unclassified"
+    },
+    "4920d53449d99bed9f95fd72c79e9e2769e929bc.png": {
+      "status": "unclassified"
+    },
+    "4941d4150e8deeac4a929cffd719f7e07aec91be.png": {
+      "status": "unclassified"
+    },
+    "497bb9fdd651f112aced13e093e724b06bb8b7fb.png": {
+      "status": "unclassified"
+    },
+    "4bf971ff8e9d7002fb3539c064b9a8d2ca601677.png": {
+      "status": "vexflow-overlay",
+      "definition": "piano-system",
+      "output": "images/notation/piano-system.svg"
+    },
+    "4c5da51d92f04c619005c9a2d674d36e27ace398.png": {
+      "status": "unclassified"
+    },
+    "4d2420cf5eede85bc5c3f12ef4287b370db94fbb.png": {
+      "status": "unclassified"
+    },
+    "4db15424aa05d5a4b5a3841d69ffeffbbc34f162.png": {
+      "status": "unclassified"
+    },
+    "516221c98846357d9645c78d9c218df3ad872ef8.png": {
+      "status": "unclassified"
+    },
+    "532b2abab3e3cfbc1e5bf701125da62a8aecc991.png": {
+      "status": "unclassified"
+    },
+    "540d38c5d4317268ef6344e38f6f46e2e352e370.png": {
+      "status": "unclassified"
+    },
+    "558e6f2c6a3eafd3ed35b1210cffe8d86bc43c71.png": {
+      "status": "unclassified"
+    },
+    "563ec9e172273ad08e28a9f222aec657339cbf73.png": {
+      "status": "unclassified"
+    },
+    "579422782a5ef1c8596ec806f11e71503cd314d1.png": {
+      "status": "unclassified"
+    },
+    "57c3afee0d3d8890000a64ea020ceeb925b9cb44.png": {
+      "status": "unclassified"
+    },
+    "57c7d9a1032fd1d20632b828509457a4a70bf5a4.png": {
+      "status": "unclassified"
+    },
+    "582059d7c9ff6cc4f68e0e34f31334de997b3225.png": {
+      "status": "unclassified"
+    },
+    "58719aa93dd4e7023d27131cafd89ba42c439f94.png": {
+      "status": "unclassified"
+    },
+    "58b4e67fffbc4be5fc7843f3b89a79e850ee57ab.png": {
+      "status": "unclassified"
+    },
+    "58c7d2fe7b127070dbd4805e66fe913addb6cdd7.png": {
+      "status": "unclassified"
+    },
+    "58f7babd6a79d85b58a149a716fd1b943e004d1d.png": {
+      "status": "vexflow-overlay",
+      "definition": "note-values",
+      "output": "images/notation/note-values.svg"
+    },
+    "59ae979cb96e0a222816617a502cf18d880ae803.png": {
+      "status": "unclassified"
+    },
+    "5a5f87cb8492442096a3cc39919126e21dc694c6.png": {
+      "status": "unclassified"
+    },
+    "5a8209d773fa3b65be50ec156c652a8d8389e5c1.png": {
+      "status": "vexflow-overlay",
+      "definition": "tempo-and-meter-examples",
+      "output": "images/notation/tempo-and-meter-examples.svg"
+    },
+    "5aac32756fe57de0e8654854d4441b772a69629f.png": {
+      "status": "unclassified"
+    },
+    "5c6d1959427b0d999c931f7707752348f4c3849c.png": {
+      "status": "unclassified"
+    },
+    "5e7be8b7172b8d938588df091c7af69673af3bef.png": {
+      "status": "unclassified"
+    },
+    "5fc8361206735d496da5e05f44513098a36d8b3f.png": {
+      "status": "unclassified"
+    },
+    "5fd44c0b8192a7023538adb053baca274ad8ab50.png": {
+      "status": "unclassified"
+    },
+    "5fe66d86c6389d14990425c15ae7fb3b3a57697a.png": {
+      "status": "unclassified"
+    },
+    "60f8b6a18e7891ed7e07a2b8329d5586c2d72cf4.png": {
+      "status": "unclassified"
+    },
+    "61a817eace09793f5c3a9d046d4c08d0d04813fd.png": {
+      "status": "unclassified"
+    },
+    "6347bf784fdbeb47837008e0094e0f22a269aa69.png": {
+      "status": "unclassified"
+    },
+    "64c29809ac6c72db4b257c2f609c46335c115990.png": {
+      "status": "vexflow-overlay",
+      "definition": "c-clefs",
+      "output": "images/notation/c-clefs.svg"
+    },
+    "6501b4d7908b0c6f65b1dcfcfd71dec1968f8339.png": {
+      "status": "unclassified"
+    },
+    "65a2c335b9fea23f93bf3d9153316a096c717a29.png": {
+      "status": "unclassified"
+    },
+    "6703a041e8cee2e7a1801617292a00a336848edb.png": {
+      "status": "unclassified"
+    },
+    "67b0b986ffc1cbcda11f6d128a847ab6c2455b65.png": {
+      "status": "unclassified"
+    },
+    "67efd497927b2a2a0fb20a89f8078e2d7465faf9.png": {
+      "status": "unclassified"
+    },
+    "69649de4d01e03b1a54bb17cfdf8d9c209999c25.png": {
+      "status": "unclassified"
+    },
+    "6a559902470af8de8f7a3e2b8ad222cecdcc9fa7.png": {
+      "status": "unclassified"
+    },
+    "6a71fe8ef244b0a4385573aff0451eaadabb8201.png": {
+      "status": "unclassified"
+    },
+    "6b12a444aaa164fe7d1a98fa4f84eebd6aa3c9c5.png": {
+      "status": "unclassified"
+    },
+    "6d2da02e6b304aa7421942d50f230b299f43e498.png": {
+      "status": "unclassified"
+    },
+    "6dd82e0a8a44b2c43a820343a180ffd54b8821e1.png": {
+      "status": "unclassified"
+    },
+    "6e59466f91e61d128e62b1b0d8447df01788fb69.png": {
+      "status": "unclassified"
+    },
+    "6e98c07a7efbb518d9a08be043a9311988da9a98.png": {
+      "status": "unclassified"
+    },
+    "6ea761be1de458aa09f079da4fad0c8242e99384.png": {
+      "status": "unclassified"
+    },
+    "6fae5e3e315152e356619791dc81b760dd741b15.png": {
+      "status": "unclassified"
+    },
+    "6ff2ebbbc07037cf05e7f6a4621e7a5b1574b0cb.png": {
+      "status": "unclassified"
+    },
+    "70c23d0c3613a1314ef21b11fb5d43b93bfeac64.png": {
+      "status": "unclassified"
+    },
+    "725a611834696d4ca4891a7537f1ad87ec39a9d3.png": {
+      "status": "unclassified"
+    },
+    "72da008accbc59a9f87e758ae9df1cca1fec2cf4.png": {
+      "status": "unclassified"
+    },
+    "7317ca62a181e8d2ab2fbe7e3ce8ce96d4a647e3.png": {
+      "status": "unclassified"
+    },
+    "73842d30945f7705ed14ac5f05222cd2e0d66f18.png": {
+      "status": "unclassified"
+    },
+    "74be71ab69d9e91436d322a2526bb0cfe55ddf04.png": {
+      "status": "unclassified"
+    },
+    "74beea27ad30018569811de3fdca3702b5f1328a.png": {
+      "status": "unclassified"
+    },
+    "7515c11c14f5445d12afa8dedd9817f2cdbdd5ca.png": {
+      "status": "unclassified"
+    },
+    "76aa06be5447ea944743e35c9d5967c60607a74a.png": {
+      "status": "unclassified"
+    },
+    "771ffdbcc579a14d7b1c02cfd20985353e61c94c.png": {
+      "status": "unclassified"
+    },
+    "77f33d1d601bfa5087cad774ba9e409e87922dd4.png": {
+      "status": "unclassified"
+    },
+    "78771163de17e6e1143aee5b2ceac299a8b11e63.png": {
+      "status": "unclassified"
+    },
+    "78e448e0e53633bbab129e0a9338f671f7aeaf2a.png": {
+      "status": "vexflow-overlay",
+      "definition": "ties-and-dots",
+      "output": "images/notation/ties-and-dots.svg"
+    },
+    "7bdb702ae46b9f046bc9e058e4fb2172d4d4a597.png": {
+      "status": "vexflow-overlay",
+      "definition": "accidental-symbols",
+      "output": "images/notation/accidental-symbols.svg"
+    },
+    "7c179b36f452ae1939fc4bfc193fb62e59a75154.png": {
+      "status": "vexflow-overlay",
+      "definition": "articulation-sampler",
+      "output": "images/notation/articulation-sampler.svg"
+    },
+    "7c9ed93102f53936179de551fc0c3d3326fec149.png": {
+      "status": "unclassified"
+    },
+    "7d0640ddbf169c9d5d1f88bc64730ee2c697e155.png": {
+      "status": "unclassified"
+    },
+    "7dc996aef1a319a54ddbb2ad45e04dfb293c039e.png": {
+      "status": "unclassified"
+    },
+    "7e50de433d0a7c1b59dacfe13036ded4a3f0adf8.png": {
+      "status": "unclassified"
+    },
+    "80a3c3894aba0301b912135ad9a9dcea73bc5fe3.png": {
+      "status": "unclassified"
+    },
+    "80e700776b3450c7ab9e5bf401213cf4cdf30970.png": {
+      "status": "unclassified"
+    },
+    "83d12745a48c3a3f1f65ab8b3f003a09c8a1e460.png": {
+      "status": "vexflow-overlay",
+      "definition": "enharmonic-d-sharp-e-flat",
+      "output": "images/notation/enharmonic-d-sharp-e-flat.svg"
+    },
+    "8448eafab22300534f9d674229e46d156ca21b1e.png": {
+      "status": "unclassified"
+    },
+    "847e7d248b6177b8cf0144658beed19346001782.png": {
+      "status": "vexflow-overlay",
+      "definition": "treble-pitch-names",
+      "output": "images/notation/treble-pitch-names.svg"
+    },
+    "862a42a57ea9a762784f2ccd2d2068e021741fbb.png": {
+      "status": "unclassified"
+    },
+    "86b27abcdf3883416ce70b086fd8c1fca9b07ed3.png": {
+      "status": "unclassified"
+    },
+    "87fc144fb9a501e2269617319472d5543b51a420.png": {
+      "status": "unclassified"
+    },
+    "8859d5d2572195fac36408d32de9539a6f696b09.png": {
+      "status": "vexflow-overlay",
+      "definition": "c-and-f-major-key-signatures",
+      "output": "images/notation/c-and-f-major-key-signatures.svg"
+    },
+    "8872ae6e6d44368fdf861fbcc6de3343180854cb.png": {
+      "status": "unclassified"
+    },
+    "889972d224e2c9b837003816b2fd5b7b28626979.png": {
+      "status": "unclassified"
+    },
+    "8a33273b31e996d376c2e7ac4a7d3a697720fa41.png": {
+      "status": "unclassified"
+    },
+    "8c1ff1f35c4da18aa34d9476ebc01d33b8d2e49f.png": {
+      "status": "unclassified"
+    },
+    "8cdcdfc87f3ef226a369d3b33e3e1be142063a0a.png": {
+      "status": "unclassified"
+    },
+    "8dc4a337a142edabc38c37f947a0f2ca9e99733a.png": {
+      "status": "unclassified"
+    },
+    "8df2e82253f904461194dc01196bde306adf3d4b.png": {
+      "status": "unclassified"
+    },
+    "8ecdfe8f4dbf66d814697cc5b8817d42ed89f3c5.png": {
+      "status": "unclassified"
+    },
+    "8efa51e8939876415c455e3c0b390e66fa04da32.png": {
+      "status": "unclassified"
+    },
+    "907a8fec9ebfdb3172252721a649c0f828e8dc95.png": {
+      "status": "unclassified"
+    },
+    "9111533eb14a4014b873e66548bccebb32e35bc3.png": {
+      "status": "unclassified"
+    },
+    "92efc85cbe5da11aef164cac993546c5991df016.png": {
+      "status": "unclassified"
+    },
+    "93259d609998e32961e825cc2d4b4f34de2095b6.png": {
+      "status": "unclassified"
+    },
+    "946da6e7a6efd927bc8b1a37b8b0c03a26d94b6d.png": {
+      "status": "unclassified"
+    },
+    "96d057cfd9c863b41dc745cf93c6ce8a64ff7ce6.png": {
+      "status": "unclassified"
+    },
+    "9812d93de8f0b4b7ae1aea556a84993acf3c1aa5.png": {
+      "status": "unclassified"
+    },
+    "983c61f990d02147ab4473508cb516532e871057.png": {
+      "status": "unclassified"
+    },
+    "9901bdbeacc244671af7a5173eb91147c1fc2ba7.png": {
+      "status": "unclassified"
+    },
+    "99117f77591f4e31f757bd141365d35872446285.png": {
+      "status": "unclassified"
+    },
+    "99d68c0293627fcea7ee6bed18af4d5b5eeda47e.png": {
+      "status": "unclassified"
+    },
+    "9c39c637224c0bba225d33a4a11dfd0c9c0583bb.png": {
+      "status": "unclassified"
+    },
+    "9ccaa35c2e2f92fdf3c76c341017b4aa750c273e.png": {
+      "status": "unclassified"
+    },
+    "a085f521beec03696a8636317d6e567b65eceea3.png": {
+      "status": "unclassified"
+    },
+    "a0bd224e86ab3e3854928839988c2979877d5064.png": {
+      "status": "unclassified"
+    },
+    "a17e4c829b7424e1492cdef2b6562df326f44a21.png": {
+      "status": "unclassified"
+    },
+    "a1f2ff78adb5c4959eb1646d233b415623c18b62.png": {
+      "status": "unclassified"
+    },
+    "a2cc5204bc14ba284a38b79656a35385c42dd208.png": {
+      "status": "unclassified"
+    },
+    "a377eac1f99e6e98dbe1d2c0947a7626c7386da0.png": {
+      "status": "unclassified"
+    },
+    "a4e3c4299b4df0cbc42338cbce821ba91aa2dea2.png": {
+      "status": "unclassified"
+    },
+    "a52102ca5ea2cc4b0026dcd4188cec9edc85a13e.png": {
+      "status": "unclassified"
+    },
+    "a52f7027230290f2f2a9b927a55cbcf5d80c81bf.png": {
+      "status": "unclassified"
+    },
+    "a69c707986504c5a27ee1c94ddbbb00d1101f4b7.png": {
+      "status": "unclassified"
+    },
+    "a7aa06ece55d66a2196c6f440ab588184c3067d4.png": {
+      "status": "unclassified"
+    },
+    "a8776d89f6a51e624c2db48e9c48bc0764ae48c7.png": {
+      "status": "unclassified"
+    },
+    "a94f0c85403290b9f224235520bb523cac694b58.png": {
+      "status": "unclassified"
+    },
+    "a9d8197d91fd07725f686061378aee0f88ed1d8f.png": {
+      "status": "unclassified"
+    },
+    "aa29592ed3a72a6eb89484211ef689e33b765a5c.png": {
+      "status": "unclassified"
+    },
+    "aa67fb155f2f0a86a459138ef2af6da96c5b86d0.png": {
+      "status": "unclassified"
+    },
+    "aaa763487bdf36b2be871f121145443244101547.png": {
+      "status": "unclassified"
+    },
+    "ab320208243366fcd4af5e9894a9766f2b219d97.png": {
+      "status": "unclassified"
+    },
+    "accff92080af0b6693ce2be1cd6200a6dfcb4c3e.png": {
+      "status": "unclassified"
+    },
+    "ad427d413191cb046506b502e32446ed538422a5.png": {
+      "status": "unclassified"
+    },
+    "aea8aa79be190e40bc0147148906d1647e4b1b83.png": {
+      "status": "unclassified"
+    },
+    "b0cd8d8b9bbd822479fb9d5033b13dec772f8974.png": {
+      "status": "unclassified"
+    },
+    "b2f53b8fe81baba62a2f0351451a7587266069df.png": {
+      "status": "svg-overlay",
+      "definition": "dotted-note-equations",
+      "output": "images/notation/dotted-note-equations.svg"
+    },
+    "b38c68f9b7567902f35080c958b602133e1646f3.png": {
+      "status": "unclassified"
+    },
+    "b486203049c855e0c049ef8dbd7b63b77c827f07.png": {
+      "status": "unclassified"
+    },
+    "b4c37691fafd379d87d5be52dc7271c4a6364cba.png": {
+      "status": "vexflow-overlay",
+      "definition": "repeat-barlines",
+      "output": "images/notation/repeat-barlines.svg"
+    },
+    "b5882de1fc02277c9dd83949ff4e15f5b2e7fef9.png": {
+      "status": "unclassified"
+    },
+    "b5c853589275412d74aa8b6c3cbedd069a6294b3.png": {
+      "status": "unclassified"
+    },
+    "b6f00fa66ded19df9aff2d2b8c16a5c4fae07e26.png": {
+      "status": "unclassified"
+    },
+    "b85aa9a9b2e69a6b04fc226f446dd47151f55b52.png": {
+      "status": "unclassified"
+    },
+    "b9295f79fda01598db4bcb7cc6b5fa206bb65c1a.png": {
+      "status": "unclassified"
+    },
+    "ba0dba3f6286193381242d9b0711ead164b86d22.png": {
+      "status": "unclassified"
+    },
+    "bb2ac01e554b5fe1aca0a602b0dce40e252716fe.png": {
+      "status": "vexflow-overlay",
+      "definition": "treble-clef-ottava-bassa",
+      "output": "images/notation/treble-clef-ottava-bassa.svg"
+    },
+    "bd711483c83680623a2d7c368a02da858e0ffc8f.png": {
+      "status": "vexflow-overlay",
+      "definition": "rest-values",
+      "output": "images/notation/rest-values.svg"
+    },
+    "c052d75a73aff6b5e19b0f59781c5dfc6a342b8a.png": {
+      "status": "unclassified"
+    },
+    "c0598ff81f0c37eb6d5c7be31272b6e7d3dbf8cf.png": {
+      "status": "unclassified"
+    },
+    "c1af12bce4ac220f3453e5f595fd0db08e29cb9e.png": {
+      "status": "unclassified"
+    },
+    "c32e677198a253273e91fa742ab010574fb28de7.png": {
+      "status": "vexflow-overlay",
+      "definition": "melodic-contour",
+      "output": "images/notation/melodic-contour.svg"
+    },
+    "c4e5ee21cd157631a3063ce79354d32faed7c530.png": {
+      "status": "unclassified"
+    },
+    "c66980b3f884ec545c3b6ff6b94b5ee85d7df191.png": {
+      "status": "unclassified"
+    },
+    "c79f96f358c921b32010cb14470bdd7bc6f1872a.png": {
+      "status": "unclassified"
+    },
+    "c8bb1260bacd706b374ec56e203579a2ed86f2a1.png": {
+      "status": "unclassified"
+    },
+    "cb8a1669129bb78cc53eb4d1435d1a704d569e88.png": {
+      "status": "unclassified"
+    },
+    "cbfa55d933eebda424353b4e388f6efa93374438.png": {
+      "status": "vexflow-overlay",
+      "definition": "enharmonic-key-signatures",
+      "output": "images/notation/enharmonic-key-signatures.svg"
+    },
+    "cc2c08fe2426ca93c38be44856a8eecdfd32a825.png": {
+      "status": "unclassified"
+    },
+    "cd98d77f2674afd1193634b92473e350a5a9c78e.png": {
+      "status": "unclassified"
+    },
+    "ce803b3272dee1a6280f68545024860164005f22.png": {
+      "status": "unclassified"
+    },
+    "d04e2c7f45f72dbbf040f2b7409342189f0ee877.png": {
+      "status": "unclassified"
+    },
+    "d0df5580a52bd5ff1c22982ff89e7ce408a5750a.png": {
+      "status": "unclassified"
+    },
+    "d1156e89d761fd0b2c7989ae3f41998b094037e5.png": {
+      "status": "unclassified"
+    },
+    "d167bea1c4e894f8bb99bf52eb9a33f6a6291728.png": {
+      "status": "unclassified"
+    },
+    "d194cd10d38499052d417650f1eb6085d4e3170f.png": {
+      "status": "unclassified"
+    },
+    "d287215721453adeaec7350a014ab0e3be87bfbb.png": {
+      "status": "unclassified"
+    },
+    "d32f3d350eaabbd63a4d1245925fd60d5ee6ec69.png": {
+      "status": "unclassified"
+    },
+    "d3a980fa9c1013d1477e27896e185fcbd4ab33d2.png": {
+      "status": "unclassified"
+    },
+    "d50860c797fd51831afff0c564476d8e63f8143b.png": {
+      "status": "vexflow-overlay",
+      "definition": "signature-order",
+      "output": "images/notation/signature-order.svg"
+    },
+    "d5fbd204f80fa9fe24ff054c8d36e40421292834.png": {
+      "status": "vexflow-overlay",
+      "definition": "key-signature-accidentals",
+      "output": "images/notation/key-signature-accidentals.svg"
+    },
+    "d602c16ca85ac9a1dec4202c752714bcb05c3124.png": {
+      "status": "unclassified"
+    },
+    "d64908821c909af8dd493167ab6281e4ae6aa542.png": {
+      "status": "unclassified"
+    },
+    "d7543f40076f23c7dd430a0b2d4c88e279a6d708.png": {
+      "status": "unclassified"
+    },
+    "d7d88dada170cabb40a5168da677a7d94fdcb92d.png": {
+      "status": "unclassified"
+    },
+    "d82a33357abdd647d475688799c560541ab4b976.png": {
+      "status": "unclassified"
+    },
+    "d9bb1aa306154dd4ae19d956f60214da91569c09.png": {
+      "status": "unclassified"
+    },
+    "d9d282a798bfcd3b0b60329222e1bc0c72659209.png": {
+      "status": "unclassified"
+    },
+    "daa585c52760edd2131acadc3fac6cdb1056ee6c.png": {
+      "status": "unclassified"
+    },
+    "daecca1456c88bc1862974a0fab72ff6b9043f84.png": {
+      "status": "unclassified"
+    },
+    "e0b9eed69d190c563d6d76312a33fbfa5dbc8412.png": {
+      "status": "unclassified"
+    },
+    "e1166e2deee2765a28a25c97f18b7751aa6c4174.png": {
+      "status": "unclassified"
+    },
+    "e122067156ff2d35ecb1f8b0835d8b83fdc339ac.png": {
+      "status": "svg-overlay",
+      "definition": "multiple-dot-equations",
+      "output": "images/notation/multiple-dot-equations.svg"
+    },
+    "e1b491fc3b7d78fbc33815435de84ee7f561d5a6.png": {
+      "status": "unclassified"
+    },
+    "e2897b454b02e02a65a9b8cd989a5187cbda5093.png": {
+      "status": "unclassified"
+    },
+    "e2f8f09813a0e0bff4ecb4cb571a114b3f6163b0.png": {
+      "status": "unclassified"
+    },
+    "e420035b374f956c2c7e871076450ff828a83e6f.png": {
+      "status": "unclassified"
+    },
+    "e4fa99218d125c95730f25437e9a42952b90ea81.png": {
+      "status": "unclassified"
+    },
+    "e60460159d584b4cee88054dd5b5b21f26360e82.png": {
+      "status": "unclassified"
+    },
+    "e62d54293b2496a82a5aa78702e98cc70a128ea2.png": {
+      "status": "unclassified"
+    },
+    "e96d273df2c65b03f1273355868a774bdf546968.png": {
+      "status": "unclassified"
+    },
+    "e97ebaee5739acf24c4d7dc6feccc27dc370c60f.png": {
+      "status": "unclassified"
+    },
+    "e9894136bc007b193b98096a1299c00b13ba8221.png": {
+      "status": "unclassified"
+    },
+    "e99ec8a03615fb0497f77b5299866549ca529fb6.png": {
+      "status": "unclassified"
+    },
+    "e9c7307b9a2752128fb6dbf906ddb725735750df.png": {
+      "status": "vexflow-overlay",
+      "definition": "staff-anatomy",
+      "output": "images/notation/staff-anatomy.svg"
+    },
+    "ed35597f1a11d4911bcffeb59b94b7aa1357cfd1.png": {
+      "status": "unclassified"
+    },
+    "ed856404348dfc76ae8067fe2bd38f568a480dea.png": {
+      "status": "unclassified"
+    },
+    "ee9aecb40a9a873169c66730312aa16f7ee68e2a.png": {
+      "status": "unclassified"
+    },
+    "eecc6ad2e298c8e52b235ca4f517b5756d79fde8.png": {
+      "status": "unclassified"
+    },
+    "f01bba67e1e7c2db689d526b14cff7a4a3ff2731.png": {
+      "status": "unclassified"
+    },
+    "f14eb48346cf6665021fc041a7a55204dba63610.png": {
+      "status": "unclassified"
+    },
+    "f16500ce77df4e1782cd94f61ad8ed4b0b584405.png": {
+      "status": "unclassified"
+    },
+    "f24f3bff15f4753276f6263917a6eb58c3924ed2.png": {
+      "status": "unclassified"
+    },
+    "f2b61cfd8801b8d1548d9d7df76190770472186e.png": {
+      "status": "svg-overlay",
+      "definition": "dynamic-vocabulary",
+      "output": "images/notation/dynamic-vocabulary.svg"
+    },
+    "f3e6ac40f066daf1d2f6aef9c8e8ac3afd0debec.png": {
+      "status": "unclassified"
+    },
+    "f51253382ce0d354c87f28eccca901df1572a59d.png": {
+      "status": "unclassified"
+    },
+    "f55fb28bd8a6394d7cdcacddfa5cf7ce92c1ca53.png": {
+      "status": "vexflow-overlay",
+      "definition": "key-signature-reading",
+      "output": "images/notation/key-signature-reading.svg"
+    },
+    "f5abaf8d7b97faf6bf1cdfc22af3397be9807f33.png": {
+      "status": "unclassified"
+    },
+    "f60857c8669a175558b409f0c714dcbee4a36513.png": {
+      "status": "unclassified"
+    },
+    "f7485371936c468434d7dcbb1dec9473ffad7ee2.png": {
+      "status": "unclassified"
+    },
+    "f74c7991b0b5fa9f2866da72f4ef49fe4d9a1b83.png": {
+      "status": "unclassified"
+    },
+    "f882296c6ffb55550eea86029fdf3d0472f446e5.png": {
+      "status": "unclassified"
+    },
+    "f99d67180aaa8120748eca9069654172900dc885.png": {
+      "status": "unclassified"
+    },
+    "fad176d17f432e44bd9d85d6eba067aae9e3579b.png": {
+      "status": "unclassified"
+    },
+    "fb26939cb57d2a82f63dd722d29db73845b9e3ad.png": {
+      "status": "unclassified"
+    },
+    "fc80686dbb2a3da98305b51c5fbe0be7fe0df65f.png": {
+      "status": "unclassified"
+    },
+    "fc98d4be7671f4ac93df2eafee35a17db51d68bb.png": {
+      "status": "unclassified"
+    },
+    "fd33a943a49e63f0d89569e9d66459a0a3056ce4.png": {
+      "status": "unclassified"
+    },
+    "fd3a572cf15c474eed006b230d89578d6feebe2b.png": {
+      "status": "unclassified"
+    },
+    "fdc40a89093d09acc053cff5d43c1bf0be99b2dd.png": {
+      "status": "unclassified"
+    },
+    "fefd427443e72ac2f4a849fd2250c004da0683d2.png": {
+      "status": "unclassified"
+    },
+    "ffb90bf82bdbce7380d5bddb01b62ab9084d239b.png": {
+      "status": "unclassified"
+    }
+  }
+}

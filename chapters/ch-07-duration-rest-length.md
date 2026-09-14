@@ -12,7 +12,7 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 A *rest* stands for a silence in music. For each kind of [note](ch-06-duration-note-lengths-in-written-music.md), there is a written rest of the same length.
 
-![Music notation example](../images/cnx/bd711483c83680623a2d7c368a02da858e0ffc8f.png)
+![Whole, half, quarter, eighth, sixteenth, and thirty-second rests on a treble staff.](../images/notation/rest-values.svg)
 
 > **Practice**
 >
@@ -36,6 +36,6 @@ When multiple simultaneous rhythms are written on the same staff, rests may be u
 
 The normal rule in common notation is that, for any line of music, the notes and rests in each measure must \"add up\" to exactly the amount in the [time signature](ch-08-time-signature.md), no more and no less. For example, in 3/4 time, a measure can have any combination of notes and rests that is the same length as three quarter notes. There is only one common exception to this rule. As a simplifying shorthand, a completely silent measure can simply have a whole rest. In this case, \"whole rest\" does not necessarily mean \"rest for the same length of time as a whole note\"; it means \"rest for the entire measure\".
 
-![Music notation example](../images/cnx/2749a1f9ce0ab7e901f61b6858a33354bba8033d.png)
+![Whole rests filling complete measures in both six-eight and two-four time.](../images/notation/whole-rest-full-measure.svg)
 
 A whole rest may be used to indicate a completely silent measure, no matter what the actual length of the measure will be.

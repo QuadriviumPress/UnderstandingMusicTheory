@@ -16,7 +16,7 @@ A half note is half the length of a whole note; a quarter note is half the lengt
 
 One way to get a different length is by dotting the note or rest. A *dotted note* is one-and-a-half times the length of the same note without the dot. In other words, the note keeps its original length and adds another half of that original length because of the dot. So a dotted half note, for example, would last as long as a half note plus a quarter note, or three quarters of a whole note.
 
-![Music notation example](../images/cnx/b2f53b8fe81baba62a2f0351451a7587266069df.png)
+![A dotted whole, half, and quarter note shown as the original note plus a note worth half its duration.](../images/notation/dotted-note-equations.svg)
 
 The dot acts as if it is adding another note half the length of the original note. A dotted quarter note, for example, would be the length of a quarter plus an eighth, because an eighth note is half the length of a quarter note.
 
@@ -36,7 +36,7 @@ The dot acts as if it is adding another note half the length of the original not
 
 A note may have more than one dot. Each dot adds half the length that the dot before it added. For example, the first dot after a half note adds a quarter note length; the second dot would add an eighth note length.
 
-![Music notation example](../images/cnx/e122067156ff2d35ecb1f8b0835d8b83fdc339ac.png)
+![Double- and triple-dotted notes expanded into the successively halved note values that the dots add.](../images/notation/multiple-dot-equations.svg)
 
 When a note has more than one dot, each dot is worth half of the dot before it.
 
@@ -48,7 +48,7 @@ A dotted half lasts as long as a half note plus a quarter note. The same length 
 >
 > Ties may look like [slurs](ch-16-articulation.md), but they are not the same; a slur connects to notes with different [pitches](ch-03-pitch-sharp-flat-and-natural-notes.md) and is a type of [articulation](ch-16-articulation.md).
 
-![Music notation example](../images/cnx/78e448e0e53633bbab129e0a9338f671f7aeaf2a.png)
+![A four-four staff comparing notes joined by ties with equivalent dotted-note durations.](../images/notation/ties-and-dots.svg)
 
 When these eight notes are played as written, only five distinct notes are heard: one note the length of two whole notes; then a dotted half note; then another note the same length as the dotted half note; then a quarter note; then a note the same length as a whole note plus a quarter note.
 

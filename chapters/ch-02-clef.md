@@ -14,7 +14,7 @@ source: "https://github.com/cnx-user-books/cnxbook-understanding-basic-music-the
 
 The first symbol that appears at the beginning of every music [staff](ch-01-the-staff.md) is a *clef symbol*. It is very important because it tells you which [note](ch-06-duration-note-lengths-in-written-music.md) (A, B, C, D, E, F, or G) is found on each line or space. For example, a *treble clef* symbol tells you that the second line from the bottom (the line that the symbol curls around) is \"G\". On any staff, the notes are always arranged so that the next letter is always on the next higher line or space. The last note letter, G, is always followed by another A.
 
-![Music notation example](../images/cnx/847e7d248b6177b8cf0144658beed19346001782.png)
+![A treble clef staff labelled with ascending note names from C through A above and below the staff.](../images/notation/treble-pitch-names.svg)
 
 A *bass clef* symbol tells you that the second line from the top (the one bracketed by the symbol\'s dots) is F. The notes are still arranged in ascending order, but they are all in different places than they were in treble clef.
 
@@ -34,7 +34,7 @@ You can use a word or silly sentence to help you memorize which notes belong on 
 
 Most music these days is written in either bass clef or treble clef, but some music is written in a *C clef*. The C clef is moveable: whatever line it centers on is a [middle C](ch-28-octaves-and-the-major-minor-tonal-system.md).
 
-![Music notation example](../images/cnx/64c29809ac6c72db4b257c2f609c46335c115990.png)
+![Five C clefs—soprano, mezzo-soprano, alto, tenor, and baritone—each marking middle C on a different staff line.](../images/notation/c-clefs.svg)
 
 All of the notes on this staff are middle C.
 
@@ -46,7 +46,7 @@ It is rare these days to see the G and F clefs in these nonstandard positions.
 
 Much more common is the use of a treble clef that is meant to be read one octave below the written pitch. Since many people are uncomfortable reading bass clef, someone writing music that is meant to sound in the region of the bass clef may decide to write it in the treble clef so that it is easy to read. A very small \"8\" at the bottom of the treble clef symbol means that the notes should sound one octave lower than they are written.
 
-![Music notation example](../images/cnx/bb2ac01e554b5fe1aca0a602b0dce40e252716fe.png)
+![A treble clef staff with a small 8 below the clef, indicating that notes sound an octave lower than written.](../images/notation/treble-clef-ottava-bassa.svg)
 
 A small "8" at the bottom of a treble clef means that the notes should sound one octave lower than written.
 

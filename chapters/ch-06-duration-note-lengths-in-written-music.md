@@ -34,7 +34,7 @@ The head of the note may be filled in (black), or not. The note may also have (o
 
 ## The Length of a Note
 
-![Music notation example](../images/cnx/58f7babd6a79d85b58a149a716fd1b943e004d1d.png)
+![Whole, half, quarter, eighth, sixteenth, and thirty-second notes arranged from longest to shortest.](../images/notation/note-values.svg)
 
 The simplest-looking note, with no stems or flags, is a *whole note*. All other note lengths are defined by how long they last compared to a whole note. A note that lasts half as long as a whole note is a *half note*. A note that lasts a quarter as long as a whole note is a *quarter note*. The pattern continues with *eighth notes*, *sixteenth notes*, *thirty-second notes*, *sixty-fourth notes*, and so on, each type of note being half the length of the previous type. (There are no such thing as third notes, sixth notes, tenth notes, etc.; see [Dots, Ties, and Borrowed Divisions](ch-11-dots-ties-and-borrowed-divisions.md) to find out how notes of unusual lengths are written.)
 
