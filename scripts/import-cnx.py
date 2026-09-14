@@ -129,6 +129,74 @@ def convert_callouts(body: str) -> str:
     return "\n".join(lines)
 
 
+def remove_id_containers(body: str) -> str:
+    """Remove remaining ID-only Pandoc containers without disturbing MyST fences."""
+    directive = re.compile(r"^(?P<fence>:{3,})\{admonition\}")
+    identifier = re.compile(r"^:{3,} \{#[A-Za-z0-9_.:-]+\}$")
+    closing = re.compile(r"^:{3,}$")
+    stack: list[tuple[str, int]] = []
+    lines: list[str] = []
+
+    for line in body.splitlines():
+        directive_match = directive.match(line)
+        if directive_match:
+            fence = len(directive_match.group("fence"))
+            stack.append(("directive", fence))
+            lines.append(line)
+            continue
+
+        if identifier.match(line):
+            # Adjacent ID-only divs are siblings, even when Pandoc omitted the
+            # first closing fence. A nested div closes at its parent directive's
+            # fence length in the CommonMark emitted by Pandoc.
+            if stack and stack[-1][0] == "container":
+                stack.pop()
+            parent_fence = next((fence for kind, fence in reversed(stack) if kind == "directive"), 3)
+            stack.append(("container", parent_fence))
+            continue
+
+        if closing.match(line):
+            fence = len(line)
+            if stack and stack[-1] == ("container", fence):
+                stack.pop()
+                continue
+            if stack and stack[-1] == ("directive", fence):
+                stack.pop()
+                lines.append(line)
+                continue
+        lines.append(line)
+
+    return "\n".join(lines)
+
+
+def normalize_admonition_fences(body: str) -> str:
+    """Balance MyST admonition fences after removing Pandoc-only containers."""
+    opening = re.compile(r"^(?P<fence>:{3,})\{admonition\}")
+    closing = re.compile(r"^:{3,}$")
+    stack: list[int] = []
+    lines: list[str] = []
+
+    for line in body.splitlines():
+        match = opening.match(line)
+        if match:
+            fence = len(match.group("fence"))
+            # A new fence at this depth starts a sibling, not a child.
+            while stack and stack[-1] >= fence:
+                lines.append(":" * stack.pop())
+            stack.append(fence)
+            lines.append(line)
+            continue
+        if closing.match(line):
+            if stack:
+                lines.append(":" * stack.pop())
+            continue
+        lines.append(line)
+
+    while stack:
+        lines.append(":" * stack.pop())
+    return "\n".join(lines)
+
+
 def normalize_existing_pages() -> None:
     """Apply the current post-import normalization without requiring the EPUB.
 
@@ -150,6 +218,8 @@ def normalize_existing_pages() -> None:
         body = re.sub(r'^\[\]\{#[A-Za-z0-9_.:-]+\}\n?', '', body, flags=re.MULTILINE)
         body = convert_figures(body)
         body = convert_callouts(body)
+        body = remove_id_containers(body)
+        body = normalize_admonition_fences(body)
         body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
         page.write_text(body, encoding="utf-8")
     print(f"Normalized {len(pages)} existing MyST pages.")
@@ -307,6 +377,8 @@ def convert() -> None:
             body = re.sub(r"\[([^\]]+)\]\(\)", r"\1", body)
             body = convert_figures(body)
             body = convert_callouts(body)
+            body = remove_id_containers(body)
+            body = normalize_admonition_fences(body)
             body = re.sub(r"\n{3,}", "\n\n", body).strip() + "\n"
 
             module.output.parent.mkdir(parents=True, exist_ok=True)

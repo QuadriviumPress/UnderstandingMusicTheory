@@ -44,21 +44,18 @@ What are the keys most closely related to E flat major? To A minor?
 :name: m10865-id7788051
 :class: solution
 
-::: {#m10865-solu0ua}
 - B flat major (2 flats)
 - A flat major (4 flats)
 - C minor (3 flats)
 - G minor (2 flats)
 - F minor (4 flats)
-::::
 
-::: {#m10865-solu0ub}
 - E minor (1 sharp)
 - D minor (1 flat)
 - C major (no sharps or flats)
 - G major (1 sharp)
 - F major (1 flat)
-:::
+::::
 :::
 
 :::{admonition} Practice
@@ -82,7 +79,6 @@ Name the major and minor keys for each key signature.
 ![Music notation example](../images/cnx/6dd82e0a8a44b2c43a820343a180ffd54b8821e1.png)
 
 ::::
-:::
 :::
 
 ## Key Signatures

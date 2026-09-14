@@ -18,7 +18,6 @@ This skill is necessary for those studying music theory. It\'s also very useful 
 
 Chord manuals, fingering charts, chord diagrams, and notes written out on a staff are all very useful, especially if the composer wants a very particular sound on a chord. But all you really need to know are the name of the chord, your [major scales](ch-30-major-keys-and-scales.md) and [minor scales](ch-31-minor-keys-and-scales.md), and a few rules, and you can figure out the notes in any chord for yourself.
 
-::: {#m11995-l0a}
 1.  You must know your major, minor, augmented and diminished triads. Either have them all memorized, or be able to figure them out following the rules for triads. (See [Triads](ch-36-triads.md) and [Naming Triads](ch-37-naming-triads.md).)
 2.  You must be able to find intervals from the [root](ch-36-triads.md) of the chord. One way to do this is by using the rules for intervals. (See [Interval](ch-32-interval.md).) **Or** if you know your scales and don\'t want to learn about intervals, you can use the method in \#3 instead.
 3.  If you know all your scales (always a good thing to know, for so many reasons), you can find all the intervals from the root using scales. For example, the \"4\" in Csus4 is the 4th note in a C (major or minor) scale, and the \"minor 7th\" in Dm7 is the 7th note in a D (natural) minor scale. If you would prefer this method, but need to brush up on your scales, please see [Major Keys and Scales](ch-30-major-keys-and-scales.md) and [Minor Keys and Scales](ch-31-minor-keys-and-scales.md).
@@ -29,7 +28,6 @@ Chord manuals, fingering charts, chord diagrams, and notes written out on a staf
 :class: note
 
 Please note that the modern system of chord symbols, discussed below, is very different from the *figured bass* shorthand popular in the seventeenth century (which is not discussed here). For example, the \"6\" in figured bass notation implies the first [inversion](ch-36-triads.md) chord, not an added 6. (As of this writing, there was a very straightforward summary of figured bass at [Ars Nova Software](http://www.ars-nova.com/cpmanual/realizeharmony.htm).)
-:::
 :::
 
 ## Chord Symbols
@@ -50,18 +48,15 @@ There is unfortunately a wide variation in the use of chord symbols. In particul
 
 If you take a basic [triad](ch-36-triads.md) and add a note that is a [seventh](ch-32-interval.md) above the [root](ch-36-triads.md), you have a *seventh chord*. There are several different types of seventh chords, distinguished by both the type of triad and the type of seventh used. Here are the most common.
 
-::: {#m11995-l1a}
 - Seventh (or \"dominant seventh\") chord = major triad + minor seventh
 - Major Seventh chord = major triad + major seventh
 - Minor Seventh chord = minor triad + minor seventh
 - Diminished Seventh chord = diminished triad + diminished seventh (half step lower than a minor seventh)
 - Half-diminished Seventh chord = diminished triad + minor seventh
 
-::: {#m11995-l1b}
 - The **major seventh** is one half step below the [octave](ch-28-octaves-and-the-major-minor-tonal-system.md).
 - The **minor seventh** is one half step below the major seventh.
 - The **diminished seventh** is one half step below the minor seventh.
-:::
 
 ![Music notation example](../images/cnx/12f8d342927b1b8031f704ebab230367719e09d7.png)
 
@@ -114,7 +109,6 @@ Write a Ddim7, Fdim7, G#dim7, and Bdim7. Look closely at the chords you have wri
 ![Music notation example](../images/cnx/725a611834696d4ca4891a7537f1ad87ec39a9d3.png)
 
 ::::
-:::
 :::
 
 ## Added Notes, Suspensions, and Extensions
@@ -198,12 +192,10 @@ For guitarists, pianists, and other chord players: Get some practical practice. 
 :name: m11995-id12231304
 :class: solution
 
-::: {#m11995-solv4c}
 - listening to the chords to see if they sound correct
 - playing your chords for your teacher or other trained musician
 - checking your answers using a chord manual or chord diagrams
 ::::
-:::
 :::
 
 ## Altering Notes and Chords

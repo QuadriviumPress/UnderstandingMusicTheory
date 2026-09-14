@@ -171,7 +171,6 @@ Moving tune up to E minor puts it in a better key for sopranos.
 
 *Transposing instruments* are instruments for which standard parts are written higher or lower than they sound. A very accomplished player of one of these instruments may be able to transpose at sight, saving you the trouble of writing out a transposed part, but most players of these instruments will need a transposed part written out for them. Here is a short list of the most common transposing instruments. For a more complete list and more information, see [Transposing Instruments](https://cnx.org/content/m10672).
 
-::: {#m10668-transposelist}
 - [Clarinet](https://cnx.org/content/m12604) is usually (but not always) a B flat instrument. Transpose C parts up one whole step for B flat instruments. (In other words, write a B flat part one whole step higher than you want it to sound.)
 - [Trumpet and Cornet](https://cnx.org/content/m12606) parts can be found in both B flat and C, but players with B flat instruments will probably want a B flat (transposed) part.
 - [French Horn](https://cnx.org/content/m11617) parts are usually in F these days. However, because of the instrument\'s history, older orchestral parts may be in any conceivable transposition, even changing transpositions in the middle of the piece. Because of this, some horn players learn to transpose at sight. Transpose C parts up a perfect fifth to be read in F.
@@ -187,7 +186,6 @@ Why are there transposing instruments? Sometimes this makes things easier on ins
 
 The transposition you will use for one of these instruments will depend on what type of part you have in hand, and what instrument you would like to play that part. As with any instrumental part, be aware of the [range](ch-23-range.md) of the instrument that you are writing for. If transposing the part up a perfect fifth results in a part that is too high to be comfortable, consider transposing the part down a perfect fourth instead.
 
-::: {#m10668-transposeruleslist}
 1.  Ask: what type of part am I transposing and what type of part do I want? Do you have a C part and want to turn it into an F part? Do you want to turn a B flat part into a C part? **Non-transposing parts are considered to be C parts.** The written key signature has nothing to do with the type of part you have; only the part\'s transposition from concert pitch (C part) matters for this step.
 2.  Find the interval between the two types of part. For example, the difference between a C and a B flat part is one whole step. The difference between an E flat part and a B flat part is a perfect fifth.
 3.  Make sure you are transposing in the correct direction. If you have a C part and want it to become a B flat part, for example, you must transpose **up** one whole step. This may seem counterintuitive, but remember, **you are basically compensating for the transposition that is \"built into\" the instrument**. To compensate properly, always transpose by moving in the opposite direction from the change in the part names. To turn a B flat part into a C part (B flat to C = up one step), transpose the part down one whole step. To turn a B flat part into an E flat part (B flat to E flat = down a perfect fifth), transpose the part up a perfect fifth.
@@ -255,7 +253,6 @@ Now write it in treble clef to make it easy for horn players to read.
 
 ::::
 :::
-:::
 
 ### Playable Keys
 
@@ -304,7 +301,6 @@ Put the capo on the first fret to raise the sound by one half step. Then transpo
 Giving guitarists the option of playing in G major (with a capo) can make things easier.
 
 ::::
-:::
 :::
 
 ## Transposing at Sight

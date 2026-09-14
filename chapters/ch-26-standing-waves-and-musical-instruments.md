@@ -71,13 +71,12 @@ The fundamental wave is the one that gives a string its [pitch](ch-03-pitch-shar
 :name: m12413-id1165156343679
 :class: problem
 
-::: {#m12413-prob2a}
 1.  How has the part of the string that vibrates changed?
 2.  How does this change the sound waves that the string makes?
 3.  How does this change the sound that is heard?
 ::::
-:::
 
+:::
 :::{admonition} Solution
 :name: m12413-id8069724
 :class: solution
@@ -90,7 +89,6 @@ The fundamental wave is the one that gives a string its [pitch](ch-03-pitch-shar
 
 When a finger holds the string down tightly, the finger becomes the new end of the vibrating part of the string. The vibrating part of the string is shorter, and the whole set of sound waves it makes is shorter.
 
-:::
 :::
 
 ## Standing Waves in Wind Instruments
@@ -139,11 +137,9 @@ Some idiophones, like gongs, ring at many different pitches when they are struck
 :name: m12413-id1165156365571
 :class: solution
 
-::: {#m12413-solu2b}
 - Chimes
 - All xylophone-type instruments, such as marimba, vibraphone, and glockenspiel
 - Handbells and other tuned bells
 - Steel pan drums
 ::::
-:::
 :::

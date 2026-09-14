@@ -100,7 +100,6 @@ In any particular section of a piece of music, a half note is always twice as lo
 
 Whether a stem points up or down does not affect the note length at all. There are two basic ideas that lead to the rules for stem direction. One is that the music should be as easy as possible to read and understand. The other is that the notes should tend to be \"in the staff\" as much as reasonably possible.
 
-::: {#m10945-l4a}
 1.  **Single Notes** - Notes below the middle line of the staff should be stem up. Notes on or above the middle line should be stem down.
 2.  **Notes sharing a stem (block chords)** - Generally, the stem direction will be the direction for the note that is furthest away from the middle line of the staff
 3.  **Notes sharing a beam** - Again, generally you will want to use the stem direction of the note farthest from the center of the staff, to keep the beam near the staff.
@@ -110,5 +109,3 @@ Whether a stem points up or down does not affect the note length at all. There a
 ![Music notation example](../images/cnx/e99ec8a03615fb0497f77b5299866549ca529fb6.png)
 
 Keep stems and beams in or near the staff, but also use stem direction to clarify rhythms and parts when necessary.
-
-:::

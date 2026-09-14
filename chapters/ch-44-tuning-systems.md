@@ -83,7 +83,6 @@ Both the 9:8 ratio and the 10:9 ratio in the harmonic series are written as whol
 
 As the series goes on, the ratios get smaller and the notes closer together. [Common notation](ch-01-the-staff.md) writes all of these \"close together\" intervals as whole steps (whole tones) or half steps (semitones), but they are of course all slightly different from each other. For example, the notes with frequency ratios of 9:8 and 10:9 and 11:10 are all written as whole steps. To compare how close (or far) they actually are, turn the ratios into decimals.
 
-::: {#m11639-l12a}
 - 9/8 = 1.125
 - 10/9 = 1.111
 - 11/10 = 1.1
@@ -100,7 +99,6 @@ In case you are curious, the size of the whole tone of the \"mean tone\" system 
 The other accommodation with reality that just intonation must make is the fact that a single just-intonation tuning cannot be used to play in multiple keys. In constructing a just-intonation tuning, it matters which steps of the scale are major whole tones and which are minor whole tones, so an instrument tuned exactly to play with just intonation in the key of C major will have to retune to play in C sharp major or D major. For instruments that can tune almost instantly, like voices, violins, and trombones, this is not a problem; but it is unworkable for pianos, harps, and other other instruments that cannot make small tuning adjustments quickly.
 
 As of this writing, there was useful information about various tuning systems at several different websites, including [The Development of Musical Tuning Systems](http://www.midicode.com/tunings/index.shtml), where one could hear what some intervals sound like in the different tuning systems, and Kyle Gann\'s [Just Intonation Explained](http://www.kylegann.com/tuning.html), which included some audio samples of works played using just intonation.
-:::
 
 ## Temperament
 
@@ -167,9 +165,7 @@ Some music traditions even use an extremely precise version of wide tuning. The 
 
 ## Further Study
 
-::: {#m11639-l5a}
 - Kyle Gann\'s [An Introduction to Historical Tunings](http://www.kylegann.com/histune.html) is a good source about both the historical background and more technical information about various tunings. It also includes some audio examples.
 - The Huygens-Fokker Foundation has a very large on-line [bibliography](http://www.huygens-fokker.org/docs/bibliography.html) of tuning and temperament.
 - Alfredo Capurso, a researcher in Italy, has developed the Circular Harmonic System (c.ha.s), a tempered tuning system that solves the wolf fifth problem by adjusting the size of the octave as well as the fifth. It also provides an algorithm for generating microtonal scales. You can read about it at the [Circular Harmonic System website](http://www.chas.it/) or download a [paper](http://math.unipa.it/~grim/Quaderno19_Capurso_09_engl.pdf) on the subject. You can also listen to piano performances using this tuning by searching for \"CHAS tuning\" at YouTube.
 - A number of YouTube videos provide comparisons that you can listen to, for example comparisons of just intonation and equal temperament, or comparisons of various temperaments.
-:::

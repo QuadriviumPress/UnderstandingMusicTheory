@@ -91,7 +91,6 @@ So far we have concentrated on identifying chord relationships by number, becaus
 :name: m11643-id1170000688973
 :class: problem
 
-::: {#m11643-prob3a}
 1.  Dominant in C major
 2.  Subdominant in E major
 3.  Tonic in G sharp major
@@ -100,8 +99,8 @@ So far we have concentrated on identifying chord relationships by number, becaus
 6.  Submediant in C major
 7.  Dominant seventh in A major
 ::::
-:::
 
+:::
 :::{admonition} Solution
 :name: m11643-id1169998551566
 :class: solution
@@ -136,7 +135,6 @@ The following chord progression is in the key of G major. Identify the relations
 ![Music notation example](../images/cnx/6501b4d7908b0c6f65b1dcfcfd71dec1968f8339.png)
 
 ::::
-:::
 :::
 
 ## Minor Keys
@@ -197,14 +195,12 @@ The point of the [harmonic minor](ch-31-minor-keys-and-scales.md) scale is to fa
 
 You can begin practicing harmonic analysis by practicing identifying whether a piece is in the major key or in its relative minor. Pick any piece of music for which you have the written music, and use the following steps to determine whether the piece is major or minor:
 
-::: {#m11643-element-634}
 - Identify the chords used in the piece, particularly at the very end, and at other important [cadences](ch-41-cadence.md) (places where the music comes to a stopping or resting point). This is an important first step that may require practice before you become good at it. Try to start with simple music which either includes the names of the chords, or has simple chords in the accompaniment that will be relatively easy to find and name. If the chords are not named for you and you need to review how to name them just by looking at the written notes, see [Naming Triads](ch-37-naming-triads.md) and [Beyond Triads](ch-39-beyond-triads-naming-other-chords.md).
 - Find the [key signature](ch-04-key-signature.md).
 - Determine both the [major key](ch-30-major-keys-and-scales.md) represented by that key signature, and its [relative minor](ch-31-minor-keys-and-scales.md) (the minor key that has the same key signature).
 - Look at the very end of the piece. Most pieces will end on the tonic chord. If the final chord is the tonic of either the major or minor key for that key signature, you have almost certainly identified the key.
 - If the final chord is not the tonic of either the major or the minor key for that key signature, there are two possibilities. One is that the music is not in a major or minor key! Music from other cultures, as well as some jazz, folk, modern, and pre-[Baroque](https://cnx.org/content/m14737) European music are based on other modes or scales. (Please see [Modes and Ragas](ch-45-modes-and-ragas.md) and [Scales that aren't Major or Minor](ch-35-scales-that-are-not-major-or-minor.md) for more about this.) If the music sounds at all \"exotic\" or \"unusual\", you should suspect that this may be the case.
 - If the final chord is not the tonic of either the major or the minor key for that key signature, but you still suspect that it is in a major or minor key (for example, perhaps it has a \"repeat and fade\" ending which avoids coming to rest on the tonic), you may have to study the rest of the music in order to discern the key. Look for important cadences before the end of the music (to identify I). You may be able to identify, just by listening, when the piece sounds as if it is approaching and landing on its \"resting place\". Also look for chords that have that \"dominant seventh\" flavor (to identify V). Look for the specific [accidentals](ch-03-pitch-sharp-flat-and-natural-notes.md) that you would expect if the [harmonic minor](ch-31-minor-keys-and-scales.md) or [melodic minor](ch-31-minor-keys-and-scales.md) scales were being used. Check to see whether the major or minor chords are emphasized overall. Put together the various clues to reach your final decision, and check it with your music teacher or a musician friend if possible.
-:::
 
 ## Modulation
 

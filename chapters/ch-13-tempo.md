@@ -26,7 +26,6 @@ A tempo marking that is a word or phrase gives you the composer\'s idea of **how
 
 Traditionally, tempo instructions are given in Italian.
 
-::: {#m11648-l0a}
 - **Grave** - very slow and solemn (pronounced \"GRAH-vay\")
 - **Largo** - slow and broad (\"LAR-go\")
 - **Larghetto** - not quite as slow as largo (\"lar-GET-oh\")
@@ -42,13 +41,11 @@ Traditionally, tempo instructions are given in Italian.
 
 These terms, along with a little more Italian, will help you decipher most tempo instructions.
 
-::: {#m11648-l1b}
 - **(un) poco** - a little (\"oon POH-koe\")
 - **molto** - a lot (\"MOLE-toe\")
 - **piu** - more (\"pew\")
 - **meno** - less (\"MAY-no\")
 - **mosso** - literally \"moved\"; motion or movement (\"MOE-so\")
-:::
 
 :::{admonition} Practice
 :name: m11648-exer1a
@@ -80,13 +77,11 @@ Check to see how comfortable you are with Italian tempo markings by translating 
 :::
 
 Of course, tempo instructions don\'t have to be given in Italian. Much folk, popular, and modern music, gives instructions in English or in the composer\'s language. Tempo indications such as \"Not too fast\", \"With energy\", \"Calmly\", or \"March tempo\" give a good idea of how fast the music should feel.
-:::
 
 ## Gradual Tempo Changes
 
 If the tempo of a piece of music suddenly changes into a completely different tempo, there will be a new tempo given, usually marked in the same way (metronome tempo, Italian term, etc.) as the original tempo. Gradual changes in the basic tempo are also common in music, though, and these have their own set of terms. These terms often appear below the staff, although writing them above the staff is also allowed. These terms can also appear with modifiers like molto or un poco. You may notice that there are quite a few terms for slowing down. Again, the use of these terms will vary from one composer to the next; unless beginning and ending tempo markings are included, the performer must simply use good musical judgement to decide how much to slow down in a particular ritardando or rallentando.
 
-::: {#m11648-l3a}
 - **accelerando** - (abbreviated accel.) accelerating; getting faster
 - **ritardando** - (abbrev. rit.) slowing down
 - **ritenuto** - (abbrev. riten.) slower
@@ -94,4 +89,3 @@ If the tempo of a piece of music suddenly changes into a completely different te
 - **rubato** - don\'t be too strict with the rhythm; while keeping the basic tempo, allow the music to gently speed up and relax in ways that emphasize the phrasing
 - **poco a poco** - little by little; gradually
 - **Tempo I** - (\"tempo one\" or \"tempo primo\") back to the original tempo (this instruction usually appears above the staff)
-:::

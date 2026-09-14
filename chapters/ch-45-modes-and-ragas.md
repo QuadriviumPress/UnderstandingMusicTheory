@@ -103,12 +103,10 @@ You need to know your [major keys](ch-30-major-keys-and-scales.md) and [interval
 4.  List the flats or sharps in this key signature.
 5.  Write one octave of notes in this mode. You may print out this [PDF file](../images/cnx/e5b6335c0813bd7797983b645d24962d8ad96e93.pdf) if you need staff paper. Check to make sure that your \"modal scale\" agrees with all the things that you have written about it already.
 
-::: {#m11633-element-783}
 1.  D major has 2 sharps: F sharp and C sharp.
 2.  Looking at the referenced item, you can see that the Lydian mode starts on an F. The key of F major would have a B flat, but in the mode this is raised one half step, to B natural. Therefore **the fourth degree of the Lydian mode is raised one half step**.
 3.  F lydian has the same key signature as C major, which is a perfect fourth lower. So all Lydian modes have the same key signature as the major key a perfect fourth below them.
 4.  We want D Lydian. The major scale beginning a perfect fourth below D major is A major. A major has three sharps: F sharp, C sharp and G sharp. Adding a G sharp does raise the fourth degree of the scale by one half step, just as predicted in step 2.
-::::
 
 ![Music notation example](../images/cnx/558e6f2c6a3eafd3ed35b1210cffe8d86bc43c71.png)
 
@@ -116,15 +114,15 @@ You need to know your [major keys](ch-30-major-keys-and-scales.md) and [interval
 2.  C Lydian
 3.  B flat Mixolydian
 4.  D Phrygian
-:::
+::::
 
+:::
 :::{admonition} Solution
 :name: m11633-id8644302
 :class: solution
 
 ![Music notation example](../images/cnx/e9894136bc007b193b98096a1299c00b13ba8221.png)
 
-:::
 :::
 
 ## The Ragas of Classical Indian Music

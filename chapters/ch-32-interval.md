@@ -134,7 +134,6 @@ Listen to the [octave](../images/cnx/66640adc67987eeaf877f6d4f75dfaf172c9cb24.mp
 
 Seconds, thirds, sixths, and sevenths can be *major intervals* or *minor intervals*. The minor interval is always a half-step smaller than the major interval.
 
-::: {#m10867-list22a}
 - 1 half-step = minor second (m2)
 - 2 half-steps = major second (M2)
 - 3 half-steps = minor third (m3)
@@ -243,15 +242,12 @@ You have probably noticed by now that the tritone is not the only interval that 
 
 Any interval can be written in a variety of ways using <a href="ch-05-enharmonic-spelling.md">enharmonic</a> spelling. Always classify the interval as it is written.
 
-:::
-
 ## Inverting Intervals
 
 To *invert* any interval, simply imagine that one of the notes has moved one octave, so that the higher note has become the lower and vice-versa. Because inverting an interval only involves moving one note by an octave (it is still essentially the \"same\" note in the tonal system), intervals that are *inversions* of each other have a very close relationship in the [tonal](ch-28-octaves-and-the-major-minor-tonal-system.md) system.
 
 ![Music notation example](../images/cnx/57c3afee0d3d8890000a64ea020ceeb925b9cb44.png)
 
-::: {#m10867-l3a}
 1.  To name the new interval, subtract the name of the old interval from 9.
 2.  The inversion of a perfect interval is still perfect.
 3.  The inversion of a major interval is minor, and of a minor interval is major.
@@ -293,7 +289,6 @@ What are the inversions of the following intervals?
 5.  Major third
 ::::
 :::
-:::
 
 ## Summary
 
@@ -318,20 +313,14 @@ Here is a quick summary of the above information, for reference.
 
 The examples given name the note reached if one starts on C, and goes up the named interval.
 
-::: {#m10867-eip-390}
 - A perfect prime is often called a unison. It is two notes of the same pitch.
 - A perfect octave is often simply called an octave. It is the next \"note with the same name\".
 - Perfect intervals - unison, fourth, fifth, and octave - are never called major or minor
 
-::: {#m10867-eip-651}
 - An augmented interval is one half step larger than the perfect or major interval.
 - A diminished interval is one half step smaller than the perfect or minor interval.
-:::
 
-::: {#m10867-eip-769}
 - To find the inversion\'s number name, subtract the interval number name from 9.
 - Inversions of perfect intervals are perfect.
 - Inversions of major intervals are minor, and inversions of minor intervals are major.
 - Inversions of augmented intervals are diminished, and inversions of diminished intervals are augmented.
-:::
-:::
