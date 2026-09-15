@@ -14,7 +14,7 @@ project:
         literal: QuadriviumPress
   license: CC-BY-2.0
   open_access: true
-  github: QuadriviumPress/UnderstandingMusicTheory
+  github: QuadriviumPress/understandingMusicTheory
   keywords:
     - music theory
     - music notation
@@ -106,5 +106,5 @@ site:
       url: https://github.com/cnx-user-books/cnxbook-understanding-basic-music-theory
   nav:
     - title: Sources & Attribution
-      url: https://github.com/QuadriviumPress/UnderstandingMusicTheory/blob/main/SOURCES.md
+      url: https://github.com/QuadriviumPress/understandingMusicTheory/blob/main/SOURCES.md
 
